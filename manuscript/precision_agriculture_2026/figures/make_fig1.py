@@ -1,147 +1,219 @@
-"""Fig. 1: (a) study design and data roles, (b) agreement-gated hierarchical decision rule with explicit branches.
+"""Fig. 1: study design (a) and the agreement-gated system as a modular schematic (b).
 
-Vector schematic drawn in matplotlib (SVG editable in Inkscape/PowerPoint). Output counts in panel b are the pooled external
-results (860 images) from ../analysis/ms_revision.json.
+Layout is drawn in millimetre coordinates on a 174 mm wide canvas. Semantic colours: blue = expert L, orange = expert G61,
+purple = agreement system, green = healthy, grey = referral; neutral grey for design scaffolding. Panel b traces one real
+external image (Roboflow new-wheat-disease v2, CC BY 4.0; the same image as Fig. 4e) through the system using its cached
+expert outputs, and shows the distribution of the 860 external images over the four outputs (ms_revision.json).
+Exports PDF/SVG (editable vector) and 600-dpi PNG/TIFF.
 """
 import json
+import sys
 from pathlib import Path
 
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt  # noqa: E402
-from matplotlib.patches import FancyArrowPatch, FancyBboxPatch  # noqa: E402
+import numpy as np  # noqa: E402
+from matplotlib.patches import FancyArrowPatch, FancyBboxPatch, Polygon, Rectangle, Circle  # noqa: E402
+from PIL import Image, ImageOps  # noqa: E402
 
 HERE = Path(__file__).resolve().parent
+ROOT = HERE.parents[2]
 REV = json.loads((HERE.parent / 'analysis' / 'ms_revision.json').read_text())
-# example input: stripe rust photo from Roboflow new-wheat-disease v2 (CC BY 4.0; Fig. 4e)
-EXAMPLE = HERE.parents[3] / 'shared/datasets/extra_staging_c/targeted_rust_20260927/new-wheat-disease-v2/train/stripe145_jpg.rf.eee2edbfdf2344d04fdb64d6269b7684.jpg'
+EXAMPLE = ROOT.parent / 'shared/datasets/extra_staging_c/targeted_rust_20260927/new-wheat-disease-v2/train/stripe145_jpg.rf.eee2edbfdf2344d04fdb64d6269b7684.jpg'
 MM = 1 / 25.4
-plt.rcParams.update({'font.family': 'Arial', 'font.size': 8, 'pdf.fonttype': 42, 'svg.fonttype': 'none', 'mathtext.default': 'regular'})
-INK, MUTED = '#0b0b0b', '#52514e'
-COL = {'L': '#2a78d6', 'G': '#eb6834', 'S': '#4a3aa7', 'R': '#9a9993', 'H': '#1baf7a'}
-FILL = {'L': '#eef4fc', 'G': '#fdf0ea', 'S': '#f1effa', 'R': '#f4f4f2', 'H': '#e8f7f1', 'D': '#ffffff'}
+W, H = 174, 156
+plt.rcParams.update({'font.family': 'Arial', 'font.size': 7, 'pdf.fonttype': 42, 'svg.fonttype': 'none', 'mathtext.default': 'regular'})
+
+INK, MUTED, FAINT = '#1d1c1a', '#5d5c58', '#9a9993'
+L_C, L_BG = '#2a78d6', '#eaf2fc'
+G_C, G_BG = '#e0602a', '#fdefe7'
+S_C, S_BG, S_MID = '#4a3aa7', '#efedf9', '#8577e0'
+H_C = '#1baf7a'
+R_C, R_BG = '#9a9993', '#f2f1ee'
+ZONE = '#f7f7f5'
 
 
-def box(ax, x, y, w, h, title, body='', edge=MUTED, fill='#ffffff', fs=7.6, ls='-', lw=1.0, title_color=INK, align='center', gap=None, top=0.022):
-    ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle='round,pad=0.004,rounding_size=0.010', linewidth=lw,
-                                edgecolor=edge, facecolor=fill, linestyle=ls))
-    tx = x + w / 2 if align == 'center' else x + 0.008
-    if body:
-        ax.text(tx, y + h - top, title, ha=align, va='top', fontsize=fs, fontweight='bold', color=title_color)
-        ax.text(tx, y + h - top - (gap if gap else 0.052 * fs / 6.8), body, ha=align, va='top', fontsize=fs - 0.5, color=INK, linespacing=1.35)
-    else:
-        ax.text(tx, y + h / 2, title, ha=align, va='center', fontsize=fs, color=INK, linespacing=1.35)
+def card(ax, x, y, w, h, fc='white', ec=FAINT, lw=0.8, ls='-', r=1.6, z=2):
+    ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle=f'round,pad=0,rounding_size={r}', fc=fc, ec=ec, lw=lw, ls=ls, zorder=z))
 
 
-def arrow(ax, a, b, color=MUTED, ls='-', lw=0.9, label=None, lpos=0.5, loff=(0.0, 0.012), rad=0.0):
-    ax.add_patch(FancyArrowPatch(a, b, arrowstyle='-|>', mutation_scale=7, linewidth=lw, color=color, linestyle=ls,
-                                 connectionstyle=f'arc3,rad={rad}', shrinkA=0, shrinkB=0))
-    if label:
-        ax.text(a[0] + (b[0] - a[0]) * lpos + loff[0], a[1] + (b[1] - a[1]) * lpos + loff[1], label, fontsize=7, color=color,
-                ha='center', va='center', fontweight='bold', bbox=dict(boxstyle='square,pad=0.1', fc='white', ec='none'))
+def header(ax, x, y, w, text, color, h=5.2):
+    ax.add_patch(FancyBboxPatch((x, y - h), w, h, boxstyle='round,pad=0,rounding_size=1.6', fc=color, ec='none', zorder=3))
+    ax.add_patch(Rectangle((x, y - h), w, h / 2, fc=color, ec='none', zorder=3))
+    ax.text(x + 2, y - h / 2, text, color='white', fontsize=7.4, fontweight='bold', va='center', ha='left', zorder=4)
 
 
-def chip(ax, x, y, text, color):
-    ax.text(x, y, text, fontsize=6.8, color='white', ha='left', va='center', fontweight='bold',
-            bbox=dict(boxstyle='round,pad=0.18,rounding_size=0.25', fc=color, ec='none'))
+def arrow(ax, a, b, color=MUTED, lw=0.9, ls='-', rad=0.0, z=5, ms=7):
+    ax.add_patch(FancyArrowPatch(a, b, arrowstyle='-|>', mutation_scale=ms, lw=lw, color=color, ls=ls,
+                                 connectionstyle=f'arc3,rad={rad}', shrinkA=0, shrinkB=0, zorder=z))
+
+
+def chip(ax, x, y, text, color, fs=6.6):
+    ax.text(x, y, text, fontsize=fs, color='white', fontweight='bold', ha='left', va='center', zorder=6,
+            bbox=dict(boxstyle='round,pad=0.25,rounding_size=0.6', fc=color, ec='none'))
+
+
+def zone(ax, x, y, w, h, title):
+    card(ax, x, y, w, h, fc=ZONE, ec='#e3e2dd', lw=0.6, r=2.2, z=0)
+    ax.text(x + 2.2, y + h - 2.6, title, fontsize=6.8, color=MUTED, fontweight='bold', va='center', ha='left')
 
 
 def panel_a(ax):
-    ax.set_xlim(-0.01, 1.01); ax.set_ylim(0, 1); ax.axis('off')
-    ax.text(-0.005, 0.99, 'a', fontweight='bold', fontsize=9, va='top')
-    ax.text(0.025, 0.99, 'Study design and data roles', fontweight='bold', fontsize=8.5, va='top')
-    y, h = 0.17, 0.62
-    items = [
-        (0.000, 0.185, 'Training data (expert L)', 'WFD2020, other two folds\n(600 per fold)\nCerealConv (999)\nMendeley leaf (406)\niNaturalist (611)', COL['L'], FILL['L']),
-        (0.205, 0.185, 'Development', 'EVAL450: 450 images,\n8 WFD2020 sources,\n3 source-held folds\nRule design, threshold\nselection, nested CV', COL['S'], FILL['S']),
-        (0.410, 0.135, 'Freeze', 'Prompt, model\nensemble, rule\nand thresholds\nfixed; protocol\ntime-stamped', MUTED, '#ffffff'),
-        (0.565, 0.215, 'External tests (each once)', 'iNat: 68 new observations\nETS: 552 images, 6 sources\nETS2: 240 field images,\nHenan, China\nde-duplicated vs all pools', COL['S'], '#ffffff'),
-        (0.800, 0.200, 'Retrospective analyses', 'All 1,310 images, 16 sources\nLeave-one-source-out\narbiters; K labelled images\nper source for\nrule selection', COL['R'], FILL['R']),
-    ]
-    for x, w, t, b, e, f in items:
-        box(ax, x, y, w, h, t, b, edge=e, fill=f, fs=7.6, ls='--' if t.startswith('Retro') else '-', gap=0.15, top=0.05)
-    for x0, x1 in ((0.185, 0.205), (0.390, 0.410), (0.545, 0.565), (0.780, 0.800)):
-        arrow(ax, (x0, y + h / 2), (x1, y + h / 2))
-    ax.plot([0.0, 0.78], [0.045, 0.045], color=COL['S'], lw=1.6, solid_capstyle='butt')
-    ax.text(0.39, 0.0, 'prespecified analyses', ha='center', va='bottom', fontsize=7, color=COL['S'], style='italic',
-            bbox=dict(fc='white', ec='none', pad=0.6))
-    ax.plot([0.80, 1.0], [0.045, 0.045], color=COL['R'], lw=1.6, ls=(0, (3, 1.5)))
-    ax.text(0.90, 0.0, 'after all external tests', ha='center', va='bottom', fontsize=7, color=MUTED, style='italic',
-            bbox=dict(fc='white', ec='none', pad=0.6))
+    ax.text(1, H - 2, 'a', fontweight='bold', fontsize=9, va='top')
+    ax.text(5, H - 2.1, 'Study design', fontweight='bold', fontsize=8.5, va='top', color=INK)
+    y0, h = 125, 19
+    phases = [('1', 'Train expert L', '2,616 public images per fold\n(WFD2020 other folds, CerealConv,\nMendeley leaf, iNaturalist)', L_C),
+              ('2', 'Develop and freeze', 'EVAL450: 450 images, 8 sources\nsource-held nested CV; rule,\nthresholds and prompt frozen', S_C),
+              ('3', 'External tests', 'iNat 68 · ETS 552 · ETS2 240\nde-duplicated, rules time-\nstamped, each evaluated once', INK),
+              ('4', 'Retrospective', '1,310 images, 16 sources\nleave-one-source-out fusion\nand K-shot rule selection', R_C)]
+    x, w, d = 2, 41.5, 4.0
+    for k, (num, title, body, col) in enumerate(phases):
+        pts = [(x, y0), (x + w - d, y0), (x + w, y0 + h / 2), (x + w - d, y0 + h), (x, y0 + h)]
+        if k:
+            pts.append((x + d, y0 + h / 2))
+        dashed = num == '4'
+        ax.add_patch(Polygon(pts, closed=True, fc='white' if not dashed else R_BG, ec=col, lw=1.0, ls='--' if dashed else '-', zorder=2))
+        cx = x + (d if k else 0) + 4.2
+        ax.add_patch(Circle((cx, y0 + h - 4.2), 2.4, fc=col, ec='none', zorder=3))
+        ax.text(cx, y0 + h - 4.2, num, color='white', fontsize=7, fontweight='bold', ha='center', va='center', zorder=4)
+        ax.text(cx + 3.6, y0 + h - 4.2, title, fontsize=7.6, fontweight='bold', va='center', color=INK)
+        ax.text(x + (d if k else 0) + 2.4, y0 + h - 8.6, body, fontsize=6.4, va='top', color=INK, linespacing=1.25)
+        x += w + 1.2
+    ax.plot([2, 128.6], [121.5, 121.5], color=S_C, lw=1.3, solid_capstyle='butt')
+    ax.text(65, 121.5, ' prespecified, in time order ', fontsize=6.6, color=S_C, style='italic', ha='center', va='center',
+            bbox=dict(fc='white', ec='none', pad=0.3))
+    ax.plot([129.8, 172], [121.5, 121.5], color=R_C, lw=1.3, ls=(0, (3, 1.6)))
+    ax.text(151, 121.5, ' after all tests ', fontsize=6.6, color=MUTED, style='italic', ha='center', va='center',
+            bbox=dict(fc='white', ec='none', pad=0.3))
 
 
 def panel_b(ax):
-    ax.set_xlim(-0.01, 1.01); ax.set_ylim(0, 1); ax.axis('off')
-    ax.text(-0.005, 0.995, 'b', fontweight='bold', fontsize=9, va='top')
-    ax.text(0.025, 0.995, 'Agreement-gated hierarchical decision rule', fontweight='bold', fontsize=8.5, va='top')
+    top = 114
+    ax.text(1, top + 1.5, 'b', fontweight='bold', fontsize=9, va='top')
+    ax.text(5, top + 1.4, 'Agreement-gated hierarchical diagnosis', fontweight='bold', fontsize=8.5, va='top', color=INK)
+    zt, zb = top - 6, 2
+    zone(ax, 1, zb, 25, zt - zb, 'INPUT')
+    zone(ax, 28, zb, 50, zt - zb, 'HETEROGENEOUS EXPERTS')
+    zone(ax, 80, zb, 56, zt - zb, 'AGREEMENT GATES')
+    zone(ax, 138, zb, 35, zt - zb, 'OUTPUT (860 IMAGES)')
+
+    # input: real example image
+    im = ImageOps.exif_transpose(Image.open(EXAMPLE)).convert('RGB'); w0, h0 = im.size; s = min(w0, h0)
+    im = im.crop(((w0 - s) // 2, (h0 - s) // 2, (w0 - s) // 2 + s, (h0 - s) // 2 + s)).resize((500, 500))
+    ix, iy, isz = 3.0, 55, 21
+    ax.imshow(im, extent=(ix, ix + isz, iy, iy + isz), zorder=3)
+    ax.add_patch(Rectangle((ix, iy), isz, isz, fc='none', ec=MUTED, lw=0.6, zorder=4))
+    ax.text(ix + isz / 2, iy - 1.6, 'single RGB photo\nno source metadata', fontsize=6.6, ha='center', va='top', color=INK, linespacing=1.2)
+    ax.text(ix + isz / 2, iy - 9.4, 'example: ETS image,\nlabel stripe rust', fontsize=6.4, ha='center', va='top', color=MUTED, style='italic', linespacing=1.2)
+
+    # expert L card
+    lx, ly, lw_, lh = 30, 57, 46, 45
+    card(ax, lx, ly, lw_, lh, ec=L_C, lw=1.0); header(ax, lx, ly + lh, lw_, 'Expert L · vision foundation model', L_C)
+    gx, gy = lx + 2.5, ly + lh - 15.5  # architecture glyph: patches -> transformer -> head
+    for i in range(4):
+        for j in range(4):
+            ax.add_patch(Rectangle((gx + i * 1.9, gy + j * 1.9), 1.6, 1.6, fc=L_BG, ec=L_C, lw=0.4, zorder=3))
+    arrow(ax, (gx + 8.2, gy + 3.7), (gx + 10.4, gy + 3.7), L_C, lw=0.7, ms=5)
+    for k in range(4):
+        ax.add_patch(FancyBboxPatch((gx + 11 + k * 1.3, gy + 0.2 + k * 0.5), 9.5, 6.4, boxstyle='round,pad=0,rounding_size=0.6',
+                                    fc='white' if k < 3 else L_BG, ec=L_C, lw=0.5, zorder=3 + k))
+    ax.text(gx + 20.6, gy + 4.6, 'DINOv3\nViT-B/16', fontsize=6.2, ha='center', va='center', color=INK, zorder=8, linespacing=1.1)
+    ax.text(gx + 16.5, gy - 1.3, 'fine-tuned · 9-model ensemble', fontsize=6.2, ha='center', va='top', color=MUTED)
+    arrow(ax, (gx + 26.5, gy + 3.7), (gx + 28.7, gy + 3.7), L_C, lw=0.7, ms=5)
+    ax.add_patch(FancyBboxPatch((gx + 29.2, gy + 1.2), 9.6, 5, boxstyle='round,pad=0,rounding_size=0.6', fc=L_BG, ec=L_C, lw=0.5, zorder=3))
+    ax.text(gx + 34, gy + 3.7, '6 sigmoid', fontsize=6.1, ha='center', va='center', color=INK, zorder=4)
+    # probability bars of the example
+    probs = [('healthy', 0.0), ('leaf rust', 0.034), ('powdery m.', 0.0), ('septoria', 0.0), ('stem rust', 0.001), ('stripe rust', 0.998)]
+    by0, bh, bx0, bwmax = ly + 2.0, 2.3, lx + 15, 24
+    for k, (n, p) in enumerate(probs[::-1]):
+        yy = by0 + k * (bh + 0.4)
+        ax.text(bx0 - 1, yy + bh / 2, n, fontsize=6.3, ha='right', va='center', color=INK)
+        ax.add_patch(Rectangle((bx0, yy), bwmax, bh, fc='#f1f0ec', ec='none', zorder=3))
+        ax.add_patch(Rectangle((bx0, yy), max(p * bwmax, 0.25), bh, fc=L_C if p > 0.5 else '#9cc0ea', ec='none', zorder=4))
+        ax.text(bx0 + bwmax + 0.8, yy + bh / 2, f'{p:.2f}', fontsize=6.2, ha='left', va='center', color=INK if p > 0.5 else MUTED)
+    ax.text(lx + 2.5, ly + 20.8, '$P_L$ for the example', fontsize=6.4, color=L_C, fontweight='bold', va='center')
+
+    # expert G61 card
+    gx0, gy0, gw, gh = 30, 6, 46, 46
+    card(ax, gx0, gy0, gw, gh, ec=G_C, lw=1.0); header(ax, gx0, gy0 + gh, gw, 'Expert G61 · multimodal LLM', G_C)
+    ax.add_patch(FancyBboxPatch((gx0 + 2.5, gy0 + gh - 13.2), gw - 5, 5.6, boxstyle='round,pad=0,rounding_size=0.8', fc=G_BG, ec=G_C, lw=0.5, zorder=3))
+    ax.text(gx0 + gw / 2, gy0 + gh - 10.4, 'gpt-6.1-sol · frozen prompt · JSON schema', fontsize=6.3, ha='center', va='center', color=INK, zorder=4)
+    ax.text(gx0 + gw / 2, gy0 + gh - 15.3, 'no task-specific training; tools disabled', fontsize=6.2, ha='center', va='center', color=MUTED)
+    js = ['{"primary": "yellow_rust",', ' "confidence": 98,', ' "pustule_color": "yellow",', ' "necrotic_blotches": false, …}']
+    ax.add_patch(FancyBboxPatch((gx0 + 2.5, gy0 + 2.4), gw - 5, 21.5, boxstyle='round,pad=0,rounding_size=0.8', fc='#fbfaf8', ec='#e3e2dd', lw=0.5, zorder=3))
+    ax.text(gx0 + 4, gy0 + 21.4, 'JSON output for the example', fontsize=6.4, color=G_C, fontweight='bold', va='center', zorder=4)
+    for k, line in enumerate(js):
+        ax.text(gx0 + 4, gy0 + 17.2 - k * 3.6, line, fontsize=6.3, family='Courier New', va='center', color=INK, zorder=4)
+
+    # input -> experts
+    arrow(ax, (ix + isz, iy + isz * 0.7), (lx, ly + lh * 0.55), L_C, lw=1.0)
+    arrow(ax, (ix + isz, iy + isz * 0.3), (gx0, gy0 + gh * 0.6), G_C, lw=1.0)
+
+    # gates
+    gtx, gtw = 84, 44
+    gates = [('1', 'Health status', 'L top class = healthy, $P_L$ ≥ $\\tau_h$\nand G61 says healthy', 82, ['L', 'G61'], 'not healthy → gate 2'),
+             ('2', 'Disease group', 'L disease score ≥ $\\tau_d$ and group\nscore ≥ $\\tau_g$; G61 names same group', 52, ['L', 'G61'], 'both say rust → gate 3'),
+             ('3', 'Rust type', 'L and G61 name the same rust\nand G61 confidence ≥ 95', 22, ['L', 'G61'], 'same rust, conf. 98')]
+    gh_ = 21
+    for num, title, rule, yy, chips, trace in gates:
+        card(ax, gtx, yy, gtw, gh_, ec=S_C, lw=1.0)
+        ax.add_patch(FancyBboxPatch((gtx, yy), 6.5, gh_, boxstyle='round,pad=0,rounding_size=1.6', fc=S_C, ec='none', zorder=3))
+        ax.add_patch(Rectangle((gtx + 3, yy), 3.5, gh_, fc=S_C, ec='none', zorder=3))
+        ax.text(gtx + 3.25, yy + gh_ / 2, num, color='white', fontsize=9, fontweight='bold', ha='center', va='center', zorder=4)
+        ax.text(gtx + 8.5, yy + gh_ - 3.2, title, fontsize=7.4, fontweight='bold', va='center', color=INK)
+        cx = gtx + gtw - 2
+        for ch in chips[::-1]:
+            wch = 3.2 if ch == 'L' else 6.0
+            cx -= wch; chip(ax, cx, yy + gh_ - 3.2, ch, L_C if ch == 'L' else G_C, fs=6.2); cx -= 1.4
+        ax.text(gtx + 8.5, yy + gh_ - 6.6, rule, fontsize=6.5, va='top', color=INK, linespacing=1.3)
+        ax.text(gtx + 8.5, yy + 2.3, 'example: ' + trace, fontsize=6.3, va='center', color=S_C, fontweight='bold')
+    # experts -> gates (two buses)
+    arrow(ax, (lx + lw_, ly + lh * 0.75), (gtx, 82 + gh_ * 0.6), L_C, lw=0.9)
+    arrow(ax, (lx + lw_, ly + lh * 0.30), (gtx, 52 + gh_ * 0.6), L_C, lw=0.9)
+    arrow(ax, (gx0 + gw, gy0 + gh * 0.85), (gtx, 52 + gh_ * 0.35), G_C, lw=0.9)
+    arrow(ax, (gx0 + gw, gy0 + gh * 0.45), (gtx, 22 + gh_ * 0.5), G_C, lw=0.9)
+    # gate-to-gate flow (example path)
+    for ya, yb in ((82, 52 + gh_), (52, 22 + gh_)):
+        arrow(ax, (gtx + gtw / 2, ya), (gtx + gtw / 2, yb), S_C, lw=1.6, ms=8)
+
+    # output: stacked column of the 860 external images
     c = REV['composition']['external']; e = c['errors_by_level']; n = c['n']
-    # inputs and experts
-    box(ax, 0.000, 0.33, 0.100, 0.34, '', '', MUTED)
-    ax.text(0.050, 0.655, 'Input image', ha='center', va='top', fontsize=7.6, fontweight='bold', color=INK)
-    ax.text(0.050, 0.345, 'RGB photo,\nno metadata', ha='center', va='bottom', fontsize=7, color=INK, linespacing=1.3)
-    from PIL import Image as _I, ImageOps as _O
-    im = _O.exif_transpose(_I.open(EXAMPLE)).convert('RGB'); w0, h0 = im.size; sd = min(w0, h0)
-    im = im.crop(((w0 - sd) // 2, (h0 - sd) // 2, (w0 - sd) // 2 + sd, (h0 - sd) // 2 + sd)).resize((400, 400))
-    ins = ax.inset_axes([0.016, 0.425, 0.068, 0.185], transform=ax.transData); ins.imshow(im); ins.set_xticks([]); ins.set_yticks([])
-    for sp in ins.spines.values():
-        sp.set_linewidth(0.5); sp.set_color(MUTED)
-    box(ax, 0.125, 0.66, 0.185, 0.21, 'Expert L', 'DINOv3 ViT-B/16, fine-\ntuned on public images;\n9-model ensemble\n→ 6 class probabilities $P_L$',
-        COL['L'], FILL['L'], title_color=COL['L'])
-    box(ax, 0.125, 0.12, 0.185, 0.24, 'Expert G61', 'gpt-6.1-sol, frozen\nprompt, no task training\n→ label, confidence\n0–100, symptom report\n(JSON)',
-        COL['G'], FILL['G'], title_color=COL['G'])
-    arrow(ax, (0.100, 0.56), (0.125, 0.76)); arrow(ax, (0.100, 0.44), (0.125, 0.25))
-    # decision nodes
-    dx, dw = 0.345, 0.235
-    nodes = {
-        'q1': (0.74, 'L: top class is healthy and\n$P_L$(healthy) $\\geq \\tau_h$ ?', ['L']),
-        'q2': (0.535, 'L: top disease probability\n$\\geq \\tau_d$ ?', ['L']),
-        'q3': (0.305, 'L: top disease group score $\\geq \\tau_g$\nand G61 names the same group ?', ['L', 'G61']),
-        'q4': (0.075, 'Rust: L and G61 name the same\nrust type, G61 confidence $\\geq$ 95 ?', ['L', 'G61']),
-    }
-    hh = 0.135
-    for k, (yy, txt, chips) in nodes.items():
-        box(ax, dx, yy, dw, hh, txt, edge=COL['S'], fill='#ffffff', fs=7.2)
-        cx = dx + 0.006
-        for ch in chips:
-            chip(ax, cx, yy + hh - 0.014, ch, COL['L'] if ch == 'L' else COL['G']); cx += 0.022 if ch == 'L' else 0.034
-    q1b = (0.625, 0.74, 0.165)
-    box(ax, q1b[0], q1b[1], q1b[2], hh, 'G61 primary label\nis healthy ?', edge=COL['S'], fill='#ffffff', fs=7.2)
-    chip(ax, q1b[0] + 0.006, q1b[1] + hh - 0.014, 'G61', COL['G'])
-    arrow(ax, (0.310, 0.80), (dx, 0.80), COL['L']); arrow(ax, (0.310, 0.25), (dx, 0.36), COL['G'])
-    # outputs
-    ox, ow = 0.835, 0.165
-    outs = {
-        'H': (0.74, 'Healthy', f"{c['healthy']} of {n} external images\n({e.get('healthy', 0)} wrong)", COL['H'], FILL['H'], '-'),
-        'R': (0.47, 'Referred for review', f"{c['referred']} images\nno automatic label", COL['R'], FILL['R'], '--'),
-        'G': (0.03, 'Disease group: "rust"', f"{c['group']} images ({e.get('group', 0)} wrong)", COL['S'], FILL['S'], '-'),
-        'S': (0.235, 'Specific disease', f"{c['specific']} images ({e.get('specific', 0)} wrong)\nPM, septoria or rust type", COL['S'], '#e2ddf5', '-'),
-    }
-    oh = {'H': 0.135, 'R': 0.15, 'G': 0.125, 'S': 0.15}
-    for k, (yy, t, b, ec, fc, ls) in outs.items():
-        box(ax, ox, yy, ow, oh[k], t, b, edge=ec, fill=fc, ls=ls, fs=7.4, title_color=ec if k != 'S' else INK)
-    S = COL['S']; Rr = COL['R']
-    mid = lambda k: nodes[k][0] + hh / 2  # noqa: E731
-    arrow(ax, (dx + dw, mid('q1')), (q1b[0], mid('q1')), S, label='yes')
-    arrow(ax, (q1b[0] + q1b[2], mid('q1')), (ox, mid('q1')), COL['H'], label='yes')
-    arrow(ax, (q1b[0] + q1b[2] / 2, q1b[1]), (ox, 0.585), Rr, ls='--', label='no', lpos=0.35)
-    arrow(ax, (dx + dw / 2, nodes['q1'][0]), (dx + dw / 2, nodes['q2'][0] + hh), S, label='no', loff=(0.014, 0))
-    arrow(ax, (dx + dw, mid('q2')), (ox, 0.545), Rr, ls='--', label='no', lpos=0.55)
-    arrow(ax, (dx + dw / 2, nodes['q2'][0]), (dx + dw / 2, nodes['q3'][0] + hh), S, label='yes', loff=(0.016, 0))
-    arrow(ax, (dx + dw, mid('q3') + 0.03), (ox, 0.50), Rr, ls='--', label='no', lpos=0.55)
-    arrow(ax, (dx + dw, mid('q3') - 0.02), (ox, 0.335), S, label='yes: PM or septoria', lpos=0.45, loff=(0.0, 0.0))
-    arrow(ax, (dx + dw / 2, nodes['q3'][0]), (dx + dw / 2, nodes['q4'][0] + hh), S, label='yes: rust', loff=(0.03, 0))
-    arrow(ax, (dx + dw, mid('q4') + 0.03), (ox, 0.275), S, label='yes', lpos=0.5)
-    arrow(ax, (dx + dw, mid('q4') - 0.03), (ox, 0.09), S, label='no', lpos=0.5)
-    ax.text(0.42, 0.012, r'$\tau_h = \tau_d = \tau_g$ = 0.5 and the rust-type rule were selected on EVAL450 only, then frozen',
-            ha='center', va='bottom', fontsize=7, color=MUTED, style='italic')
+    segs = [('healthy', 'Healthy', H_C), ('specific', 'Specific disease', S_C), ('group', 'Disease group "rust"', S_MID), ('referred', 'Referred for review', R_C)]
+    bx, bw, y_top, y_bot = 141, 7, 99, 6
+    scale = (y_top - y_bot - 3 * 0.8) / n; yy = y_top; centers = {}
+    for key, lab, col in segs:
+        hh = c[key] * scale
+        ax.add_patch(Rectangle((bx, yy - hh), bw, hh, fc=col, ec='none', zorder=3))
+        centers[key] = yy - hh / 2
+        ne = e.get(key, 0); err = '' if key == 'referred' else '\n' + f"{ne} error" + ('s' if ne != 1 else '')
+        ax.text(bx + bw + 1.6, yy - hh / 2, f"{lab}\n{c[key]} ({100 * c[key] / n:.1f} %){err}", fontsize=6.4, va='center', ha='left',
+                color=INK, linespacing=1.2)
+        yy -= hh + 0.8
+    # gates -> outputs
+    arrow(ax, (gtx + gtw, 82 + gh_ * 0.75), (bx, centers['healthy']), H_C, lw=0.9)
+    arrow(ax, (gtx + gtw, 52 + gh_ * 0.6), (bx, centers['specific'] + 6), S_C, lw=0.9)
+    ax.text(gtx + gtw + 0.8, 52 + gh_ * 0.6 - 1.2, 'PM,\nseptoria', fontsize=6.0, color=S_C, ha='left', va='top', linespacing=1.05)
+    arrow(ax, (gtx + gtw, 22 + gh_ * 0.72), (bx, centers['specific'] - 6), S_C, lw=1.6, ms=8)
+    ax.text(gtx + gtw + 1.2, 22 + gh_ * 0.72 + 1.0, 'yes', fontsize=6.2, color=S_C, ha='left', va='bottom', fontweight='bold')
+    arrow(ax, (gtx + gtw, 22 + gh_ * 0.35), (bx, centers['group']), S_MID, lw=0.9)
+    ax.text(gtx + gtw + 1.2, 22 + gh_ * 0.35 - 1.0, 'no', fontsize=6.2, color=S_MID, ha='left', va='top', fontweight='bold')
+    # referral bus: any failed gate
+    rbx = gtx + gtw + 4.5
+    for yy_ in (82 + gh_ * 0.25, 52 + gh_ * 0.2):
+        ax.plot([gtx + gtw, rbx], [yy_, yy_], color=R_C, lw=0.8, ls=(0, (2.5, 1.5)), zorder=4)
+    ax.plot([rbx, rbx], [82 + gh_ * 0.25, 12.5], color=R_C, lw=0.8, ls=(0, (2.5, 1.5)), zorder=4)
+    arrow(ax, (rbx, 12.5), (bx, 12.5), R_C, lw=0.8, ls=(0, (2.5, 1.5)))
+    ax.text(rbx - 1.0, 14.5, 'any gate\nfails', fontsize=6.0, color=MUTED, ha='right', va='bottom', linespacing=1.1)
+    ax.text(86, 4.2, 'Frozen: $\\tau_h = \\tau_d = \\tau_g$ = 0.5, selected on EVAL450 only', fontsize=6.3, color=MUTED, style='italic', va='center')
 
 
 def main() -> None:
-    fig = plt.figure(figsize=(174 * MM, 158 * MM))
-    ax_a = fig.add_axes([0.0, 0.74, 1.0, 0.26]); ax_b = fig.add_axes([0.0, 0.0, 1.0, 0.72])
-    panel_a(ax_a); panel_b(ax_b)
+    fig = plt.figure(figsize=(W * MM, H * MM))
+    ax = fig.add_axes([0, 0, 1, 1]); ax.set_xlim(0, W); ax.set_ylim(0, H); ax.axis('off'); ax.set_aspect('equal')
+    panel_a(ax); panel_b(ax)
     for ext, kw in (('pdf', {}), ('svg', {}), ('png', {'dpi': 600}), ('tif', {'dpi': 600, 'pil_kwargs': {'compression': 'tiff_lzw'}})):
-        fig.savefig(HERE / f'Fig1.{ext}', bbox_inches='tight', pad_inches=0.02, **kw)
+        fig.savefig(HERE / f'Fig1.{ext}', pad_inches=0, **kw)
 
 
 if __name__ == '__main__':

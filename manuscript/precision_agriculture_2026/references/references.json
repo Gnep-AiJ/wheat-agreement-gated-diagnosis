@@ -69,6 +69,10 @@
   "text": "jayaprakashpondy (2023). *Wheat leaf disease* (Version 1) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/jayaprakashpondy/wheat-leaf-disease. Last accessed 8 October 2026",
   "cite": "jayaprakashpondy, 2023"
  },
+ "jia2026code": {
+  "text": "Jia, P., & Zhang, P. (2026). *Agreement-gated fusion of a vision foundation model and a multimodal LLM for wheat disease diagnosis: Code, frozen prompt and cached outputs* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23235119",
+  "cite": "Jia & Zhang, 2026"
+ },
  "kuncheva2003": {
   "text": "Kuncheva, L. I., & Whitaker, C. J. (2003). Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy. *Machine Learning*, *51*(2), 181–207. https://doi.org/10.1023/A:1022859003006",
   "cite": "Kuncheva & Whitaker, 2003",

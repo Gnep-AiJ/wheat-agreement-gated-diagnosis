@@ -102,6 +102,8 @@ def main() -> None:
                              cite='OpenAI, 2026'),
         'arya2020': dict(text='Arya, S. (2020). *Wheat nitrogen deficiency and leaf rust image dataset* (Version 1) [Data set, CC BY 4.0]. Mendeley Data. https://doi.org/10.17632/th422bg4yd.1',
                          cite='Arya, 2020'),
+        'jia2026code': dict(text='Jia, P., & Zhang, P. (2026). *Agreement-gated fusion of a vision foundation model and a multimodal LLM for wheat disease diagnosis: Code, frozen prompt and cached outputs* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23235119',
+                            cite='Jia & Zhang, 2026'),
         'radowan2025': dict(text='Radowan, M. I. R., & Ayon, R. (2025). *Disease dataset of wheat: Original, augmented, and balanced for deep learning* (Version 1) [Data set, CC BY 4.0]. Mendeley Data. https://doi.org/10.17632/5gc7hwydwg.1',
                             cite='Radowan & Ayon, 2025'),
         'kushagra2024': dict(text=f'kushagra3204 (2024). *Wheat plant diseases* (Version 6) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases. Last accessed {ACCESSED}',

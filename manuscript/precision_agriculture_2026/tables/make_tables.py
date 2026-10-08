@@ -128,7 +128,7 @@ def table5():
                 header=['Strategy', 'Labelling needed at a new source', 'All sources', 'EVAL450', 'ETS', 'ETS2', 'iNat'], rows=rows,
                 notes=['Retrospective analysis on collections whose results had already been examined; learned components were always fitted on the other 15 sources, using cached expert outputs.',
                        f"Local rule selection chooses, per source, the most accurate of four fixed rules (L; G61 with L fallback; RAG with L fallback; majority vote) on K random labelled images and is evaluated on the remaining images (mean of 50 draws; for K = 10 the pooled accuracy of the central 95 % of draws was {pct(k10['pooled_p2_5'])}–{pct(k10['pooled_p97_5'])} %). Sources with fewer than 2K images use the majority vote (K = 10: {len(k10['fallback_sources'])} sources, {k10['fallback_images']} images).",
-                       'b Oracle references that use the true labels. RAG-based rules can exceed the two-expert bound because they draw on a third output; no rule can exceed the three-expert bound.'])
+                       'b Oracle references that use the true labels. RAG-based rules can exceed the two-expert bound because they draw on a third output; rules that only select among the answers of L, G61 and RAG cannot exceed the three-expert bound.'])
 
 
 def main() -> None:

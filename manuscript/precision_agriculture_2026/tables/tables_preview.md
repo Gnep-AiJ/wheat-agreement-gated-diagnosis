@@ -77,4 +77,4 @@ _Development estimate (source-held nested cross-validation on EVAL450): coverage
 
 _Retrospective analysis on collections whose results had already been examined; learned components were always fitted on the other 15 sources, using cached expert outputs._
 _Local rule selection chooses, per source, the most accurate of four fixed rules (L; G61 with L fallback; RAG with L fallback; majority vote) on K random labelled images and is evaluated on the remaining images (mean of 50 draws; for K = 10 the pooled accuracy of the central 95 % of draws was 78.7–84.4 %). Sources with fewer than 2K images use the majority vote (K = 10: 3 sources, 27 images)._
-_b Oracle references that use the true labels. RAG-based rules can exceed the two-expert bound because they draw on a third output; no rule can exceed the three-expert bound._
+_b Oracle references that use the true labels. RAG-based rules can exceed the two-expert bound because they draw on a third output; rules that only select among the answers of L, G61 and RAG cannot exceed the three-expert bound._

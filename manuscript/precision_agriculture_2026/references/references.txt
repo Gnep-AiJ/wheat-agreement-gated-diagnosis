@@ -11,6 +11,7 @@ Gupta, M., Mangla, A., Greer, R., & Desai, P. (2025). Self-consistency in vision
 Han, B., Zhu, C., Han, D., Yu, R., Cao, S., Wu, J., et al. (2025). FoMo4Wheat: Toward reliable crop vision foundation models with globally curated data. *arXiv* preprint arXiv:2509.06907. https://doi.org/10.48550/arXiv.2509.06907
 iNaturalist (2026). *iNaturalist API* (observations of wheat pathogens). https://api.inaturalist.org/v1/docs/. Last accessed 8 October 2026
 jayaprakashpondy (2023). *Wheat leaf disease* (Version 1) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/jayaprakashpondy/wheat-leaf-disease. Last accessed 8 October 2026
+Jia, P., & Zhang, P. (2026). *Agreement-gated fusion of a vision foundation model and a multimodal LLM for wheat disease diagnosis: Code, frozen prompt and cached outputs* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23235119
 Kuncheva, L. I., & Whitaker, C. J. (2003). Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy. *Machine Learning*, *51*(2), 181–207. https://doi.org/10.1023/A:1022859003006
 kushagra3204 (2024). *Wheat plant diseases* (Version 6) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases. Last accessed 8 October 2026
 Long, M., Hartley, M., Morris, R. J., & Brown, J. K. M. (2023). Classification of wheat diseases using deep learning networks with field and glasshouse images. *Plant Pathology*, *72*(3), 536–547. https://doi.org/10.1111/ppa.13684
