@@ -1,9 +1,9 @@
 ﻿#,Collection,Source,File,Label,L (p),G61 (conf.),System output,Visual note
-1,ETS,PlantWild v2 web (ETS),wheat_septoria_blotch_Bing_0069.jpg,Septoria,Powdery mildew (0.60),Powdery mildew (89),specific: powdery_mildew,septoria answered as powdery mildew
-2,ETS,PlantWild v2 web (ETS),wheat_septoria_blotch_blotch (44).jpg,Septoria,Stripe rust (0.91),Leaf rust (90),group: rust,source label questionable (rust pustules visible)
-3,ETS,PlantWild v2 web (ETS),wheat_stem_rust_Bing_0289.jpg,Stem rust,Leaf rust (0.93),Leaf rust (96),specific: leaf_rust,rust-type confusion
-4,ETS,Roboflow P. triticina v7 (ETS),033032-bottom-right_row03_col02_png.rf.a01243233610342236d5dc9930d080fd.jpg,Leaf rust,Healthy (0.93),Healthy (90),healthy: healthy,source label questionable (detached tile without visible lesions inherits the leaf-rust label)
-5,ETS2,Henan field 2023 (ETS2),LeafRust 0000519.jpg,Stripe rust,Leaf rust (0.99),Leaf rust (96),specific: leaf_rust,"source label questionable (scattered round pustules; file name ""LeafRust""; Fig. 4f)"
-6,iNat,iNaturalist (iNat),163145670.jpg,Leaf rust,Stripe rust (0.60),Stripe rust (96),specific: yellow_rust,rust-type confusion
-7,iNat,iNaturalist (iNat),195256388.jpg,Septoria,Stem rust (0.81),Stem rust (76),group: rust,septoria answered as rust group
-8,iNat,iNaturalist (iNat),90725248.jpg,Septoria,Leaf rust (0.70),Leaf rust (88),group: rust,septoria answered as rust group
+1,ETS,PlantWild v2 web (ETS),wheat_septoria_blotch_Bing_0069.jpg,Septoria,Powdery mildew (0.60),Powdery mildew (89),specific: powdery mildew,septoria answered as powdery mildew
+2,ETS,PlantWild v2 web (ETS),wheat_septoria_blotch_blotch (44).jpg,Septoria,Stripe rust (0.91),Leaf rust (90),disease group: rust,source label questionable (rust pustules visible)
+3,ETS,PlantWild v2 web (ETS),wheat_stem_rust_Bing_0289.jpg,Stem rust,Leaf rust (0.93),Leaf rust (96),specific: leaf rust,rust-type confusion
+4,ETS,Roboflow P. triticina v7 (ETS),033032-bottom-right_row03_col02_png.rf.a01243233610342236d5dc9930d080fd.jpg,Leaf rust,Healthy (0.93),Healthy (90),healthy,source label questionable (detached tile without visible lesions inherits the leaf-rust label)
+5,ETS2,Henan field 2023 (ETS2),LeafRust 0000519.jpg,Stripe rust,Leaf rust (0.99),Leaf rust (96),specific: leaf rust,"source label questionable (scattered round pustules; file name ""LeafRust""; Fig. 4f)"
+6,iNat,iNaturalist (iNat),163145670.jpg,Leaf rust,Stripe rust (0.60),Stripe rust (96),specific: stripe rust,rust-type confusion
+7,iNat,iNaturalist (iNat),195256388.jpg,Septoria,Stem rust (0.81),Stem rust (76),disease group: rust,septoria answered as rust group
+8,iNat,iNaturalist (iNat),90725248.jpg,Septoria,Leaf rust (0.70),Leaf rust (88),disease group: rust,septoria answered as rust group

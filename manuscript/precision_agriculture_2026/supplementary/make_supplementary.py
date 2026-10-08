@@ -52,6 +52,24 @@ def pct(k, n):
     return f'{100 * k / n:.1f} ({k}/{n})' if n else '–'
 
 
+def fmt_cfg(c):
+    if c is None:
+        return 'none'
+    th = '/'.join(f'{x:g}' for x in c[:3])
+    if len(c) == 3:
+        return th
+    if len(c) == 1:
+        return f'{c[0]:g}'
+    rc = '–' if c[3] is None else f'≥ {c[3]}'
+    return f"{th}, {rc}, health gate {'on' if c[4] else 'off'}, group gate {'on' if c[5] else 'off'}"
+
+
+def fmt_sys(s):
+    lvl, claim = [x.strip() for x in s.split(':', 1)]
+    nice = {'R': 'rust', 'healthy': 'healthy'}.get(claim, NICE.get(claim, claim).lower())
+    return {'specific': f'specific: {nice}', 'group': f'disease group: {nice}', 'healthy': 'healthy'}.get(lvl, s)
+
+
 def main() -> None:
     rows = load_rows()
     for r in rows:
@@ -75,7 +93,7 @@ def main() -> None:
             rf.set(qn(a), FONT)
     p = doc.add_paragraph(); r = p.add_run('Supplementary Information'); r.bold = True; r.font.size = Pt(14)
     doc.add_paragraph('Agreement-gated fusion of a vision foundation model and a multimodal large language model for reliable wheat '
-                      'disease diagnosis across image sources. [Authors — TO BE COMPLETED]. Precision Agriculture (submitted).')
+                      'disease diagnosis across image sources. Peng Jia, Pingchuan Zhang. School of Computer Science and Technology, Henan Institute of Science and Technology, Xinxiang, China. Corresponding author: Peng Jia (gnepaij@gmail.com).')
 
     def mono(text):
         for line in text.rstrip('\n').split('\n'):
@@ -165,10 +183,10 @@ def main() -> None:
         for k, v in v3[a].items():
             out.append([a.split('_')[1], name[k], f"{100 * v['informative_coverage']:.1f}", f"{v['errors']}/{v['released']}",
                         f"{100 * v['risk']:.1f}" if v['released'] else '–', f"{100 * v['risk_cp95']:.1f}" if v['released'] else '–',
-                        '; '.join('none' if c is None else str(tuple(c)) for c in v['chosen'])])
+                        '; '.join(fmt_cfg(c) for c in v['chosen'])])
     T(5, 'Source-held nested cross-validation of threshold selection on EVAL450 (450 images, three source folds)',
       ['α', 'Method', 'Coverage %', 'Errors/answered', 'Error %', 'Upper 95 % limit %', 'Configuration chosen in each outer fold'], out,
-      ['Configurations are (τh, τd, τg, rust-type confidence, health gate, group gate); "none" means no configuration met the error constraint '
+      ['Configurations are given as τh/τd/τg, rust-type confidence (– = rust type never released), health gate, group gate; "none" means no configuration met the error constraint '
        'on the inner folds, so the outer fold received no automatic answers.'])
     add_three_line_table(doc, TABLES[-1])
 
@@ -234,7 +252,7 @@ def main() -> None:
     T(9, 'Automatic answers per external source', ['Source', 'Images', 'Answered (coverage %)', 'Errors', 'Accuracy % [95 % CI]',
                                                    'Specific / group / healthy', 'L forced %', 'G61 forced %'], out,
       [f"Mean over the {sm['n_sources']} sources: coverage {100 * sm['coverage']:.1f} %, accuracy among answered images {100 * sm['accuracy']:.1f} %. "
-       f"iNat without the {io['excluded']} images whose observers also contributed training images: {io['answered']} of {io['n']} answered, {io['errors']} errors."])
+       f"iNat without the {io['excluded']} images whose observers also contributed training images: {io['answered']} of {io['n']} answered, {io['answered'] - io['errors']} correct ({100 * (io['answered'] - io['errors']) / io['answered']:.1f} %)."])
     add_three_line_table(doc, TABLES[-1])
 
     # S10 erroneous answers
@@ -246,20 +264,20 @@ def main() -> None:
     out = []
     for k, e in enumerate(V['erroneous_answers']):
         out.append([k + 1, COLL.get(e['collection'], e['collection']), SRCN[e['source']], Path(e['file']).name, NICE[e['truth']],
-                    f"{NICE[e['L']]} ({e['L_prob']:.2f})", f"{NICE[e['G61']]} ({e['G61_conf']})", e['system'].replace('R', 'rust') if e['system'].startswith('group') else e['system'],
+                    f"{NICE[e['L']]} ({e['L_prob']:.2f})", f"{NICE[e['G61']]} ({e['G61_conf']})", fmt_sys(e['system']),
                     note[k]])
     T(10, 'Erroneous automatic answers (8 of 598)', ['#', 'Collection', 'Source', 'File', 'Label', 'L (p)', 'G61 (conf.)', 'System output', 'Visual note'], out,
       ['All eight are counted as errors in every analysis. Visual notes are descriptive and were not used to change labels or results.'])
     add_three_line_table(doc, TABLES[-1])
 
     # S11 visual validation of the near-duplicate threshold
-    doc.add_heading('S11 Visual validation of the near-duplicate threshold', level=1)
+    doc.add_heading('S11 Validation of the near-duplicate threshold', level=1)
     vv = V['dedup_visual_validation']
     T(11, 'Nearest cross-collection pairs rated as the same photograph, by similarity band',
       ['Cosine similarity band', 'Pairs rated', 'Same photograph, visual', 'Same photograph, keypoint matching', 'Both'],
       [[b, v['n'], v['same'], v['keypoint_same'], v['both']] for b, v in vv.items()],
       ['6,000 random images were paired with their most similar image in another collection; 20 pairs per band were rendered side by side and rated. '
-       'Crops, resizing, flips and colour changes count as the same photograph. Keypoint matching: SIFT, Lowe ratio 0.75, RANSAC homography, at least 30 inliers, flipped versions included; it misses strongly cropped low-resolution copies. Pair-level results: analysis/dedup_validation/ratings.csv and keypoint_check.csv.'])
+       'Crops, resizing, flips and colour changes count as the same photograph. Keypoint matching: SIFT, Lowe ratio 0.75, RANSAC homography, at least 30 inliers, flipped versions included; it misses strongly cropped low-resolution copies. Pair-level results are provided in the code repository (analysis/dedup_validation/ratings.csv and keypoint_check.csv).'])
     add_three_line_table(doc, TABLES[-1])
 
     # S12 de-duplication sensitivity
@@ -282,6 +300,8 @@ def main() -> None:
                       '(1,310 images). Learned arbiters were trained on the 15 sources not being evaluated; local rule selection uses 10 labelled '
                       'images per source (mean of 50 draws). The two-expert selection bound is an oracle reference. Exact values are given in Table 5 of the main text.')
 
+    cp = doc.core_properties; cp.author = 'Peng Jia; Pingchuan Zhang'; cp.last_modified_by = 'Peng Jia'; cp.comments = ''
+    cp.title = 'Supplementary Information: Agreement-gated fusion of a vision foundation model and a multimodal LLM for wheat disease diagnosis'; cp.keywords = 'wheat disease; multimodal large language model; vision foundation model; selective prediction'
     doc.save(HERE / 'ESM_1.docx'); print('saved', HERE / 'ESM_1.docx')
 
 
