@@ -54,7 +54,7 @@ _RAG on iNat was computed after the iNat evaluation and is therefore retrospecti
 
 _Columns 2–5: accuracy among answered images at the level at which each answer was given; Clopper–Pearson intervals._
 _Columns 6–8: all methods at the same number of answered images, scored at group granularity (healthy, rust, powdery mildew, septoria); single experts answer their most confident images. Difference intervals come from a bootstrap that repeats the selection in each resample._
-_Development estimate (source-held nested cross-validation on EVAL450): coverage 66.9 %, error rate 5.0 % (15/301). Per-source results are shown in Fig. 6._
+_Development estimate (source-held nested cross-validation on EVAL450): coverage 66.9 %, error rate 5.0 % (15/301). Per-source results are shown in Fig. 5._
 
 **Table 5 Forced-choice accuracy (%) of fusion strategies in retrospective leave-one-source-out analysis (16 sources, 1,310 images)**
 

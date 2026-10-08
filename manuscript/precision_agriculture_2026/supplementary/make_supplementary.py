@@ -262,6 +262,19 @@ def main() -> None:
        'Crops, resizing, flips and colour changes count as the same photograph. Keypoint matching: SIFT, Lowe ratio 0.75, RANSAC homography, at least 30 inliers, flipped versions included; it misses strongly cropped low-resolution copies. Pair-level results: analysis/dedup_validation/ratings.csv and keypoint_check.csv.'])
     add_three_line_table(doc, TABLES[-1])
 
+    # S12 de-duplication sensitivity
+    doc.add_heading('S12 Sensitivity of the external results to a stricter de-duplication threshold', level=1)
+    ds = json.loads((MS / 'analysis/dedup_sensitivity.json').read_text(encoding='utf-8')); out = []
+    for thr, v in ds.items():
+        for c in ('ETS', 'ETS2', 'P4', 'pooled'):
+            x = v[c]
+            out.append([f"< {float(thr):.2f}", COLL.get(c, 'Pooled external'), x['n'], x['answered'], x['errors'], f"{100 * x['acc']:.1f}",
+                        f"{100 * x['L']:.1f}" if 'L' in x else '–', f"{100 * x['G61']:.1f}" if 'G61' in x else '–'])
+    T(12, 'Frozen system on external images whose maximum similarity to any training or development image is below the given threshold',
+      ['Max. similarity', 'Collection', 'Images', 'Answered', 'Errors', 'Accuracy %', 'L forced %', 'G61 forced %'], out,
+      ['The main analysis uses < 0.90. Similarity: cosine of pretrained DINOv3 embeddings.'])
+    add_three_line_table(doc, TABLES[-1])
+
     # Fig. S1
     doc.add_heading('Fig. S1 Forced-choice fusion strategies', level=1)
     doc.add_paragraph().add_run().add_picture(str(MS / 'figures/FigS1.png'), width=Cm(17))

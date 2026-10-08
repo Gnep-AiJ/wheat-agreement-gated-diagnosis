@@ -239,7 +239,7 @@
   "notes": [
    "Columns 2–5: accuracy among answered images at the level at which each answer was given; Clopper–Pearson intervals.",
    "Columns 6–8: all methods at the same number of answered images, scored at group granularity (healthy, rust, powdery mildew, septoria); single experts answer their most confident images. Difference intervals come from a bootstrap that repeats the selection in each resample.",
-   "Development estimate (source-held nested cross-validation on EVAL450): coverage 66.9 %, error rate 5.0 % (15/301). Per-source results are shown in Fig. 6."
+   "Development estimate (source-held nested cross-validation on EVAL450): coverage 66.9 %, error rate 5.0 % (15/301). Per-source results are shown in Fig. 5."
   ]
  },
  {

@@ -1,6 +1,6 @@
 """Statistical figures for the manuscript (data: ../analysis/ms_results.json and ms_revision.json; cached outputs only).
 
-Fig2 data audit; Fig3 complementarity (separate denominators); Fig5 risk-coverage; Fig6 output level and reliability per source;
+Fig2 data audit; Fig3 complementarity (separate denominators); Fig5 output level and reliability per source; Fig6 risk-coverage;
 FigS1 forced-choice fusion strategies (supplement).
 Journal spec (Precision Agriculture): width 174 mm, height <= 234 mm, Arial 7-9 pt, RGB, vector + 600-dpi TIFF; colour is
 always paired with a second encoding (marker, hatch, position or direct label). Palette validated with the dataviz validator.
@@ -19,13 +19,13 @@ HERE = Path(__file__).resolve().parent
 R = json.loads((HERE.parent / 'analysis' / 'ms_results.json').read_text())
 V = json.loads((HERE.parent / 'analysis' / 'ms_revision.json').read_text())
 MM = 1 / 25.4
-plt.rcParams.update({'font.family': 'Arial', 'font.size': 7.5, 'axes.titlesize': 7.5, 'axes.labelsize': 7.5, 'xtick.labelsize': 7,
-                     'ytick.labelsize': 7, 'legend.fontsize': 7, 'pdf.fonttype': 42, 'ps.fonttype': 42, 'svg.fonttype': 'none',
+plt.rcParams.update({'font.family': 'Arial', 'font.size': 8, 'axes.titlesize': 8, 'axes.labelsize': 8, 'xtick.labelsize': 7.5,
+                     'ytick.labelsize': 7.5, 'legend.fontsize': 7.5, 'pdf.fonttype': 42, 'ps.fonttype': 42, 'svg.fonttype': 'none',
                      'axes.spines.top': False, 'axes.spines.right': False, 'axes.linewidth': 0.6, 'xtick.major.width': 0.6,
                      'ytick.major.width': 0.6, 'axes.edgecolor': '#52514e', 'axes.labelcolor': '#0b0b0b', 'xtick.color': '#52514e',
                      'ytick.color': '#52514e', 'axes.titleweight': 'bold'})
 C = {'L': '#2a78d6', 'G61': '#eb6834', 'RAG': '#1baf7a', 'SYS': '#4a3aa7', 'SYS2': '#8577e0', 'UB': '#9a9993', 'grid': '#e6e5e0',
-     'H': '#1baf7a', 'REF': '#d9d8d2', 'INK': '#0b0b0b', 'MUTED': '#52514e'}
+     'H': '#1baf7a', 'REF': '#e4e3de', 'INK': '#0b0b0b', 'MUTED': '#52514e'}
 COLL_NAME = {'EVAL450': 'Development\n(EVAL450, n=450)', 'ETS': 'External ETS\n(6 sources, n=552)',
              'ETS2': 'External ETS2\n(Henan field, n=240)', 'P4': 'External iNat\n(n=68)'}
 COLLS = ['EVAL450', 'ETS', 'ETS2', 'P4']
@@ -54,7 +54,7 @@ def fig_audit():
     short = {'WFD2020': 'WFD2020', 'kaggle_wheat_disease_small': 'CerealConv subset', 'kaggle_wheat_leaf_disease_jayaprakash': 'Jayaprakash',
              'kaggle_wheat_plant_diseases_kushagra': 'Kushagra', 'mendeley_wheat_disease_2025_original': 'Mendeley 2025',
              'mendeley_wheat_leaf_dataset': 'Mendeley leaf'}
-    fig = plt.figure(figsize=(174 * MM, 92 * MM))
+    fig = plt.figure(figsize=(174 * MM, 108 * MM))
     ax = fig.add_axes([0.13, 0.20, 0.42, 0.72]); rows = []
     M = np.full((len(names), len(names)), np.nan)
     for i, x in enumerate(names):
@@ -64,31 +64,30 @@ def fig_audit():
     im = ax.imshow(M, cmap='Blues', vmin=0, vmax=100)
     for i in range(len(names)):
         for j in range(len(names)):
-            ax.text(j, i, '–' if i == j else f'{M[i, j]:.1f}', ha='center', va='center', fontsize=6.5,
+            ax.text(j, i, '–' if i == j else f'{M[i, j]:.1f}', ha='center', va='center', fontsize=7,
                     color='white' if (i != j and M[i, j] > 55) else C['INK'])
     anyo = a['any_other']
     lab = [f"{short[n]} (n={a['per_dataset'][n]:,})\nany other: {anyo[n]['pct']:.1f} %" for n in names]
-    ax.set_xticks(range(len(names)), [short[n] for n in names], rotation=35, ha='right'); ax.set_yticks(range(len(names)), lab, fontsize=6.5)
+    ax.set_xticks(range(len(names)), [short[n] for n in names], rotation=35, ha='right'); ax.set_yticks(range(len(names)), lab, fontsize=7)
     ax.set_xlabel('… has a near-duplicate in this collection'); ax.set_ylabel('Images of this collection …')
     for s in ax.spines.values():
         s.set_visible(False)
     cax = fig.add_axes([0.565, 0.32, 0.012, 0.48]); cb = fig.colorbar(im, cax=cax); cb.outline.set_linewidth(0.4)
-    cb.set_label('Share of images (%)', fontsize=6.5); cb.ax.tick_params(labelsize=6.5)
+    cb.set_label('Share of images (%)', fontsize=7); cb.ax.tick_params(labelsize=7)
     letter(ax, 'a', x=-0.75, y=1.0)
     # b: visual validation of the threshold
     ax = fig.add_axes([0.72, 0.66, 0.27, 0.27]); vv = V['dedup_visual_validation']
     bins = list(vv); xs = np.arange(len(bins))
-    vis = [100 * vv[b]['same'] / vv[b]['n'] for b in bins]; kp = [100 * vv[b]['keypoint_same'] / vv[b]['n'] for b in bins]
+    vis = [vv[b]['same'] for b in bins]; kp = [vv[b]['keypoint_same'] for b in bins]
     ax.bar(xs - 0.19, vis, width=0.36, color=C['L'], edgecolor='white', linewidth=0.6, label='Visual rating')
-    ax.bar(xs + 0.19, kp, width=0.36, color=C['SYS'], edgecolor='white', linewidth=0.6, hatch='////', label='Keypoint matching')
-    for x, b in zip(xs, bins):
-        ax.text(x + 0.19, 100 * vv[b]['keypoint_same'] / vv[b]['n'] + 2, f"{vv[b]['keypoint_same']}", ha='center', va='bottom', fontsize=5.6)
-        ax.text(x - 0.19, 100 * vv[b]['same'] / vv[b]['n'] + 2, f"{vv[b]['same']}", ha='center', va='bottom', fontsize=5.6)
+    ax.bar(xs + 0.19, kp, width=0.36, color=C['SYS'], edgecolor='white', linewidth=0.6, label='Keypoint matching')
+    for b in bins:
         rows.append(['b', b, vv[b]['same'], vv[b]['keypoint_same'], vv[b]['n']])
-    ax.legend(loc='upper left', frameon=False, fontsize=5.8, handlelength=1.0, borderaxespad=0.1)
+    ax.legend(loc='upper left', frameon=False, fontsize=7, handlelength=1.0, borderaxespad=0.1)
     ax.axvline(2.5, color=C['MUTED'], lw=0.8, ls='--'); None
-    ax.set_xticks(xs, [b.replace('0.', '.').replace('1.00', '1') for b in bins], rotation=35, ha='right', fontsize=6.3)
-    ax.set_ylim(0, 125); ax.set_ylabel('Same photograph (% of 20)', fontsize=6.8); ax.set_xlabel('Cosine similarity (dashed: threshold 0.90)', fontsize=6.8)
+    ax.set_xticks(xs, [b.replace('0.', '.').replace('1.00', '1') for b in bins], rotation=35, ha='right', fontsize=7)
+    ax.set_ylim(0, 24); ax.set_yticks([0, 5, 10, 15, 20]); ax.grid(axis='y', color=C['grid'], linewidth=0.5); ax.set_axisbelow(True)
+    ax.set_ylabel('Same photograph\n(pairs of 20)', fontsize=7.5); ax.set_xlabel('Cosine similarity (dashed: threshold 0.90)', fontsize=7)
     letter(ax, 'b', x=-0.28)
     # c: source-familiar vs source-held
     ax = fig.add_axes([0.72, 0.11, 0.27, 0.22]); fh = R['familiar_vs_held']
@@ -97,29 +96,29 @@ def fig_audit():
         ax.plot([h_, f_], [yi, yi], color=C['UB'], lw=2, zorder=1)
         ax.scatter([f_], [yi], s=34, color=C['SYS'], marker='o', zorder=3, label='Source seen in training' if yi else None)
         ax.scatter([h_], [yi], s=34, color='white', edgecolor=C['SYS'], linewidth=1.2, marker='o', zorder=3, label='Source held out' if yi else None)
-        ax.text(f_ + 3, yi, f'{f_:.1f}', va='center', fontsize=6.3); ax.text(h_ - 3, yi, f'{h_:.1f}', va='center', ha='right', fontsize=6.3)
+        ax.text(f_ + 3, yi, f'{f_:.1f}', va='center', fontsize=7); ax.text(h_ - 3, yi, f'{h_:.1f}', va='center', ha='right', fontsize=7)
         rows.append(['c', key, d['familiar'], d['held'], d['n']])
-    ax.set_yticks([1, 0], ['All 450 images', 'Single-label rust\n(312 images)'], fontsize=6.5); ax.set_ylim(-0.6, 1.6)
-    ax.set_xlim(25, 105); ax.set_xlabel('Accuracy of the same recipe (%)', fontsize=6.8)
-    ax.legend(loc='upper center', bbox_to_anchor=(0.40, 1.30), ncol=2, frameon=False, fontsize=6.2, handletextpad=0.2, columnspacing=0.8)
+    ax.set_yticks([1, 0], ['All 450 images', 'Single-label rust\n(312 images)'], fontsize=7); ax.set_ylim(-0.6, 1.6)
+    ax.set_xlim(25, 105); ax.set_xlabel('Accuracy of the same recipe (%)', fontsize=7)
+    ax.legend(loc='upper center', bbox_to_anchor=(0.40, 1.30), ncol=2, frameon=False, fontsize=7, handletextpad=0.2, columnspacing=0.8)
     letter(ax, 'c', x=-0.28, y=1.18)
     save(fig, 'Fig2', rows, ['panel', 'a', 'b', 'c', 'd'])
 
 
 def fig_complementarity():
     """Fig. 3: (a) who is correct, (b) full-sample accuracy and the two-expert selection bound, (c) accuracy when L and G61 agree."""
-    fig, axes = plt.subplots(1, 3, figsize=(174 * MM, 74 * MM), gridspec_kw={'width_ratios': [1.25, 0.9, 0.9]})
+    fig, axes = plt.subplots(1, 3, figsize=(174 * MM, 88 * MM), gridspec_kw={'width_ratios': [1.25, 0.9, 0.9]})
     cpd = R['complementarity']; rows = []; y = np.arange(len(COLLS))[::-1]
     ax = axes[0]
-    parts = [('both_correct', 'Both correct', C['SYS'], ''), ('only_L', 'Only L correct', C['L'], '////'),
-             ('only_G61', 'Only G61 correct', C['G61'], '\\\\\\\\'), ('both_wrong', 'Both wrong', C['REF'], '')]
+    parts = [('both_correct', 'Both correct', C['SYS'], ''), ('only_L', 'Only L correct', C['L'], ''),
+             ('only_G61', 'Only G61 correct', C['G61'], ''), ('both_wrong', 'Both wrong', C['REF'], '')]
     for yi, c in zip(y, COLLS):
         left = 0; n = cpd[c]['n']
         for key, lab, col, hatch in parts:
             v = cpd[c][key] / n * 100
-            ax.barh(yi, v, left=left, color=col, edgecolor='white', linewidth=1.0, hatch=hatch, height=0.62, label=lab if c == COLLS[0] else None)
+            ax.barh(yi, v, left=left, color=col, edgecolor='white', linewidth=1.0, hatch=hatch or None, height=0.56, label=lab if c == COLLS[0] else None)
             if v >= 7:
-                ax.text(left + v / 2, yi, f'{v:.0f}', ha='center', va='center', fontsize=6.8, color='white' if key != 'both_wrong' else C['INK'],
+                ax.text(left + v / 2, yi, f'{v:.0f}', ha='center', va='center', fontsize=7, color='white' if key != 'both_wrong' else C['INK'],
                         bbox=dict(boxstyle='square,pad=0.08', fc=col, ec='none') if hatch else None)
             left += v; rows.append(['a', c, key, cpd[c][key], n])
     ax.set_yticks(y, [COLL_NAME[c] for c in COLLS]); ax.set_xlim(0, 100); ax.set_xlabel('Share of images (%)')
@@ -141,7 +140,7 @@ def fig_complementarity():
         k, n = cpd[c]['agree_correct'], cpd[c]['agree_n']; lo, hi = cp(k, n); acc = 100 * k / n
         ax.errorbar([acc], [yi], xerr=[[acc - 100 * lo], [100 * hi - acc]], fmt='*', color=C['SYS'], ms=8, mec='white', mew=0.4,
                     elinewidth=0.8, capsize=0)
-        ax.text(53, yi + 0.30, f"{acc:.1f} % ({k}/{n}); agree on {100 * n / cpd[c]['n']:.0f} % of images", fontsize=6.2, color=C['INK'], va='center')
+        ax.text(53, yi + 0.30, f"{acc:.1f} % ({k}/{n}); agree on {100 * n / cpd[c]['n']:.0f} % of images", fontsize=7, color=C['INK'], va='center')
         rows.append(['c', c, 'agreement_subset', k, n])
     ax.set_yticks(y, ['' for _ in COLLS]); ax.set_xlim(52, 100.5); ax.set_ylim(-0.5, 3.6); ax.set_xlabel('Accuracy when L and G61 agree (%)')
     ax.grid(axis='x', color=C['grid'], linewidth=0.5); ax.set_axisbelow(True)
@@ -151,9 +150,9 @@ def fig_complementarity():
 
 
 def fig_risk_coverage():
-    """Fig. 5: group-level risk-coverage curves; full range (top) and the low-error region (bottom)."""
+    """Fig. 6: group-level risk-coverage curves; full range (top) and the low-error region (bottom)."""
     rc = R['risk_coverage_group_level']; sel = R['selective']
-    fig, axes = plt.subplots(2, 3, figsize=(174 * MM, 112 * MM), sharex=True, gridspec_kw={'height_ratios': [1, 1], 'hspace': 0.14})
+    fig, axes = plt.subplots(2, 3, figsize=(174 * MM, 126 * MM), sharex=True, gridspec_kw={'height_ratios': [1, 1], 'hspace': 0.14})
     rows = []
     title = {'ETS': 'ETS (6 sources, n=552)', 'ETS2': 'ETS2 (Henan field, n=240)', 'P4': 'iNat (n=68)'}
     for col, c in enumerate(['ETS', 'ETS2', 'P4']):
@@ -181,7 +180,7 @@ def fig_risk_coverage():
             else:
                 ax.set_ylim(-0.4, 10); ax.set_xlabel('Coverage (% of images answered)')
                 ax.annotate(f'{k}/{s["n"]} answered\n{ge} group-level errors', (cov, 100 * ge / k), xytext=(4, 8.2) if c != 'P4' else (55, 8.6),
-                            textcoords='data', fontsize=6.2, arrowprops=dict(arrowstyle='-', lw=0.5, color=C['MUTED']))
+                            textcoords='data', fontsize=7, arrowprops=dict(arrowstyle='-', lw=0.5, color=C['MUTED']))
         if col == 0:
             axes[0, 0].set_ylabel('Error rate (%)\nfull range'); axes[1, 0].set_ylabel('Error rate (%)\n0–10 % region')
         rows.append([c, 'operating_point', round(cov / 100, 4), round(ge / k, 4)])
@@ -189,7 +188,7 @@ def fig_risk_coverage():
     h, l = axes[0, 0].get_legend_handles_labels()
     fig.legend(h, l, loc='lower center', ncol=3, frameon=False, bbox_to_anchor=(0.5, -0.06), handlelength=2.2, columnspacing=1.2)
     fig.subplots_adjust(wspace=0.16, bottom=0.17)
-    save(fig, 'Fig5', rows, ['collection', 'curve', 'coverage', 'error_rate'])
+    save(fig, 'Fig6', rows, ['collection', 'curve', 'coverage', 'error_rate'])
 
 
 SRCN = {'ets2:henan_field_2023': 'Henan field 2023 (ETS2)', 'ets:mswdd2022': 'MSWDD2022 (ETS)', 'ets:plantwild': 'PlantWild v2 web (ETS)',
@@ -199,27 +198,27 @@ SRCN = {'ets2:henan_field_2023': 'Henan field 2023 (ETS2)', 'ets:mswdd2022': 'MS
 
 
 def fig_sources():
-    """Fig. 6: (a) level of the automatic answer per external source, (b) accuracy among answered images per source."""
+    """Fig. 5: (a) level of the automatic answer per external source, (b) accuracy among answered images per source."""
     ps = V['per_source']; order = sorted(ps, key=lambda s: -ps[s]['n'])
     pooled = V['composition']['external']
-    fig, axes = plt.subplots(1, 2, figsize=(174 * MM, 82 * MM), gridspec_kw={'width_ratios': [1.25, 1]}, sharey=True)
+    fig, axes = plt.subplots(1, 2, figsize=(174 * MM, 96 * MM), gridspec_kw={'width_ratios': [1.15, 1]}, sharey=True)
     rows = []; labels = [f"{SRCN[s]}, n={ps[s]['n']}" for s in order] + [f"All external images, n={pooled['n']}"]
     y = np.arange(len(labels))[::-1]
     parts = [('specific', 'Specific disease', C['SYS'], ''), ('group', 'Disease group ("rust")', C['SYS2'], ''),
-             ('healthy', 'Healthy', C['H'], ''), ('referred', 'Referred for review', C['REF'], '////')]
+             ('healthy', 'Healthy', C['H'], ''), ('referred', 'Referred for review', C['REF'], '')]
     ax = axes[0]
     for yi, s in zip(y, order + ['pooled']):
         d = pooled if s == 'pooled' else dict(ps[s], referred=ps[s]['n'] - ps[s]['answered'])
         left = 0
         for key, lab, col, hatch in parts:
             v = 100 * d[key] / d['n']
-            ax.barh(yi, v, left=left, height=0.66, color=col, hatch=hatch, edgecolor='white', linewidth=0.8, label=lab if s == order[0] else None)
+            ax.barh(yi, v, left=left, height=0.6, color=col, hatch=hatch or None, edgecolor='white', linewidth=1.2, label=lab if s == order[0] else None)
             if v >= 9:
-                ax.text(left + v / 2, yi, f'{v:.0f}', ha='center', va='center', fontsize=6.4,
+                ax.text(left + v / 2, yi, f'{v:.0f}', ha='center', va='center', fontsize=7,
                         color='white' if key in ('specific', 'group') else C['INK'])
             left += v; rows.append(['a', s, key, d[key], d['n']])
     ax.axhline(0.5, color=C['MUTED'], lw=0.6)
-    ax.set_yticks(y, labels, fontsize=6.6); ax.set_xlim(0, 100); ax.set_xlabel('Share of images (%)')
+    ax.set_yticks(y, labels, fontsize=7); ax.set_xlim(0, 100); ax.set_xlabel('Share of images (%)')
     ax.set_title('Level of the automatic answer', loc='left', fontsize=7.5); letter(ax, 'a', x=-0.02)
     ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.13), ncol=2, frameon=False, handlelength=1.4, columnspacing=0.9)
     ax = axes[1]
@@ -231,15 +230,15 @@ def fig_sources():
         lo, hi = cp(k - e, k); acc = 100 * (k - e) / k
         ax.errorbar([acc], [yi], xerr=[[acc - 100 * lo], [100 * hi - acc]], fmt='D' if s == 'pooled' else 'o', color=C['SYS'], ms=4.5,
                     mec='white', mew=0.5, elinewidth=0.9, capsize=0)
-        ax.text(101.2, yi, f'{k - e}/{k}', va='center', fontsize=6.4, color=C['INK'])
+        ax.text(101.2, yi, f'{k - e}/{k}', va='center', fontsize=7, color=C['INK'])
         rows.append(['b', s, k - e, k])
     ax.axhline(0.5, color=C['MUTED'], lw=0.6)
     ax.set_xlim(70, 100); ax.set_xlabel('Accuracy among answered images (%)')
     ax.grid(axis='x', color=C['grid'], linewidth=0.5); ax.set_axisbelow(True)
-    ax.text(101.2, len(labels) - 0.35, 'correct/\nanswered', fontsize=6, color=C['MUTED'], va='bottom')
+    ax.text(101.2, len(labels) - 0.35, 'correct/\nanswered', fontsize=7, color=C['MUTED'], va='bottom')
     ax.set_title('Reliability of automatic answers', loc='left', fontsize=7.5); letter(ax, 'b', x=-0.02)
     fig.subplots_adjust(wspace=0.12, bottom=0.25, right=0.9)
-    save(fig, 'Fig6', rows, ['panel', 'source', 'quantity', 'count', 'denominator'])
+    save(fig, 'Fig5', rows, ['panel', 'source', 'quantity', 'count', 'denominator'])
 
 
 def fig_fusion_supp():

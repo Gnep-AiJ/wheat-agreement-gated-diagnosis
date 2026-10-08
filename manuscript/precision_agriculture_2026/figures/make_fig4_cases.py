@@ -26,11 +26,11 @@ import paper_p3_hrme as H  # noqa: E402
 from paper_arbiter import LAB, load_rows  # noqa: E402
 
 MM = 1 / 25.4
-plt.rcParams.update({'font.family': 'Arial', 'font.size': 7, 'pdf.fonttype': 42, 'svg.fonttype': 'none'})
+plt.rcParams.update({'font.family': 'Arial', 'font.size': 7.5, 'pdf.fonttype': 42, 'svg.fonttype': 'none'})
 NICE = {'healthy': 'healthy', 'leaf_rust': 'leaf rust', 'stem_rust': 'stem rust', 'yellow_rust': 'stripe rust',
         'powdery_mildew': 'powdery mildew', 'septoria': 'septoria', None: 'uncertain'}
 SRC = {'roboflow_newwheat': 'Roboflow new-wheat-disease v2', 'roboflow_stemrust': 'Roboflow stem-rust v1',
-       'henan_field_2023': 'Henan field 2023, Zenodo 15621359'}
+       'henan_field_2023': 'Henan field 2023'}
 OUTCOL = {'group': '#4a3aa7', 'referred': '#52514e', 'specific': '#4a3aa7', 'error': '#b3261e'}
 ZOOM_COLOR = '#ffd400'
 
@@ -50,12 +50,12 @@ def system_output(r):
 
 def symptoms(sym):
     p = sym.get('pustules_present')
-    col = str(sym.get('pustule_color', 'none')).replace('_', '-')
-    arr = {'elongated_on_stem_or_sheath': 'elongated on stem', 'stripes_along_veins': 'in stripes', 'scattered': 'scattered'}.get(
+    col = {'orange_brown': 'orange', 'dark_brown_black': 'dark'}.get(sym.get('pustule_color'), str(sym.get('pustule_color', 'none')).replace('_', '-'))
+    arr = {'elongated_on_stem_or_sheath': 'on stem', 'stripes_along_veins': 'in stripes', 'scattered': 'scattered'}.get(
         sym.get('pustule_arrangement'), '')
     t = f'{col} pustules {arr}'.strip() if p else 'no pustules'
     if sym.get('necrotic_blotches'):
-        t += '; necrotic blotches' + (' with black dots' if sym.get('black_dots_in_lesions') else '')
+        t += '; blotches' + (' with black dots' if sym.get('black_dots_in_lesions') else '')
     return t
 
 
@@ -98,19 +98,19 @@ def main() -> None:
         L = r['L']; li = int(np.argmax(L)); g = r['gfull'] or {}; sym = g.get('symptoms', {})
         truth = next(iter(r['truth'])); lvl, claim = system_output(r)
         if lvl == 'referred':
-            sysout, tag = 'referred for review (no automatic label)', 'referred'
+            sysout, tag = 'referred for review', 'referred'
         else:
             ok = H.correct(lvl, {'rust': 'R'}.get(claim, claim) if lvl == 'group' else
                            {v: kk for kk, v in NICE.items()}.get(claim, claim), r['truth'])
-            sysout = f"{'disease group' if lvl == 'group' else 'specific'}: {claim}" + ('' if ok else '  (counted as error)')
+            sysout = f"{'disease group' if lvl == 'group' else 'specific'}: {claim}" + ('' if ok else ' (error)')
             tag = lvl if ok else 'error'
         ax.text(-0.01, 1.01, 'abcdef'[k], transform=ax.transAxes, fontweight='bold', fontsize=9, ha='right', va='bottom')
-        lines = [(f"Label: {NICE[truth]}  ·  {SRC[it['source']]}", '#0b0b0b', 'normal'),
-                 (f"L: {NICE[LAB[li]]} (p = {L[li]:.2f})   G61: {NICE.get(r['g'], r['g'])} (conf. {g.get('confidence')})", '#0b0b0b', 'normal'),
-                 (f"G61 report: {symptoms(sym)}", '#52514e', 'normal'),
+        lines = [(f"Label: {NICE[truth]} ({SRC[it['source']]})", '#0b0b0b', 'normal'),
+                 (f"L: {NICE[LAB[li]]} ({L[li]:.2f});  G61: {NICE.get(r['g'], r['g'])} ({g.get('confidence')})", '#0b0b0b', 'normal'),
+                 (f"G61: {symptoms(sym)}", '#52514e', 'normal'),
                  (f"System → {sysout}", OUTCOL[tag], 'bold')]
         for j, (t, c, fw) in enumerate(lines):
-            ax.text(0.0, -0.035 - j * 0.066, t, transform=ax.transAxes, va='top', ha='left', fontsize=6.2, color=c, fontweight=fw)
+            ax.text(0.0, -0.035 - j * 0.066, t, transform=ax.transAxes, va='top', ha='left', fontsize=7, color=c, fontweight=fw)
         out.append(['abcdef'[k], coll, it['source'], name, truth, LAB[li], round(float(L[li]), 3), r['g'], g.get('confidence'),
                     json.dumps(sym), sysout, f'{zx},{zy},{zs}'])
     for ext, kw in (('pdf', {}), ('svg', {}), ('png', {'dpi': 600}), ('tif', {'dpi': 600, 'pil_kwargs': {'compression': 'tiff_lzw'}})):

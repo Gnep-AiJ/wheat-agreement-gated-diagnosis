@@ -1,3 +1,4 @@
+Arya, S. (2020). *Wheat nitrogen deficiency and leaf rust image dataset* (Version 1) [Data set, CC BY 4.0]. Mendeley Data. https://doi.org/10.17632/th422bg4yd.1
 Barbedo, J. G. (2018). Factors influencing the use of deep learning for plant disease recognition. *Biosystems Engineering*, *172*, 84–91. https://doi.org/10.1016/j.biosystemseng.2018.05.013
 Bennin, K. E., van Teeffelen, D., Hurst, W., & Babur, Ö. (2026). A tertiary systematic literature review and experimental evaluation of deep learning models for plant disease detection. *Precision Agriculture*, *27*(4), 98. https://doi.org/10.1007/s11119-026-10398-7
 Clopper, C. J., & Pearson, E. S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, *26*(4), 404–413. https://doi.org/10.1093/biomet/26.4.404
