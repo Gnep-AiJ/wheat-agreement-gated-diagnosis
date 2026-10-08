@@ -1,0 +1,9 @@
+﻿α,Method,Coverage %,Errors/answered,Error %,Upper 95 % limit %,Configuration chosen in each outer fold
+0.05,Agreement-gated system,66.9,15/301,5.0,7.6,"(0.8, 0.5, 0.5, None, False, True); (0.5, 0.5, 0.5, None, True, True); (0.5, 0.5, 0.5, None, True, True)"
+0.05,L-only hierarchy (no MLLM gate),0.0,0/0,–,–,none; none; none
+0.05,L alone (probability threshold),3.1,0/14,0.0,19.3,"(0.999,); (0.999,); (0.999,)"
+0.05,G61 alone (confidence threshold),3.8,2/17,11.8,32.6,"(98,); none; none"
+0.1,Agreement-gated system,66.2,23/298,7.7,10.8,"(0.5, 0.5, 0.5, None, True, False); (0.5, 0.5, 0.5, None, False, True); (0.5, 0.5, 0.5, 95, False, True)"
+0.1,L-only hierarchy (no MLLM gate),72.0,31/324,9.6,12.7,"(0.6, 0.5, 0.6); (0.98, 0.5, 0.6); (0.98, 0.5, 0.6)"
+0.1,L alone (probability threshold),3.1,0/14,0.0,19.3,"(0.999,); (0.999,); (0.999,)"
+0.1,G61 alone (confidence threshold),16.9,8/76,10.5,18.2,"(95,); (95,); (98,)"

@@ -1,0 +1,1929 @@
+{
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000421.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000434.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 84,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000175.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000356.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 78,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000426.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 89,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000186.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 84,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000242.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 93,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000442.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000082.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000086.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 79,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000108.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000115.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000398.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 89,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000087.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000362.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000368.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000338.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000049.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 95,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000212.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000154.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000438.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 93,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000428.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000135.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000427.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 78,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000332.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 96,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000094.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000393.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 96,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000297.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000100.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000397.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000151.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000005.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000146.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 74,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000292.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000218.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000388.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000170.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000382.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000351.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000419.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000350.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000219.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000281.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 89,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000156.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000385.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000126.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000339.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 95,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000261.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000367.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000107.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000123.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 89,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000361.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000418.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 80,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000029.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000196.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 78,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000044.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000048.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000093.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000433.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000373.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 95,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000030.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000589.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000488.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000431.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000565.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000415.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000298.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000393.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000388.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000222.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 83,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\LeafRust 0000452.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000085.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000414.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000323.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000404.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000290.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000539.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000631.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000467.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000114.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 80,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000582.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000556.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000465.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000461.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000579.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000120.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000614.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000453.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000555.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000013.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000295.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000204.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000535.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000191.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000142.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000509.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000498.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000268.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000428.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000548.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\LeafRust 0000246.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000507.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000138.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000456.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000611.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000517.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000080.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000010.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000148.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000563.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000527.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000483.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000115.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000429.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000442.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000133.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000061.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000617.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000238.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000494.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000061.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000124.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_304.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_316.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000028.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000071.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_391.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_369.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000219.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_335.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_343.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000003.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000282.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000047.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000008.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_326.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_373.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_390.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery_336.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_338.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000047.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000078.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000173.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery_360.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_331.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000052.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_333.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000242.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery_396.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_381.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_387.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 99,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000053.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000273.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_315.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000286.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_368.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000212.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000005.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000069.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_324.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 77,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000271.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_303.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_389.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000073.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000210.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000278.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000145.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_330.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000272.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_321.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000287.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_388.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000142.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_377.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_305.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_313.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000010.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_393.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000277.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_312.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000242.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 90,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000232.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 81,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000041.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000118.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000254.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000180.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000190.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000170.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 95,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000014.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 85,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000410.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000262.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000324.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 83,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000119.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 89,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000378.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 76,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000174.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000354.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000164.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000333.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 89,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000092.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000406.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000519.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000207.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 78,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000384.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000069.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000372.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 78,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000188.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 80,
+"diag": [
+"septoria",
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000165.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000331.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 95,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000211.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000070.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000225.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 83,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000067.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 92,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000154.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 78,
+"diag": [
+"septoria",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000054.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000200.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 83,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000265.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000413.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000283.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000423.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000355.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000123.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 77,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000003.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000307.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000395.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 95,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000140.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000185.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 92,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000269.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000113.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000226.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 84,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000335.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 93,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000059.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000430.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000403.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000039.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 92,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000235.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000285.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000270.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 95,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000077.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000388.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000028.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 89,
+"diag": [
+"septoria"
+]
+}
+}

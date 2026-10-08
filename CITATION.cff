@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or the cached outputs, please cite the article."
+title: "Agreement-gated fusion of a vision foundation model and a multimodal large language model for reliable wheat disease diagnosis across image sources: code and cached outputs"
+authors:
+  - family-names: Jia
+    given-names: Peng
+    affiliation: Henan Institute of Science and Technology
+  - family-names: Zhang
+    given-names: Pingchuan
+    affiliation: Henan Institute of Science and Technology
+license: MIT
+version: 1.0.0
+date-released: 2026-10-08

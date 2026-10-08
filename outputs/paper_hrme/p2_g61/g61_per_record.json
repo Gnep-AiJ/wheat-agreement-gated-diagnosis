@@ -1,0 +1,4522 @@
+{
+"1994": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+],
+"image_type": "canopy_distant",
+"assess": "clear_no_lesions"
+},
+"505": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"210": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"506": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"977": {
+"status": "ok",
+"primary": "healthy",
+"conf": 84,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"975": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1936": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"1491": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"330": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"220": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"865": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1362": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"288": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"287": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1741": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 82,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "canopy_distant",
+"assess": "clear_lesions_visible"
+},
+"246": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1685": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"2396": {
+"status": "ok",
+"primary": "healthy",
+"conf": 89,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"265": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1899": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1618": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"566": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 45,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "partially_visible"
+},
+"806": {
+"status": "ok",
+"primary": "healthy",
+"conf": 95,
+"diag": [
+"healthy"
+],
+"image_type": "stem",
+"assess": "clear_no_lesions"
+},
+"1765": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1136": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"2267": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"370": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 93,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"1001": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1894": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"365": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"311": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1048": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"211": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "partially_visible"
+},
+"1195": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1021": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1772": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"78": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2066": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1776": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1592": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"592": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"2057": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1036": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"930": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1697": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"709": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2240": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1672": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2124": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"56": {
+"status": "ok",
+"primary": "septoria",
+"conf": 78,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1565": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1104": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"39": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1134": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1822": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"2094": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1455": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1174": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_no_lesions"
+},
+"690": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2249": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"143": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 92,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"166": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"314": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"935": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1459": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1784": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"2016": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"293": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2349": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2129": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"743": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1067": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"257": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"239": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"500": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2031": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+],
+"image_type": "spike",
+"assess": "clear_lesions_visible"
+},
+"1866": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1138": {
+"status": "ok",
+"primary": "healthy",
+"conf": 86,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"2402": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"450": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1089": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"998": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1862": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"771": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2251": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1465": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "cannot_judge"
+},
+"1423": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"712": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1304": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"956": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"647": {
+"status": "ok",
+"primary": "septoria",
+"conf": 90,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1704": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1367": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2323": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1087": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"349": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2068": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"1875": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1847": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2235": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"203": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2339": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"360": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"782": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"716": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1176": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"334": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"983": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 99,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2201": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"996": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"971": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1404": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"18": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2096": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2155": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"2107": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"567": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1254": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"123": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"490": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"313": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+],
+"image_type": "spike",
+"assess": "clear_no_lesions"
+},
+"1363": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1211": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1248": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1715": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+],
+"image_type": "non_wheat",
+"assess": "cannot_judge"
+},
+"1332": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2385": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"461": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1160": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"2386": {
+"status": "ok",
+"primary": "healthy",
+"conf": 90,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"645": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust",
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2341": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"541": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1365": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 40,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "partially_visible"
+},
+"850": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"1590": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"686": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1057": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 87,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"1861": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "canopy_distant",
+"assess": "clear_lesions_visible"
+},
+"1368": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"2180": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1799": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1372": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2303": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"940": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"216": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1189": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2179": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"432": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1940": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"894": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"900": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2239": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2295": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2296": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2362": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2161": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2162": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1643": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1895": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"699": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1093": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"950": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1523": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1073": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1568": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1186": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"642": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_no_lesions"
+},
+"1591": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"909": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"392": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1844": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2141": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"508": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 76,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"509": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 78,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"71": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"92": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1373": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"419": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2194": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "partially_visible"
+},
+"1032": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2079": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1088": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1279": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2232": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"891": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1854": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2005": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"867": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2307": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2312": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2313": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2247": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"849": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"25": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"872": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1011": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"115": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2214": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1958": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1043": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1348": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1991": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "cannot_judge"
+},
+"137": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 80,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "partially_visible"
+},
+"1017": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1731": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+],
+"image_type": "spike",
+"assess": "partially_visible"
+},
+"1352": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2029": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2207": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1346": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1556": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1941": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"861": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"802": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1920": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2225": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"119": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2384": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"473": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1859": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1819": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1728": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1753": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2238": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1462": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1159": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1427": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1126": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2195": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2182": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"305": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1212": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2190": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2213": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1371": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"251": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2160": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"843": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 75,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"968": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2186": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"256": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2280": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"2302": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1408": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2383": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1793": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 40,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "partially_visible"
+},
+"551": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2025": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1149": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2372": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1498": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1499": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"259": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"993": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"2206": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1402": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2013": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2052": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+],
+"image_type": "canopy_distant",
+"assess": "clear_lesions_visible"
+},
+"2101": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2009": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1405": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"371": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1660": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1786": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"991": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1563": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1272": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 73,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"2309": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"116": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "lab_or_specimen",
+"assess": "partially_visible"
+},
+"117": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "lab_or_specimen",
+"assess": "partially_visible"
+},
+"1054": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 58,
+"diag": [
+"uncertain"
+],
+"image_type": "lab_or_specimen",
+"assess": "partially_visible"
+},
+"1264": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2168": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2169": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2199": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1733": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_no_lesions"
+},
+"1606": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"202": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1926": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1501": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2367": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"981": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"358": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1644": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 82,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1473": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1732": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1806": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2269": {
+"status": "ok",
+"primary": "septoria",
+"conf": 85,
+"diag": [
+"septoria"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2301": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1953": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"152": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"737": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1612": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"368": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1678": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1966": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"247": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"373": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"846": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 78,
+"diag": [
+"yellow_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1647": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 74,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1503": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 83,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1671": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1923": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_no_lesions"
+},
+"11": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2130": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"2208": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"830": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"274": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1834": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"1807": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"521": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1650": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"199": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1051": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1937": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "spike",
+"assess": "clear_lesions_visible"
+},
+"1702": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 79,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1788": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"923": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"87": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"855": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+],
+"image_type": "whole_plant",
+"assess": "clear_no_lesions"
+},
+"1811": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1745": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2395": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"387": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1809": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 83,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"760": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2133": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"333": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1985": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2171": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1202": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1651": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1870": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1267": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"139": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1863": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"882": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"136": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1028": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1435": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"721": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1084": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"42": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"902": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"381": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"410": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1133": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "non_wheat",
+"assess": "cannot_judge"
+},
+"1258": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+],
+"image_type": "stem",
+"assess": "cannot_judge"
+},
+"1431": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1432": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2328": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"613": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"800": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"159": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"953": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2027": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"84": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "non_wheat",
+"assess": "clear_lesions_visible"
+},
+"2321": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"781": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "non_wheat",
+"assess": "cannot_judge"
+},
+"1164": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"2043": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1572": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2039": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1545": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1110": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1624": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1538": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1541": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 89,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1570": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"2000": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"2198": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"2108": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "partially_visible"
+},
+"2228": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"254": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"980": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1604": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"236": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"237": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"238": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1311": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"908": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"603": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+],
+"image_type": "non_wheat",
+"assess": "cannot_judge"
+},
+"593": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "stem",
+"assess": "partially_visible"
+},
+"1734": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1228": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1015": {
+"status": "ok",
+"primary": "septoria",
+"conf": 87,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2143": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+],
+"image_type": "canopy_distant",
+"assess": "clear_no_lesions"
+},
+"2216": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"945": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 92,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"1052": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"180": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 82,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"178": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"194": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1902": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1914": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"401": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"2093": {
+"status": "ok",
+"primary": "healthy",
+"conf": 84,
+"diag": [
+"healthy"
+],
+"image_type": "canopy_distant",
+"assess": "clear_no_lesions"
+},
+"439": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"1171": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1993": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"778": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "stem",
+"assess": "partially_visible"
+},
+"74": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"1117": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1814": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 80,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2279": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"250": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+],
+"image_type": "spike",
+"assess": "clear_lesions_visible"
+},
+"128": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"1774": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1005": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1074": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"93": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"154": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 75,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"932": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1659": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2152": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 83,
+"diag": [
+"uncertain"
+],
+"image_type": "whole_plant",
+"assess": "partially_visible"
+},
+"276": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1607": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"157": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"177": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1629": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"847": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1187": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1045": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 84,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"775": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2014": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+],
+"image_type": "canopy_distant",
+"assess": "cannot_judge"
+},
+"2317": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"501": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1569": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1787": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 84,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"579": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"481": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"163": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2353": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"425": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"832": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1122": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"46": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"739": {
+"status": "ok",
+"primary": "septoria",
+"conf": 77,
+"diag": [
+"septoria"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1172": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"1496": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1479": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"2308": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+],
+"image_type": "whole_plant",
+"assess": "clear_lesions_visible"
+},
+"722": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+},
+"2294": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"526": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+],
+"image_type": "non_wheat",
+"assess": "clear_lesions_visible"
+},
+"104": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"402": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+],
+"image_type": "stem",
+"assess": "clear_lesions_visible"
+},
+"43": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"2181": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+],
+"image_type": "leaf_closeup",
+"assess": "clear_lesions_visible"
+},
+"1219": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+],
+"image_type": "lab_or_specimen",
+"assess": "clear_lesions_visible"
+}
+}

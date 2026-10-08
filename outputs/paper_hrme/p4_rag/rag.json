@@ -1,0 +1,547 @@
+{
+"outputs\\paper_hrme\\p4_inat\\raw\\200601460.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\168490492.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\155626617.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\23502486.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\381030134.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 40,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\378678461.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\317579106.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\297970056.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\297861536.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\276233174.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\226383491.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\226232430.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\184275420.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\183703076.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\174420204.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\169810329.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\54092868.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\53196362.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\386063423.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\383767421.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\363805722.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\216656968.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\189380417.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\164192528.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\163145670.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\75972317.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\56291186.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\378027835.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\325965460.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\312561339.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\291576151.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\290386439.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\252500434.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\251189099.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\221251268.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\200037484.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\168488782.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\81292196.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\80811397.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\29437951.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\292861521.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 80,
+"diag": [
+"powdery_mildew"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\233793930.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 99,
+"diag": [
+"powdery_mildew"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\219378921.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\109197234.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\105536561.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\381007353.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\370087050.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 76,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\168186446.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 91,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\152157445.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 99,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\148514889.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\83157290.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 99,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\60781368.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\386063180.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\361401204.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 87,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\355621129.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\282343103.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 84,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\195256388.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 80,
+"diag": [
+"stem_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\175028797.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\167787882.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\164400638.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\156554826.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\122176871.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 83,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\117636879.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 80,
+"diag": [
+"uncertain"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\112981392.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\110839704.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\90725248.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 82,
+"diag": [
+"septoria",
+"leaf_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\84761593.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 84,
+"diag": [
+"yellow_rust"
+]
+},
+"outputs\\paper_hrme\\p4_inat\\raw\\52351819.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 83,
+"diag": [
+"septoria"
+]
+}
+}

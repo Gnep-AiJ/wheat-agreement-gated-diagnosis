@@ -1,0 +1,107 @@
+{
+ "n": 552,
+ "labels": {
+  "healthy": 42,
+  "leaf_rust": 129,
+  "powdery_mildew": 120,
+  "septoria": 40,
+  "stem_rust": 101,
+  "yellow_rust": 120
+ },
+ "systems": {
+  "L (DINOv3)": {
+   "top1": 467,
+   "acc": 0.8460144927536232,
+   "macro_f1": 0.8297174881751773,
+   "by_source": {
+    "mswdd2022": "76/80",
+    "plantwild": "173/200",
+    "roboflow_newwheat": "123/160",
+    "roboflow_ptriticina": "34/40",
+    "roboflow_stemrust": "24/32",
+    "zenodo13137587": "37/40"
+   },
+   "by_class": {
+    "healthy": "38/42",
+    "leaf_rust": "118/129",
+    "powdery_mildew": "111/120",
+    "septoria": "29/40",
+    "stem_rust": "65/101",
+    "yellow_rust": "106/120"
+   }
+  },
+  "G61 + L fallback": {
+   "top1": 487,
+   "acc": 0.8822463768115942,
+   "macro_f1": 0.8523986278269892,
+   "by_source": {
+    "mswdd2022": "72/80",
+    "plantwild": "180/200",
+    "roboflow_newwheat": "135/160",
+    "roboflow_ptriticina": "35/40",
+    "roboflow_stemrust": "29/32",
+    "zenodo13137587": "36/40"
+   },
+   "by_class": {
+    "healthy": "27/42",
+    "leaf_rust": "110/129",
+    "powdery_mildew": "113/120",
+    "septoria": "28/40",
+    "stem_rust": "98/101",
+    "yellow_rust": "111/120"
+   }
+  },
+  "RAG-VLM + L fallback (frozen system)": {
+   "top1": 485,
+   "acc": 0.8786231884057971,
+   "macro_f1": 0.8632127490441411,
+   "by_source": {
+    "mswdd2022": "72/80",
+    "plantwild": "176/200",
+    "roboflow_newwheat": "140/160",
+    "roboflow_ptriticina": "35/40",
+    "roboflow_stemrust": "26/32",
+    "zenodo13137587": "36/40"
+   },
+   "by_class": {
+    "healthy": "32/42",
+    "leaf_rust": "104/129",
+    "powdery_mildew": "112/120",
+    "septoria": "29/40",
+    "stem_rust": "98/101",
+    "yellow_rust": "110/120"
+   }
+  }
+ },
+ "primary": {
+  "best_single": "G61 + L fallback",
+  "gain_pp": -0.36231884057971014,
+  "ci95_pp": [
+   -2.355072463768116,
+   1.8115942028985508
+  ],
+  "pass_": false
+ },
+ "abstention_v3_alpha5_G=G61": {
+  "n": 552,
+  "released": 401,
+  "errors": 4,
+  "risk": 0.00997506234413965,
+  "risk_cp95": 0.02268035876580676,
+  "informative_coverage": 0.7264492753623188,
+  "specific_coverage": 0.4583333333333333,
+  "diseased_only": 0.0,
+  "abstain": 0.27355072463768115
+ },
+ "abstention_v3_alpha5_G=RAG": {
+  "n": 552,
+  "released": 417,
+  "errors": 7,
+  "risk": 0.016786570743405275,
+  "risk_cp95": 0.031298082139267,
+  "informative_coverage": 0.7554347826086957,
+  "specific_coverage": 0.5307971014492754,
+  "diseased_only": 0.0,
+  "abstain": 0.24456521739130435
+ }
+}

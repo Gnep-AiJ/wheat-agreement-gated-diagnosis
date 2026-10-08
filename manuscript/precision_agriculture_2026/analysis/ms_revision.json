@@ -1,0 +1,871 @@
+{
+ "per_source": {
+  "ets2:henan_field_2023": {
+   "collection": "ETS2",
+   "n": 240,
+   "answered": 164,
+   "coverage": 0.6833333333333333,
+   "coverage_ci95": [
+    0.6203959122213798,
+    0.7416735726838163
+   ],
+   "errors": 1,
+   "accuracy": 0.9939024390243902,
+   "accuracy_ci95": [
+    0.9664963228966128,
+    0.9998456350375441
+   ],
+   "specific": 77,
+   "group": 46,
+   "healthy": 41,
+   "L_forced": 0.9583333333333334,
+   "G61_forced": 0.6875
+  },
+  "ets:mswdd2022": {
+   "collection": "ETS",
+   "n": 80,
+   "answered": 70,
+   "coverage": 0.875,
+   "coverage_ci95": [
+    0.7821108659305637,
+    0.9383979034415657
+   ],
+   "errors": 0,
+   "accuracy": 1.0,
+   "accuracy_ci95": [
+    0.9486662028489763,
+    1.0
+   ],
+   "specific": 49,
+   "group": 21,
+   "healthy": 0,
+   "L_forced": 0.95,
+   "G61_forced": 0.85
+  },
+  "ets:plantwild": {
+   "collection": "ETS",
+   "n": 200,
+   "answered": 153,
+   "coverage": 0.765,
+   "coverage_ci95": [
+    0.700038127352751,
+    0.8219292653993123
+   ],
+   "errors": 3,
+   "accuracy": 0.9803921568627451,
+   "accuracy_ci95": [
+    0.9437687334130378,
+    0.9959379932161693
+   ],
+   "specific": 117,
+   "group": 36,
+   "healthy": 0,
+   "L_forced": 0.865,
+   "G61_forced": 0.85
+  },
+  "ets:roboflow_newwheat": {
+   "collection": "ETS",
+   "n": 160,
+   "answered": 96,
+   "coverage": 0.6,
+   "coverage_ci95": [
+    0.5196927103563289,
+    0.6765313222881966
+   ],
+   "errors": 0,
+   "accuracy": 1.0,
+   "accuracy_ci95": [
+    0.9623030783764125,
+    1.0
+   ],
+   "specific": 31,
+   "group": 58,
+   "healthy": 7,
+   "L_forced": 0.76875,
+   "G61_forced": 0.725
+  },
+  "ets:roboflow_ptriticina": {
+   "collection": "ETS",
+   "n": 40,
+   "answered": 25,
+   "coverage": 0.625,
+   "coverage_ci95": [
+    0.45801475223261096,
+    0.772737277518174
+   ],
+   "errors": 1,
+   "accuracy": 0.96,
+   "accuracy_ci95": [
+    0.796483086077586,
+    0.9989878003006891
+   ],
+   "specific": 2,
+   "group": 22,
+   "healthy": 1,
+   "L_forced": 0.85,
+   "G61_forced": 0.8
+  },
+  "ets:roboflow_stemrust": {
+   "collection": "ETS",
+   "n": 32,
+   "answered": 26,
+   "coverage": 0.8125,
+   "coverage_ci95": [
+    0.63560769013591,
+    0.9279238345415024
+   ],
+   "errors": 0,
+   "accuracy": 1.0,
+   "accuracy_ci95": [
+    0.8677253955022458,
+    1.0
+   ],
+   "specific": 15,
+   "group": 11,
+   "healthy": 0,
+   "L_forced": 0.75,
+   "G61_forced": 0.90625
+  },
+  "ets:zenodo13137587": {
+   "collection": "ETS",
+   "n": 40,
+   "answered": 31,
+   "coverage": 0.775,
+   "coverage_ci95": [
+    0.6154883226965773,
+    0.891603361015928
+   ],
+   "errors": 0,
+   "accuracy": 1.0,
+   "accuracy_ci95": [
+    0.88781125307763,
+    1.0
+   ],
+   "specific": 31,
+   "group": 0,
+   "healthy": 0,
+   "L_forced": 0.925,
+   "G61_forced": 0.85
+  },
+  "p4_rag:inat_pathogen": {
+   "collection": "P4",
+   "n": 68,
+   "answered": 33,
+   "coverage": 0.4852941176470588,
+   "coverage_ci95": [
+    0.362208092297601,
+    0.6097018120202794
+   ],
+   "errors": 3,
+   "accuracy": 0.9090909090909091,
+   "accuracy_ci95": [
+    0.756683649240845,
+    0.9808450570125951
+   ],
+   "specific": 19,
+   "group": 14,
+   "healthy": 0,
+   "L_forced": 0.6176470588235294,
+   "G61_forced": 0.5147058823529411
+  }
+ },
+ "source_macro": {
+  "n_sources": 8,
+  "coverage": 0.702640931372549,
+  "accuracy": 0.9804231881222556,
+  "min_accuracy": 0.9090909090909091,
+  "max_errors": 3
+ },
+ "inat_observer_sensitivity": {
+  "n_observers": 48,
+  "excluded": 3,
+  "n": 65,
+  "answered": 31,
+  "errors": 3,
+  "L_forced": 0.6,
+  "G61_forced": 0.5230769230769231
+ },
+ "matched_coverage_differences": {
+  "ETS": {
+   "diff_vs_L_pp": 2.493765586034913,
+   "ci_vs_L": [
+    0.9828009828009798,
+    4.210526315789476
+   ],
+   "diff_vs_G61_pp": 2.244389027431426,
+   "ci_vs_G61": [
+    0.9545971133083284,
+    3.7535023886794736
+   ]
+  },
+  "ETS2": {
+   "diff_vs_L_pp": 0.6097560975609762,
+   "ci_vs_L": [
+    0.0,
+    1.9480519480519431
+   ],
+   "diff_vs_G61_pp": 16.463414634146346,
+   "ci_vs_G61": [
+    12.222222222222223,
+    23.178807947019862
+   ]
+  },
+  "P4": {
+   "diff_vs_L_pp": 15.15151515151516,
+   "ci_vs_L": [
+    3.2258064516129004,
+    31.034482758620683
+   ],
+   "diff_vs_G61_pp": 0.0,
+   "ci_vs_G61": [
+    -9.677419354838712,
+    10.526315789473683
+   ]
+  }
+ },
+ "composition": {
+  "ETS": {
+   "n": 552,
+   "specific": 245,
+   "group": 148,
+   "healthy": 8,
+   "referred": 151,
+   "errors_by_level": {
+    "specific": 2,
+    "group": 1,
+    "healthy": 1
+   }
+  },
+  "ETS2": {
+   "n": 240,
+   "specific": 77,
+   "group": 46,
+   "healthy": 41,
+   "referred": 76,
+   "errors_by_level": {
+    "specific": 1
+   }
+  },
+  "P4": {
+   "n": 68,
+   "specific": 19,
+   "group": 14,
+   "healthy": 0,
+   "referred": 35,
+   "errors_by_level": {
+    "specific": 1,
+    "group": 2
+   }
+  },
+  "external": {
+   "n": 860,
+   "specific": 341,
+   "group": 208,
+   "healthy": 49,
+   "referred": 262,
+   "errors_by_level": {
+    "specific": 4,
+    "group": 3,
+    "healthy": 1
+   }
+  }
+ },
+ "erroneous_answers": [
+  {
+   "collection": "ETS",
+   "source": "ets:plantwild",
+   "file": "<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0069.jpg",
+   "obs": null,
+   "truth": "septoria",
+   "L": "powdery_mildew",
+   "L_prob": 0.595725417137146,
+   "G61": "powdery_mildew",
+   "G61_conf": 89,
+   "system": "specific: powdery_mildew",
+   "symptoms": {
+    "pustules_present": false,
+    "pustule_color": "none",
+    "pustule_arrangement": "none",
+    "white_powdery_growth": true,
+    "necrotic_blotches": true,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  },
+  {
+   "collection": "ETS",
+   "source": "ets:plantwild",
+   "file": "<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (44).jpg",
+   "obs": null,
+   "truth": "septoria",
+   "L": "yellow_rust",
+   "L_prob": 0.9107746481895447,
+   "G61": "leaf_rust",
+   "G61_conf": 90,
+   "system": "group: R",
+   "symptoms": {
+    "pustules_present": true,
+    "pustule_color": "orange_brown",
+    "pustule_arrangement": "scattered",
+    "white_powdery_growth": false,
+    "necrotic_blotches": false,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  },
+  {
+   "collection": "ETS",
+   "source": "ets:plantwild",
+   "file": "<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0289.jpg",
+   "obs": null,
+   "truth": "stem_rust",
+   "L": "leaf_rust",
+   "L_prob": 0.9308715462684631,
+   "G61": "leaf_rust",
+   "G61_conf": 96,
+   "system": "specific: leaf_rust",
+   "symptoms": {
+    "pustules_present": true,
+    "pustule_color": "orange_brown",
+    "pustule_arrangement": "scattered",
+    "white_powdery_growth": false,
+    "necrotic_blotches": false,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  },
+  {
+   "collection": "ETS",
+   "source": "ets:roboflow_ptriticina",
+   "file": "<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\033032-bottom-right_row03_col02_png.rf.a01243233610342236d5dc9930d080fd.jpg",
+   "obs": null,
+   "truth": "leaf_rust",
+   "L": "healthy",
+   "L_prob": 0.9269042611122131,
+   "G61": "healthy",
+   "G61_conf": 90,
+   "system": "healthy: healthy",
+   "symptoms": {
+    "pustules_present": false,
+    "pustule_color": "none",
+    "pustule_arrangement": "none",
+    "white_powdery_growth": false,
+    "necrotic_blotches": false,
+    "black_dots_in_lesions": false,
+    "affected_organ": "none"
+   }
+  },
+  {
+   "collection": "ETS2",
+   "source": "ets2:henan_field_2023",
+   "file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000519.jpg",
+   "obs": null,
+   "truth": "yellow_rust",
+   "L": "leaf_rust",
+   "L_prob": 0.9933509826660156,
+   "G61": "leaf_rust",
+   "G61_conf": 96,
+   "system": "specific: leaf_rust",
+   "symptoms": {
+    "pustules_present": true,
+    "pustule_color": "orange_brown",
+    "pustule_arrangement": "scattered",
+    "white_powdery_growth": false,
+    "necrotic_blotches": false,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  },
+  {
+   "collection": "P4",
+   "source": "p4_rag:inat_pathogen",
+   "file": "outputs\\paper_hrme\\p4_inat\\raw\\163145670.jpg",
+   "obs": 163145670,
+   "truth": "leaf_rust",
+   "L": "yellow_rust",
+   "L_prob": 0.5989362597465515,
+   "G61": "yellow_rust",
+   "G61_conf": 96,
+   "system": "specific: yellow_rust",
+   "symptoms": {
+    "pustules_present": true,
+    "pustule_color": "yellow",
+    "pustule_arrangement": "stripes_along_veins",
+    "white_powdery_growth": false,
+    "necrotic_blotches": false,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  },
+  {
+   "collection": "P4",
+   "source": "p4_rag:inat_pathogen",
+   "file": "outputs\\paper_hrme\\p4_inat\\raw\\195256388.jpg",
+   "obs": 195256388,
+   "truth": "septoria",
+   "L": "stem_rust",
+   "L_prob": 0.8134163022041321,
+   "G61": "stem_rust",
+   "G61_conf": 76,
+   "system": "group: R",
+   "symptoms": {
+    "pustules_present": true,
+    "pustule_color": "dark_brown_black",
+    "pustule_arrangement": "scattered",
+    "white_powdery_growth": false,
+    "necrotic_blotches": false,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  },
+  {
+   "collection": "P4",
+   "source": "p4_rag:inat_pathogen",
+   "file": "outputs\\paper_hrme\\p4_inat\\raw\\90725248.jpg",
+   "obs": 90725248,
+   "truth": "septoria",
+   "L": "leaf_rust",
+   "L_prob": 0.7015125155448914,
+   "G61": "leaf_rust",
+   "G61_conf": 88,
+   "system": "group: R",
+   "symptoms": {
+    "pustules_present": true,
+    "pustule_color": "orange_brown",
+    "pustule_arrangement": "scattered",
+    "white_powdery_growth": false,
+    "necrotic_blotches": true,
+    "black_dots_in_lesions": false,
+    "affected_organ": "leaf"
+   }
+  }
+ ],
+ "oracle_three_experts": {
+  "EVAL450": 0.7844444444444445,
+  "ETS": 0.9583333333333334,
+  "ETS2": 0.9791666666666666,
+  "P4": 0.7647058823529411,
+  "pooled": 0.8923664122137405
+ },
+ "loso_per_source": {
+  "ets2:henan_field_2023": {
+   "n": 240,
+   "coll": "ETS2",
+   "L": 0.9583333333333334,
+   "G61+L": 0.775,
+   "RAG+L": 0.7458333333333333,
+   "vote3": 0.7875,
+   "knowledge": 0.7708333333333334,
+   "learned_LR_L+G": 0.7583333333333333,
+   "learned_LR_all": 0.7458333333333333,
+   "learned_GBT_all": 0.7875,
+   "oracle2": 0.975,
+   "K10": 0.9297391304347826,
+   "K10_sd": 0.0647307057910828,
+   "best_fixed": 0.9583333333333334
+  },
+  "ets:mswdd2022": {
+   "n": 80,
+   "coll": "ETS",
+   "L": 0.95,
+   "G61+L": 0.9,
+   "RAG+L": 0.9,
+   "vote3": 0.9125,
+   "knowledge": 0.9,
+   "learned_LR_L+G": 0.8875,
+   "learned_LR_all": 0.9,
+   "learned_GBT_all": 0.8625,
+   "oracle2": 0.975,
+   "K10": 0.923142857142857,
+   "K10_sd": 0.022837491552448644,
+   "best_fixed": 0.95
+  },
+  "ets:plantwild": {
+   "n": 200,
+   "coll": "ETS",
+   "L": 0.865,
+   "G61+L": 0.9,
+   "RAG+L": 0.88,
+   "vote3": 0.895,
+   "knowledge": 0.895,
+   "learned_LR_L+G": 0.895,
+   "learned_LR_all": 0.905,
+   "learned_GBT_all": 0.885,
+   "oracle2": 0.935,
+   "K10": 0.8905263157894737,
+   "K10_sd": 0.010888505718724848,
+   "best_fixed": 0.9
+  },
+  "ets:roboflow_newwheat": {
+   "n": 160,
+   "coll": "ETS",
+   "L": 0.76875,
+   "G61+L": 0.84375,
+   "RAG+L": 0.875,
+   "vote3": 0.875,
+   "knowledge": 0.8375,
+   "learned_LR_L+G": 0.81875,
+   "learned_LR_all": 0.79375,
+   "learned_GBT_all": 0.75625,
+   "oracle2": 0.98125,
+   "K10": 0.8474666666666666,
+   "K10_sd": 0.0478263525684324,
+   "best_fixed": 0.875
+  },
+  "ets:roboflow_ptriticina": {
+   "n": 40,
+   "coll": "ETS",
+   "L": 0.85,
+   "G61+L": 0.875,
+   "RAG+L": 0.875,
+   "vote3": 0.875,
+   "knowledge": 0.875,
+   "learned_LR_L+G": 0.775,
+   "learned_LR_all": 0.65,
+   "learned_GBT_all": 0.8,
+   "oracle2": 0.875,
+   "K10": 0.8766666666666668,
+   "K10_sd": 0.029249881291307067,
+   "best_fixed": 0.875
+  },
+  "ets:roboflow_stemrust": {
+   "n": 32,
+   "coll": "ETS",
+   "L": 0.75,
+   "G61+L": 0.90625,
+   "RAG+L": 0.8125,
+   "vote3": 0.875,
+   "knowledge": 0.90625,
+   "learned_LR_L+G": 0.875,
+   "learned_LR_all": 0.78125,
+   "learned_GBT_all": 0.90625,
+   "oracle2": 0.90625,
+   "K10": 0.870909090909091,
+   "K10_sd": 0.03895324597387007,
+   "best_fixed": 0.90625
+  },
+  "ets:zenodo13137587": {
+   "n": 40,
+   "coll": "ETS",
+   "L": 0.925,
+   "G61+L": 0.9,
+   "RAG+L": 0.9,
+   "vote3": 0.9,
+   "knowledge": 0.9,
+   "learned_LR_L+G": 0.875,
+   "learned_LR_all": 0.85,
+   "learned_GBT_all": 0.85,
+   "oracle2": 0.975,
+   "K10": 0.892,
+   "K10_sd": 0.026297443897754687,
+   "best_fixed": 0.925
+  },
+  "eval:Afonnikov": {
+   "n": 36,
+   "coll": "EVAL450",
+   "L": 0.4444444444444444,
+   "G61+L": 0.7777777777777778,
+   "RAG+L": 0.7222222222222222,
+   "vote3": 0.7222222222222222,
+   "knowledge": 0.7777777777777778,
+   "learned_LR_L+G": 0.6944444444444444,
+   "learned_LR_all": 0.5555555555555556,
+   "learned_GBT_all": 0.3611111111111111,
+   "oracle2": 0.8888888888888888,
+   "K10": 0.7007692307692308,
+   "K10_sd": 0.10886449967707942,
+   "best_fixed": 0.7777777777777778
+  },
+  "eval:Bechtold": {
+   "n": 17,
+   "coll": "EVAL450",
+   "L": 0.7647058823529411,
+   "G61+L": 0.7647058823529411,
+   "RAG+L": 0.8235294117647058,
+   "vote3": 0.8235294117647058,
+   "knowledge": 0.7647058823529411,
+   "learned_LR_L+G": 0.8235294117647058,
+   "learned_LR_all": 0.8235294117647058,
+   "learned_GBT_all": 0.5294117647058824,
+   "oracle2": 0.7647058823529411,
+   "K10": 0.8235294117647056,
+   "K10_sd": 2.220446049250313e-16,
+   "best_fixed": 0.8235294117647058
+  },
+  "eval:Gultyaeva": {
+   "n": 119,
+   "coll": "EVAL450",
+   "L": 0.29411764705882354,
+   "G61+L": 0.5462184873949579,
+   "RAG+L": 0.6386554621848739,
+   "vote3": 0.5882352941176471,
+   "knowledge": 0.5546218487394958,
+   "learned_LR_L+G": 0.42857142857142855,
+   "learned_LR_all": 0.3025210084033613,
+   "learned_GBT_all": 0.33613445378151263,
+   "oracle2": 0.5630252100840336,
+   "K10": 0.6034862385321101,
+   "K10_sd": 0.03573462212734723,
+   "best_fixed": 0.6386554621848739
+  },
+  "eval:Skolotneva": {
+   "n": 104,
+   "coll": "EVAL450",
+   "L": 0.5,
+   "G61+L": 0.6730769230769231,
+   "RAG+L": 0.8173076923076923,
+   "vote3": 0.8076923076923077,
+   "knowledge": 0.7403846153846154,
+   "learned_LR_L+G": 0.625,
+   "learned_LR_all": 0.5384615384615384,
+   "learned_GBT_all": 0.4807692307692308,
+   "oracle2": 0.7307692307692307,
+   "K10": 0.8078723404255321,
+   "K10_sd": 0.01093418311279115,
+   "best_fixed": 0.8173076923076923
+  },
+  "eval:SkolotnevaKelbin": {
+   "n": 2,
+   "coll": "EVAL450",
+   "L": 1.0,
+   "G61+L": 0.5,
+   "RAG+L": 0.5,
+   "vote3": 0.5,
+   "knowledge": 0.5,
+   "learned_LR_L+G": 0.5,
+   "learned_LR_all": 0.5,
+   "learned_GBT_all": 0.5,
+   "oracle2": 1.0,
+   "K10": 0.5,
+   "K10_sd": 0.0,
+   "best_fixed": 1.0
+  },
+  "eval:TgBot": {
+   "n": 31,
+   "coll": "EVAL450",
+   "L": 0.8709677419354839,
+   "G61+L": 0.8387096774193549,
+   "RAG+L": 0.8064516129032258,
+   "vote3": 0.8064516129032258,
+   "knowledge": 0.8064516129032258,
+   "learned_LR_L+G": 0.8709677419354839,
+   "learned_LR_all": 0.8064516129032258,
+   "learned_GBT_all": 0.8709677419354839,
+   "oracle2": 0.9032258064516129,
+   "K10": 0.8371428571428571,
+   "K10_sd": 0.061049030516332745,
+   "best_fixed": 0.8709677419354839
+  },
+  "eval:ZindiTrain": {
+   "n": 133,
+   "coll": "EVAL450",
+   "L": 0.7218045112781954,
+   "G61+L": 0.6917293233082706,
+   "RAG+L": 0.6992481203007519,
+   "vote3": 0.7142857142857143,
+   "knowledge": 0.6842105263157895,
+   "learned_LR_L+G": 0.6992481203007519,
+   "learned_LR_all": 0.6917293233082706,
+   "learned_GBT_all": 0.7218045112781954,
+   "oracle2": 0.7669172932330827,
+   "K10": 0.7102439024390245,
+   "K10_sd": 0.009991734306170555,
+   "best_fixed": 0.7218045112781954
+  },
+  "eval:plantix": {
+   "n": 8,
+   "coll": "EVAL450",
+   "L": 0.75,
+   "G61+L": 0.875,
+   "RAG+L": 1.0,
+   "vote3": 1.0,
+   "knowledge": 1.0,
+   "learned_LR_L+G": 1.0,
+   "learned_LR_all": 0.75,
+   "learned_GBT_all": 1.0,
+   "oracle2": 0.875,
+   "K10": 1.0,
+   "K10_sd": 0.0,
+   "best_fixed": 1.0
+  },
+  "p4_rag:inat_pathogen": {
+   "n": 68,
+   "coll": "P4",
+   "L": 0.6176470588235294,
+   "G61+L": 0.6470588235294118,
+   "RAG+L": 0.7205882352941176,
+   "vote3": 0.7058823529411765,
+   "knowledge": 0.6911764705882353,
+   "learned_LR_L+G": 0.6911764705882353,
+   "learned_LR_all": 0.6323529411764706,
+   "learned_GBT_all": 0.6323529411764706,
+   "oracle2": 0.7058823529411765,
+   "K10": 0.6924137931034483,
+   "K10_sd": 0.03937079441708162,
+   "best_fixed": 0.7205882352941176
+  }
+ },
+ "kshot": {
+  "K=5": {
+   "pooled_mean": 0.8195806451612903,
+   "pooled_p2_5": 0.7821774193548388,
+   "pooled_p97_5": 0.8407661290322581,
+   "fallback_sources": [
+    [
+     "eval:SkolotnevaKelbin",
+     2
+    ],
+    [
+     "eval:plantix",
+     8
+    ]
+   ],
+   "fallback_images": 10
+  },
+  "K=10": {
+   "pooled_mean": 0.8263050847457627,
+   "pooled_p2_5": 0.7867584745762712,
+   "pooled_p97_5": 0.8438771186440678,
+   "fallback_sources": [
+    [
+     "eval:Bechtold",
+     17
+    ],
+    [
+     "eval:SkolotnevaKelbin",
+     2
+    ],
+    [
+     "eval:plantix",
+     8
+    ]
+   ],
+   "fallback_images": 27
+  },
+  "K=20": {
+   "pooled_mean": 0.8319459459459457,
+   "pooled_p2_5": 0.8019144144144145,
+   "pooled_p97_5": 0.8482432432432432,
+   "fallback_sources": [
+    [
+     "ets:roboflow_stemrust",
+     32
+    ],
+    [
+     "eval:Afonnikov",
+     36
+    ],
+    [
+     "eval:Bechtold",
+     17
+    ],
+    [
+     "eval:SkolotnevaKelbin",
+     2
+    ],
+    [
+     "eval:TgBot",
+     31
+    ],
+    [
+     "eval:plantix",
+     8
+    ]
+   ],
+   "fallback_images": 126
+  }
+ },
+ "cp_limits": {
+  "dev_15_301": {
+   "one_sided_upper95": 0.07569983601816391,
+   "two_sided": [
+    0.028156443898152826,
+    0.08086227312184502
+   ]
+  },
+  "ets2_1_164": {
+   "one_sided_upper95": 0.028597924142000148,
+   "two_sided": [
+    0.00015436496245593075,
+    0.033503677103387156
+   ]
+  },
+  "inat_3_33": {
+   "one_sided_upper95": 0.21850320270216722,
+   "two_sided": [
+    0.01915494298740492,
+    0.243316350759155
+   ]
+  }
+ },
+ "dup_share_095": {
+  "WFD2020": {
+   "n": 2414,
+   "any_ge095": 298,
+   "pct": 12.344656172328087
+  },
+  "kaggle_wheat_disease_small": {
+   "n": 999,
+   "any_ge095": 999,
+   "pct": 100.0
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash": {
+   "n": 4894,
+   "any_ge095": 2976,
+   "pct": 60.80915406620351
+  },
+  "kaggle_wheat_plant_diseases_kushagra": {
+   "n": 11143,
+   "any_ge095": 3958,
+   "pct": 35.520057435161085
+  },
+  "mendeley_wheat_disease_2025_original": {
+   "n": 1475,
+   "any_ge095": 0,
+   "pct": 0.0
+  },
+  "mendeley_wheat_leaf_dataset": {
+   "n": 406,
+   "any_ge095": 406,
+   "pct": 100.0
+  }
+ },
+ "dedup_visual_validation": {
+  "0.80-0.85": {
+   "same": 5,
+   "n": 20,
+   "keypoint_same": 2,
+   "both": 1
+  },
+  "0.85-0.88": {
+   "same": 5,
+   "n": 20,
+   "keypoint_same": 2,
+   "both": 2
+  },
+  "0.88-0.90": {
+   "same": 7,
+   "n": 20,
+   "keypoint_same": 6,
+   "both": 6
+  },
+  "0.90-0.92": {
+   "same": 15,
+   "n": 20,
+   "keypoint_same": 13,
+   "both": 13
+  },
+  "0.92-0.95": {
+   "same": 19,
+   "n": 20,
+   "keypoint_same": 12,
+   "both": 12
+  },
+  "0.95-1.00": {
+   "same": 20,
+   "n": 20,
+   "keypoint_same": 20,
+   "both": 20
+  }
+ }
+}

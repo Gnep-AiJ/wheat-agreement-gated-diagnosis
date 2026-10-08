@@ -1,0 +1,417 @@
+{
+ "bennin2026": {
+  "status": "ok",
+  "title": "A tertiary systematic literature review and experimental evaluation of deep learning models for plant disease detection",
+  "authors": [
+   "Bennin, K. E.",
+   "van Teeffelen, D.",
+   "Hurst, W.",
+   "Babur, Ö."
+  ],
+  "year": 2026,
+  "venue": "Precision Agriculture",
+  "volume": "27",
+  "issue": "4",
+  "pages": "98",
+  "doi": "10.1007/s11119-026-10398-7",
+  "supports": "lab-to-field gap; accuracy insufficient; private/unrealistic datasets"
+ },
+ "han2026apple": {
+  "status": "ok",
+  "title": "Precision Diagnosis of Apple Leaf Diseases Across Infection Stages via Web-Based Analysis",
+  "authors": [
+   "Han, K.",
+   "Cai, H.",
+   "Peter, K.",
+   "He, L."
+  ],
+  "year": 2026,
+  "venue": "Precision Agriculture",
+  "volume": "27",
+  "issue": "5",
+  "pages": "144",
+  "doi": "10.1007/s11119-026-10451-5",
+  "supports": "recent PA disease diagnosis system in field conditions"
+ },
+ "mao2024daemask": {
+  "status": "ok",
+  "title": "DAE-Mask: a novel deep-learning-based automatic detection model for in-field wheat diseases",
+  "authors": [
+   "Mao, R.",
+   "Zhang, Y.",
+   "Wang, Z.",
+   "Hao, X.",
+   "Zhu, T.",
+   "Gao, S.",
+   "Hu, X."
+  ],
+  "year": 2024,
+  "venue": "Precision Agriculture",
+  "volume": "25",
+  "issue": "2",
+  "pages": "785-810",
+  "doi": "10.1007/s11119-023-10093-x",
+  "supports": "MSWDD2022 dataset (ETS source); in-field wheat disease detection"
+ },
+ "pa2026llm": {
+  "status": "ok",
+  "title": "Emerging roles of large language models (LLMs) in smart farming and precision agriculture: security challenges, threat taxonomy, and mitigation strategies",
+  "authors": [
+   "Dastgerdy, S.",
+   "Yazdinejad, A.",
+   "Dehghantanh, A."
+  ],
+  "year": 2026,
+  "venue": "Precision Agriculture",
+  "volume": "27",
+  "issue": "3",
+  "pages": "86",
+  "doi": "10.1007/s11119-026-10349-2",
+  "supports": "LLMs in smart farming / precision agriculture"
+ },
+ "genaev2021wfd": {
+  "status": "ok",
+  "title": "Image-Based Wheat Fungi Diseases Identification by Deep Learning",
+  "authors": [
+   "Genaev, M. A.",
+   "Skolotneva, E. S.",
+   "Gultyaeva, E. I.",
+   "Orlova, E. A.",
+   "Bechtold, N. P.",
+   "Afonnikov, D. A."
+  ],
+  "year": 2021,
+  "venue": "Plants",
+  "volume": "10",
+  "issue": "8",
+  "pages": "1500",
+  "doi": "10.3390/plants10081500",
+  "supports": "WFD2020 wheat fungal disease dataset (development set)"
+ },
+ "mohanty2016": {
+  "status": "ok",
+  "title": "Using Deep Learning for Image-Based Plant Disease Detection",
+  "authors": [
+   "Mohanty, S. P.",
+   "Hughes, D. P.",
+   "Salathé, M."
+  ],
+  "year": 2016,
+  "venue": "Frontiers in Plant Science",
+  "volume": "7",
+  "issue": null,
+  "pages": "1419",
+  "doi": "10.3389/fpls.2016.01419",
+  "supports": "early deep learning plant disease; lab images; generalisation drop"
+ },
+ "barbedo2018": {
+  "status": "ok",
+  "title": "Factors influencing the use of deep learning for plant disease recognition",
+  "authors": [
+   "Barbedo, J. G."
+  ],
+  "year": 2018,
+  "venue": "Biosystems Engineering",
+  "volume": "172",
+  "issue": null,
+  "pages": "84-91",
+  "doi": "10.1016/j.biosystemseng.2018.05.013",
+  "supports": "factors limiting deep learning plant disease recognition (data variability)"
+ },
+ "singh2020plantdoc": {
+  "status": "ok",
+  "title": "PlantDoc",
+  "authors": [
+   "Singh, D.",
+   "Jain, N.",
+   "Jain, P.",
+   "Kayal, P.",
+   "Kumawat, S.",
+   "Batra, N."
+  ],
+  "year": 2020,
+  "venue": "Proceedings of the 7th ACM IKDD CoDS and 25th COMAD",
+  "volume": null,
+  "issue": null,
+  "pages": "249-253",
+  "doi": "10.1145/3371158.3371196",
+  "supports": "PlantDoc field dataset; lab-to-field gap"
+ },
+ "kuncheva2003": {
+  "status": "ok",
+  "title": "Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy",
+  "authors": [
+   "Kuncheva, L. I.",
+   "Whitaker, C. J."
+  ],
+  "year": 2003,
+  "venue": "Machine Learning",
+  "volume": "51",
+  "issue": "2",
+  "pages": "181-207",
+  "doi": "10.1023/A:1022859003006",
+  "supports": "ensemble diversity / complementary errors"
+ },
+ "clopper1934": {
+  "status": "ok",
+  "title": "THE USE OF CONFIDENCE OR FIDUCIAL LIMITS ILLUSTRATED IN THE CASE OF THE BINOMIAL",
+  "authors": [
+   "CLOPPER, C. J.",
+   "PEARSON, E. S."
+  ],
+  "year": 1934,
+  "venue": "Biometrika",
+  "volume": "26",
+  "issue": "4",
+  "pages": "404-413",
+  "doi": "10.1093/biomet/26.4.404",
+  "supports": "exact binomial confidence intervals"
+ },
+ "geirhos2020": {
+  "status": "ok",
+  "title": "Shortcut learning in deep neural networks",
+  "authors": [
+   "Geirhos, R.",
+   "Jacobsen, J. H.",
+   "Michaelis, C.",
+   "Zemel, R.",
+   "Brendel, W.",
+   "Bethge, M.",
+   "Wichmann, F. A."
+  ],
+  "year": 2020,
+  "venue": "Nature Machine Intelligence",
+  "volume": "2",
+  "issue": "11",
+  "pages": "665-673",
+  "doi": "10.1038/s42256-020-00257-z",
+  "supports": "shortcut learning"
+ },
+ "long2023cerealconv": {
+  "status": "ok",
+  "title": "Classification of wheat diseases using deep learning networks with field and glasshouse images",
+  "authors": [
+   "Long, M.",
+   "Hartley, M.",
+   "Morris, R. J.",
+   "Brown, J. K. M."
+  ],
+  "year": 2023,
+  "venue": "Plant Pathology",
+  "volume": "72",
+  "issue": "3",
+  "pages": "536-547",
+  "doi": "10.1111/ppa.13684",
+  "supports": "CerealConv wheat disease images; field and glasshouse"
+ },
+ "ma2024zenodo": {
+  "status": "ok-zenodo",
+  "title": "Wheat Dataset",
+  "authors": [
+   "Ma, Chaowei"
+  ],
+  "year": "2024",
+  "venue": "Zenodo",
+  "doi": "10.5281/zenodo.15621359",
+  "supports": "Henan field wheat disease dataset (ETS2)"
+ },
+ "simeoni2025dinov3": {
+  "status": "ok",
+  "title": "DINOv3",
+  "authors": [
+   "Oriane Siméoni",
+   "Huy V. Vo",
+   "Maximilian Seitzer",
+   "Federico Baldassarre",
+   "Maxime Oquab",
+   "Cijo Jose",
+   "Vasil Khalidov",
+   "Marc Szafraniec",
+   "Seungeun Yi",
+   "Michaël Ramamonjisoa",
+   "Francisco Massa",
+   "Daniel Haziza",
+   "Luca Wehrstedt",
+   "Jianyuan Wang",
+   "Timothée Darcet",
+   "Théo Moutakanni",
+   "Leonel Sentana",
+   "Claire Roberts",
+   "Andrea Vedaldi",
+   "Jamie Tolan",
+   "John Brandt",
+   "Camille Couprie",
+   "Julien Mairal",
+   "Hervé Jégou",
+   "Patrick Labatut",
+   "Piotr Bojanowski"
+  ],
+  "year": "2025",
+  "venue": "arXiv",
+  "arxiv": "2508.10104",
+  "url": "https://arxiv.org/abs/2508.10104",
+  "supports": "DINOv3 vision foundation model"
+ },
+ "han2025fomo4wheat": {
+  "status": "ok",
+  "title": "FoMo4Wheat: Toward reliable crop vision foundation models with globally curated data",
+  "authors": [
+   "Bing Han",
+   "Chen Zhu",
+   "Dong Han",
+   "Rui Yu",
+   "Songliang Cao",
+   "Jianhui Wu",
+   "Scott Chapman",
+   "Zijian Wang",
+   "Bangyou Zheng",
+   "Wei Guo",
+   "Marie Weiss",
+   "Benoit de Solan",
+   "Andreas Hund",
+   "Lukas Roth",
+   "Kirchgessner Norbert",
+   "Andrea Visioni",
+   "Yufeng Ge",
+   "Wenjuan Li",
+   "Alexis Comar",
+   "Dong Jiang",
+   "Dejun Han",
+   "Fred Baret",
+   "Yanfeng Ding",
+   "Hao Lu",
+   "Shouyang Liu"
+  ],
+  "year": "2025",
+  "venue": "arXiv",
+  "arxiv": "2509.06907",
+  "url": "https://arxiv.org/abs/2509.06907",
+  "supports": "FoMo4Wheat wheat foundation model"
+ },
+ "wiswheat2025": {
+  "status": "ok",
+  "title": "WisWheat: A Three-Tiered Vision-Language Dataset for Wheat Management",
+  "authors": [
+   "Bowen Yuan",
+   "Selena Song",
+   "Javier Fernandez",
+   "Yadan Luo",
+   "Mahsa Baktashmotlagh",
+   "Zijian Wang"
+  ],
+  "year": "2025",
+  "venue": "arXiv",
+  "arxiv": "2506.06084",
+  "url": "https://arxiv.org/abs/2506.06084",
+  "supports": "WisWheat; GPT-4o accuracy on wheat stress / growth stage"
+ },
+ "geifman2017": {
+  "status": "ok",
+  "title": "Selective Classification for Deep Neural Networks",
+  "authors": [
+   "Yonatan Geifman",
+   "Ran El-Yaniv"
+  ],
+  "year": "2017",
+  "venue": "arXiv",
+  "arxiv": "1705.08500",
+  "url": "https://arxiv.org/abs/1705.08500",
+  "supports": "selective classification with a reject option"
+ },
+ "ovadia2019": {
+  "status": "ok",
+  "title": "Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift",
+  "authors": [
+   "Yaniv Ovadia",
+   "Emily Fertig",
+   "Jie Ren",
+   "Zachary Nado",
+   "D Sculley",
+   "Sebastian Nowozin",
+   "Joshua V. Dillon",
+   "Balaji Lakshminarayanan",
+   "Jasper Snoek"
+  ],
+  "year": "2019",
+  "venue": "arXiv",
+  "arxiv": "1906.02530",
+  "url": "https://arxiv.org/abs/1906.02530",
+  "supports": "uncertainty under dataset shift; overconfidence"
+ },
+ "wei2024plantwild": {
+  "status": "ok",
+  "title": "Benchmarking In-the-wild Multimodal Disease Recognition and A Versatile Baseline",
+  "authors": [
+   "Tianqi Wei",
+   "Zhi Chen",
+   "Zi Huang",
+   "Xin Yu"
+  ],
+  "year": "2024",
+  "venue": "arXiv",
+  "arxiv": "2408.03120",
+  "url": "https://arxiv.org/abs/2408.03120",
+  "supports": "PlantWild in-the-wild plant disease benchmark (ETS source)"
+ },
+ "wei2024plantseg": {
+  "status": "ok",
+  "title": "PlantSeg: A Large-Scale In-the-wild Dataset for Plant Disease Segmentation",
+  "authors": [
+   "Tianqi Wei",
+   "Zhi Chen",
+   "Xin Yu",
+   "Scott Chapman",
+   "Paul Melloy",
+   "Zi Huang"
+  ],
+  "year": "2024",
+  "venue": "arXiv",
+  "arxiv": "2409.04038",
+  "url": "https://arxiv.org/abs/2409.04038",
+  "supports": "PlantSeg dataset (candidate source removed by dedup)"
+ },
+ "noyan2022": {
+  "status": "ok",
+  "title": "Uncovering bias in the PlantVillage dataset",
+  "authors": [
+   "Mehmet Alican Noyan"
+  ],
+  "year": "2022",
+  "venue": "arXiv",
+  "arxiv": "2206.04374",
+  "url": "https://arxiv.org/abs/2206.04374",
+  "supports": "PlantVillage bias: background-only accuracy"
+ },
+ "selfconsistency2025": {
+  "status": "ok",
+  "title": "Self-Consistency in Vision-Language Models for Precision Agriculture: Multi-Response Consensus for Crop Disease Management",
+  "authors": [
+   "Mihir Gupta",
+   "Abhay Mangla",
+   "Ross Greer",
+   "Pratik Desai"
+  ],
+  "year": "2025",
+  "venue": "arXiv",
+  "arxiv": "2507.08024",
+  "url": "https://arxiv.org/abs/2507.08024",
+  "supports": "multi-response consensus for VLM crop disease diagnosis"
+ },
+ "fusionexperts2026": {
+  "status": "ok",
+  "title": "Fusing Perceptual Vision Experts with Multimodal LLMs for Explainable Plant Disease Diagnosis: From Benchmark Imagery to Real-World Robotic Field Validation",
+  "authors": [
+   "Ranjan Sapkota",
+   "Konstantinos I. Roumeliotis",
+   "Pengyao Xie",
+   "Nikolaos D. Tselikas",
+   "Lirong Xiang",
+   "Manoj Karkee"
+  ],
+  "year": "2026",
+  "venue": "arXiv",
+  "arxiv": "2608.24934",
+  "url": "https://arxiv.org/abs/2608.24934",
+  "supports": "fusing vision experts with MLLMs for plant disease diagnosis"
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "L": "dino",
+ "G": "g61",
+ "forced_top1_L": 247,
+ "forced_top1_G": 263,
+ "forced_top1_hrme": 279,
+ "alpha_0.05": {
+  "HRME": {
+   "n": 450,
+   "released": 129,
+   "errors": 16,
+   "risk": 0.12403100775193798,
+   "risk_cp95": 0.18227103755000038,
+   "informative_coverage": 0.2,
+   "specific_coverage": 0.18888888888888888,
+   "diseased_only": 0.08666666666666667,
+   "abstain": 0.7133333333333334,
+   "chosen": [
+    [
+     0.9,
+     0.5,
+     0.95
+    ],
+    null,
+    null
+   ]
+  },
+  "HRME_noG": {
+   "n": 450,
+   "released": 342,
+   "errors": 17,
+   "risk": 0.049707602339181284,
+   "risk_cp95": 0.07362961407779645,
+   "informative_coverage": 0.34,
+   "specific_coverage": 0.14666666666666667,
+   "diseased_only": 0.42,
+   "abstain": 0.24,
+   "chosen": [
+    [
+     0.98,
+     0.5,
+     0.8
+    ],
+    [
+     0.9,
+     0.5,
+     0.98
+    ],
+    [
+     0.98,
+     0.5,
+     0.95
+    ]
+   ]
+  },
+  "HRME_S": {
+   "n": 450,
+   "released": 129,
+   "errors": 14,
+   "risk": 0.10852713178294573,
+   "risk_cp95": 0.1644494856040764,
+   "informative_coverage": 0.1688888888888889,
+   "specific_coverage": 0.16666666666666666,
+   "diseased_only": 0.11777777777777777,
+   "abstain": 0.7133333333333334,
+   "chosen": [
+    [
+     0.9,
+     0.5,
+     0.98
+    ],
+    null,
+    null
+   ]
+  },
+  "HRME_v2": {
+   "n": 450,
+   "released": 342,
+   "errors": 17,
+   "risk": 0.049707602339181284,
+   "risk_cp95": 0.07362961407779645,
+   "informative_coverage": 0.34,
+   "specific_coverage": 0.17333333333333334,
+   "diseased_only": 0.42,
+   "abstain": 0.24,
+   "chosen": [
+    [
+     0.98,
+     0.5,
+     0.8,
+     null
+    ],
+    [
+     0.9,
+     0.5,
+     0.98,
+     95
+    ],
+    [
+     0.98,
+     0.5,
+     0.95,
+     95
+    ]
+   ]
+  },
+  "B1_flat_L": {
+   "n": 450,
+   "released": 14,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 0.19263617565013527,
+   "informative_coverage": 0.03111111111111111,
+   "specific_coverage": 0.03111111111111111,
+   "diseased_only": 0.0,
+   "abstain": 0.9688888888888889,
+   "chosen": [
+    [
+     0.999
+    ],
+    [
+     0.999
+    ],
+    [
+     0.999
+    ]
+   ]
+  },
+  "B2_flat_G": {
+   "n": 450,
+   "released": 17,
+   "errors": 2,
+   "risk": 0.11764705882352941,
+   "risk_cp95": 0.3261930630834782,
+   "informative_coverage": 0.03777777777777778,
+   "specific_coverage": 0.03777777777777778,
+   "diseased_only": 0.0,
+   "abstain": 0.9622222222222222,
+   "chosen": [
+    [
+     98
+    ],
+    null,
+    null
+   ]
+  },
+  "primary_gain_pp": 16.222222222222225,
+  "primary_pass": false
+ },
+ "alpha_0.1": {
+  "HRME": {
+   "n": 450,
+   "released": 365,
+   "errors": 38,
+   "risk": 0.10410958904109589,
+   "risk_cp95": 0.13422172658374523,
+   "informative_coverage": 0.4488888888888889,
+   "specific_coverage": 0.38666666666666666,
+   "diseased_only": 0.3622222222222222,
+   "abstain": 0.18888888888888888,
+   "chosen": [
+    [
+     0.5,
+     0.5,
+     0.9
+    ],
+    [
+     0.98,
+     0.5,
+     0.9
+    ],
+    [
+     0.6,
+     0.5,
+     0.95
+    ]
+   ]
+  },
+  "HRME_noG": {
+   "n": 450,
+   "released": 367,
+   "errors": 37,
+   "risk": 0.1008174386920981,
+   "risk_cp95": 0.1304914834128244,
+   "informative_coverage": 0.74,
+   "specific_coverage": 0.24444444444444444,
+   "diseased_only": 0.07555555555555556,
+   "abstain": 0.18444444444444444,
+   "chosen": [
+    [
+     0.5,
+     0.5,
+     0.6
+    ],
+    [
+     0.8,
+     0.5,
+     0.6
+    ],
+    [
+     0.7,
+     0.5,
+     0.6
+    ]
+   ]
+  },
+  "HRME_S": {
+   "n": 450,
+   "released": 359,
+   "errors": 32,
+   "risk": 0.08913649025069638,
+   "risk_cp95": 0.11787611314828501,
+   "informative_coverage": 0.3088888888888889,
+   "specific_coverage": 0.30444444444444446,
+   "diseased_only": 0.4888888888888889,
+   "abstain": 0.20222222222222222,
+   "chosen": [
+    [
+     0.9,
+     0.5,
+     0.95
+    ],
+    [
+     0.7,
+     0.5,
+     0.98
+    ],
+    [
+     0.5,
+     0.5,
+     0.98
+    ]
+   ]
+  },
+  "HRME_v2": {
+   "n": 450,
+   "released": 367,
+   "errors": 37,
+   "risk": 0.1008174386920981,
+   "risk_cp95": 0.1304914834128244,
+   "informative_coverage": 0.74,
+   "specific_coverage": 0.24444444444444444,
+   "diseased_only": 0.07555555555555556,
+   "abstain": 0.18444444444444444,
+   "chosen": [
+    [
+     0.5,
+     0.5,
+     0.6,
+     null
+    ],
+    [
+     0.8,
+     0.5,
+     0.6,
+     null
+    ],
+    [
+     0.7,
+     0.5,
+     0.6,
+     null
+    ]
+   ]
+  },
+  "B1_flat_L": {
+   "n": 450,
+   "released": 14,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 0.19263617565013527,
+   "informative_coverage": 0.03111111111111111,
+   "specific_coverage": 0.03111111111111111,
+   "diseased_only": 0.0,
+   "abstain": 0.9688888888888889,
+   "chosen": [
+    [
+     0.999
+    ],
+    [
+     0.999
+    ],
+    [
+     0.999
+    ]
+   ]
+  },
+  "B2_flat_G": {
+   "n": 450,
+   "released": 76,
+   "errors": 8,
+   "risk": 0.10526315789473684,
+   "risk_cp95": 0.1819215536670836,
+   "informative_coverage": 0.1688888888888889,
+   "specific_coverage": 0.1688888888888889,
+   "diseased_only": 0.0,
+   "abstain": 0.8311111111111111,
+   "chosen": [
+    [
+     95
+    ],
+    [
+     95
+    ],
+    [
+     98
+    ]
+   ]
+  },
+  "primary_gain_pp": 28.000000000000004,
+  "primary_pass": false
+ }
+}

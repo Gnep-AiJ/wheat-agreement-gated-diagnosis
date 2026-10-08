@@ -1,0 +1,33 @@
+Barbedo, J. G. (2018). Factors influencing the use of deep learning for plant disease recognition. *Biosystems Engineering*, *172*, 84–91. https://doi.org/10.1016/j.biosystemseng.2018.05.013
+Bennin, K. E., van Teeffelen, D., Hurst, W., & Babur, Ö. (2026). A tertiary systematic literature review and experimental evaluation of deep learning models for plant disease detection. *Precision Agriculture*, *27*(4), 98. https://doi.org/10.1007/s11119-026-10398-7
+Clopper, C. J., & Pearson, E. S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, *26*(4), 404–413. https://doi.org/10.1093/biomet/26.4.404
+Dastgerdy, S., Yazdinejad, A., & Dehghantanh, A. (2026). Emerging roles of large language models (LLMs) in smart farming and precision agriculture: Security challenges, threat taxonomy, and mitigation strategies. *Precision Agriculture*, *27*(3), 86. https://doi.org/10.1007/s11119-026-10349-2
+Geifman, Y., & El-Yaniv, R. (2017). Selective classification for deep neural networks. *arXiv* preprint arXiv:1705.08500. https://doi.org/10.48550/arXiv.1705.08500
+Geirhos, R., Jacobsen, J. H., Michaelis, C., Zemel, R., Brendel, W., Bethge, M., et al. (2020). Shortcut learning in deep neural networks. *Nature Machine Intelligence*, *2*(11), 665–673. https://doi.org/10.1038/s42256-020-00257-z
+Genaev, M. A., Skolotneva, E. S., Gultyaeva, E. I., Orlova, E. A., Bechtold, N. P., & Afonnikov, D. A. (2021). Image-based wheat fungi diseases identification by deep learning. *Plants*, *10*(8), 1500. https://doi.org/10.3390/plants10081500
+Getachew, H. (2021). *Wheat leaf dataset* (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/wgd66f8n6h.1
+Gupta, M., Mangla, A., Greer, R., & Desai, P. (2025). Self-consistency in vision-language models for precision agriculture: Multi-response consensus for crop disease management. *arXiv* preprint arXiv:2507.08024. https://doi.org/10.48550/arXiv.2507.08024
+Han, B., Zhu, C., Han, D., Yu, R., Cao, S., Wu, J., et al. (2025). FoMo4Wheat: Toward reliable crop vision foundation models with globally curated data. *arXiv* preprint arXiv:2509.06907. https://doi.org/10.48550/arXiv.2509.06907
+iNaturalist (2026). *iNaturalist API* (observations of wheat pathogens). https://api.inaturalist.org/v1/docs/. Last accessed 8 October 2026
+jayaprakashpondy (2023). *Wheat leaf disease* (Version 1) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/jayaprakashpondy/wheat-leaf-disease. Last accessed 8 October 2026
+Kuncheva, L. I., & Whitaker, C. J. (2003). Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy. *Machine Learning*, *51*(2), 181–207. https://doi.org/10.1023/A:1022859003006
+kushagra3204 (2024). *Wheat plant diseases* (Version 6) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases. Last accessed 8 October 2026
+Long, M., Hartley, M., Morris, R. J., & Brown, J. K. M. (2023). Classification of wheat diseases using deep learning networks with field and glasshouse images. *Plant Pathology*, *72*(3), 536–547. https://doi.org/10.1111/ppa.13684
+Ma, C. (2024). *Wheat dataset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15621359
+Mao, R., Zhang, Y., Wang, Z., Hao, X., Zhu, T., Gao, S., et al. (2024). DAE-Mask: A novel deep-learning-based automatic detection model for in-field wheat diseases. *Precision Agriculture*, *25*(2), 785–810. https://doi.org/10.1007/s11119-023-10093-x
+Mohanty, S. P., Hughes, D. P., & Salathé, M. (2016). Using deep learning for image-based plant disease detection. *Frontiers in Plant Science*, *7*, 1419. https://doi.org/10.3389/fpls.2016.01419
+Noyan, M. A. (2022). Uncovering bias in the PlantVillage dataset. *arXiv* preprint arXiv:2206.04374. https://doi.org/10.48550/arXiv.2206.04374
+Önler, E., & Köycü, N. D. (2024). *Wheat powdery mildew image dataset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13137587
+OpenAI (2026). *Codex CLI* (Version 0.160.1) and model gpt-6.1-sol [Software]. https://github.com/openai/codex. Last accessed 8 October 2026
+Ovadia, Y., Fertig, E., Ren, J., Nado, Z., Sculley, D., Nowozin, S., et al. (2019). Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift. *arXiv* preprint arXiv:1906.02530. https://doi.org/10.48550/arXiv.1906.02530
+Radowan, M. I. R., & Ayon, R. (2025). *Disease dataset of wheat: Original, augmented, and balanced for deep learning* (Version 1) [Data set, CC BY 4.0]. Mendeley Data. https://doi.org/10.17632/5gc7hwydwg.1
+Roboflow Universe (2022). *New wheat disease* (Version 2) [Data set, CC BY 4.0]. https://universe.roboflow.com/object-detection/new-wheat-disease. Last accessed 8 October 2026
+Roboflow Universe (2023). *Stem rust* (Version 1) [Data set, CC BY 4.0]. https://universe.roboflow.com/kinza-kamal/stem-rust. Last accessed 8 October 2026
+Roboflow Universe (2026). *Puccinia triticina* (Version 7) [Data set, CC BY 4.0]. https://universe.roboflow.com/louisvalentins-workspace/puccinia-triticina. Last accessed 8 October 2026
+Sapkota, R., Roumeliotis, K. I., Xie, P., Tselikas, N. D., Xiang, L., & Karkee, M. (2026). Fusing perceptual vision experts with multimodal LLMs for explainable plant disease diagnosis: From benchmark imagery to real-world robotic field validation. *arXiv* preprint arXiv:2608.24934. https://doi.org/10.48550/arXiv.2608.24934
+Savary, S., Willocquet, L., Pethybridge, S. J., Esker, P., McRoberts, N., & Nelson, A. (2019). The global burden of pathogens and pests on major food crops. *Nature Ecology & Evolution*, *3*(3), 430–439. https://doi.org/10.1038/s41559-018-0793-y
+Siméoni, O., Vo, H. V., Seitzer, M., Baldassarre, F., Oquab, M., Jose, C., et al. (2025). DINOv3. *arXiv* preprint arXiv:2508.10104. https://doi.org/10.48550/arXiv.2508.10104
+Singh, D., Jain, N., Jain, P., Kayal, P., Kumawat, S., & Batra, N. (2020). PlantDoc: A dataset for visual plant disease detection. *Proceedings of the 7th ACM IKDD CoDS and 25th COMAD*, 249–253. https://doi.org/10.1145/3371158.3371196
+Wei, T., Chen, Z., Huang, Z., & Yu, X. (2024a). Benchmarking in-the-wild multimodal disease recognition and a versatile baseline. *arXiv* preprint arXiv:2408.03120. https://doi.org/10.48550/arXiv.2408.03120
+Wei, T., Chen, Z., Yu, X., Chapman, S., Melloy, P., & Huang, Z. (2024b). PlantSeg: A large-scale in-the-wild dataset for plant disease segmentation. *arXiv* preprint arXiv:2409.04038. https://doi.org/10.48550/arXiv.2409.04038
+Yuan, B., Song, S., Fernandez, J., Luo, Y., Baktashmotlagh, M., & Wang, Z. (2025). WisWheat: A three-tiered vision-language dataset for wheat management. *arXiv* preprint arXiv:2506.06084. https://doi.org/10.48550/arXiv.2506.06084

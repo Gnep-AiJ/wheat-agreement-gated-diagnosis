@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.docx
+*.pdf
+!manuscript/precision_agriculture_2026/figures/*.pdf
+images/
+data/
+*.pt
+*.safetensors
+.env
+keys.json

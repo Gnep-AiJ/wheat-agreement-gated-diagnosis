@@ -1,0 +1,50 @@
+{
+ "G6": {
+  "top1": 223,
+  "n": 450,
+  "rust_end_to_end": "162/312",
+  "recall_leaf_rust": "66/97",
+  "recall_stem_rust": "25/86",
+  "recall_yellow_rust": "71/129",
+  "rust_conditional": "162/257",
+  "by_source": {
+   "Afonnikov": "30/36",
+   "Bechtold": "8/17",
+   "Gultyaeva": "60/119",
+   "Skolotneva": "34/104",
+   "SkolotnevaKelbin": "2/2",
+   "TgBot": "21/31",
+   "ZindiTrain": "64/133",
+   "plantix": "4/8"
+  },
+  "by_fold": {
+   "0": "72/150",
+   "1": "81/150",
+   "2": "70/150"
+  }
+ },
+ "G61": {
+  "top1": 263,
+  "n": 450,
+  "rust_end_to_end": "190/312",
+  "recall_leaf_rust": "60/97",
+  "recall_stem_rust": "51/86",
+  "recall_yellow_rust": "79/129",
+  "rust_conditional": "190/272",
+  "by_source": {
+   "Afonnikov": "28/36",
+   "Bechtold": "12/17",
+   "Gultyaeva": "64/119",
+   "Skolotneva": "63/104",
+   "SkolotnevaKelbin": "1/2",
+   "TgBot": "23/31",
+   "ZindiTrain": "67/133",
+   "plantix": "5/8"
+  },
+  "by_fold": {
+   "0": "79/150",
+   "1": "87/150",
+   "2": "97/150"
+  }
+ }
+}

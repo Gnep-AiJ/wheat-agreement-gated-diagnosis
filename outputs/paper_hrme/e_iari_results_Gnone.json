@@ -1,0 +1,66 @@
+{
+ "alpha_0.05": {
+  "HRME_noG": {
+   "n": 852,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": [
+    0.98,
+    0.5,
+    0.95
+   ]
+  },
+  "B1_flat_L": {
+   "n": 852,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": [
+    0.999
+   ]
+  }
+ },
+ "alpha_0.1": {
+  "HRME_noG": {
+   "n": 852,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": [
+    0.6,
+    0.5,
+    0.6
+   ]
+  },
+  "B1_flat_L": {
+   "n": 852,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": [
+    0.999
+   ]
+  }
+ }
+}

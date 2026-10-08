@@ -1,0 +1,357 @@
+{
+"200601460": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98
+},
+"168490492": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98
+},
+"155626617": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95
+},
+"23502486": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86
+},
+"381030134": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90
+},
+"378678461": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94
+},
+"317579106": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97
+},
+"297970056": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87
+},
+"297861536": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96
+},
+"276233174": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 80
+},
+"226383491": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91
+},
+"226232430": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96
+},
+"184275420": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88
+},
+"183703076": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 75
+},
+"174420204": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95
+},
+"169810329": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96
+},
+"54092868": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86
+},
+"53196362": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88
+},
+"386063423": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95
+},
+"383767421": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88
+},
+"363805722": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90
+},
+"309265590": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97
+},
+"216656968": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"189380417": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"164192528": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"163145670": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96
+},
+"75972317": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"56291186": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98
+},
+"378027835": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85
+},
+"325965460": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87
+},
+"312561339": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94
+},
+"291576151": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98
+},
+"290386439": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98
+},
+"252500434": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83
+},
+"251189099": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94
+},
+"221251268": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94
+},
+"200037484": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"168488782": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96
+},
+"81292196": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"80811397": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99
+},
+"29437951": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95
+},
+"238705635": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95
+},
+"292861521": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 83
+},
+"233793930": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98
+},
+"219378921": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96
+},
+"164873870": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98
+},
+"109197234": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95
+},
+"105536561": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96
+},
+"381007353": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88
+},
+"370087050": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90
+},
+"168186446": {
+"status": "ok",
+"primary": "septoria",
+"conf": 89
+},
+"152157445": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98
+},
+"148514889": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98
+},
+"83157290": {
+"status": "ok",
+"primary": "septoria",
+"conf": 99
+},
+"60781368": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98
+},
+"386063180": {
+"status": "ok",
+"primary": "septoria",
+"conf": 93
+},
+"361401204": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90
+},
+"355621129": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96
+},
+"282343103": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85
+},
+"195256388": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 76
+},
+"175028797": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94
+},
+"167787882": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90
+},
+"164400638": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96
+},
+"156554826": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96
+},
+"122176871": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85
+},
+"117636879": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90
+},
+"112981392": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94
+},
+"110839704": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88
+},
+"90725248": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88
+},
+"84761593": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90
+},
+"52351819": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86
+}
+}

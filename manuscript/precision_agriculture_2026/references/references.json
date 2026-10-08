@@ -1,0 +1,180 @@
+{
+ "barbedo2018": {
+  "text": "Barbedo, J. G. (2018). Factors influencing the use of deep learning for plant disease recognition. *Biosystems Engineering*, *172*, 84–91. https://doi.org/10.1016/j.biosystemseng.2018.05.013",
+  "cite": "Barbedo, 2018",
+  "doi": "10.1016/j.biosystemseng.2018.05.013",
+  "supports": "factors limiting deep learning plant disease recognition (data variability)"
+ },
+ "bennin2026": {
+  "text": "Bennin, K. E., van Teeffelen, D., Hurst, W., & Babur, Ö. (2026). A tertiary systematic literature review and experimental evaluation of deep learning models for plant disease detection. *Precision Agriculture*, *27*(4), 98. https://doi.org/10.1007/s11119-026-10398-7",
+  "cite": "Bennin et al., 2026",
+  "doi": "10.1007/s11119-026-10398-7",
+  "supports": "lab-to-field gap; accuracy insufficient; private/unrealistic datasets"
+ },
+ "clopper1934": {
+  "text": "Clopper, C. J., & Pearson, E. S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, *26*(4), 404–413. https://doi.org/10.1093/biomet/26.4.404",
+  "cite": "Clopper & Pearson, 1934",
+  "doi": "10.1093/biomet/26.4.404",
+  "supports": "exact binomial confidence intervals"
+ },
+ "pa2026llm": {
+  "text": "Dastgerdy, S., Yazdinejad, A., & Dehghantanh, A. (2026). Emerging roles of large language models (LLMs) in smart farming and precision agriculture: Security challenges, threat taxonomy, and mitigation strategies. *Precision Agriculture*, *27*(3), 86. https://doi.org/10.1007/s11119-026-10349-2",
+  "cite": "Dastgerdy et al., 2026",
+  "doi": "10.1007/s11119-026-10349-2",
+  "supports": "LLMs in smart farming / precision agriculture"
+ },
+ "geifman2017": {
+  "text": "Geifman, Y., & El-Yaniv, R. (2017). Selective classification for deep neural networks. *arXiv* preprint arXiv:1705.08500. https://doi.org/10.48550/arXiv.1705.08500",
+  "cite": "Geifman & El-Yaniv, 2017",
+  "doi": "1705.08500",
+  "supports": "selective classification with a reject option"
+ },
+ "geirhos2020": {
+  "text": "Geirhos, R., Jacobsen, J. H., Michaelis, C., Zemel, R., Brendel, W., Bethge, M., et al. (2020). Shortcut learning in deep neural networks. *Nature Machine Intelligence*, *2*(11), 665–673. https://doi.org/10.1038/s42256-020-00257-z",
+  "cite": "Geirhos et al., 2020",
+  "doi": "10.1038/s42256-020-00257-z",
+  "supports": "shortcut learning"
+ },
+ "genaev2021wfd": {
+  "text": "Genaev, M. A., Skolotneva, E. S., Gultyaeva, E. I., Orlova, E. A., Bechtold, N. P., & Afonnikov, D. A. (2021). Image-based wheat fungi diseases identification by deep learning. *Plants*, *10*(8), 1500. https://doi.org/10.3390/plants10081500",
+  "cite": "Genaev et al., 2021",
+  "doi": "10.3390/plants10081500",
+  "supports": "WFD2020 wheat fungal disease dataset (development set)"
+ },
+ "getachew2021": {
+  "text": "Getachew, H. (2021). *Wheat leaf dataset* (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/wgd66f8n6h.1",
+  "cite": "Getachew, 2021"
+ },
+ "selfconsistency2025": {
+  "text": "Gupta, M., Mangla, A., Greer, R., & Desai, P. (2025). Self-consistency in vision-language models for precision agriculture: Multi-response consensus for crop disease management. *arXiv* preprint arXiv:2507.08024. https://doi.org/10.48550/arXiv.2507.08024",
+  "cite": "Gupta et al., 2025",
+  "doi": "2507.08024",
+  "supports": "multi-response consensus for VLM crop disease diagnosis"
+ },
+ "han2025fomo4wheat": {
+  "text": "Han, B., Zhu, C., Han, D., Yu, R., Cao, S., Wu, J., et al. (2025). FoMo4Wheat: Toward reliable crop vision foundation models with globally curated data. *arXiv* preprint arXiv:2509.06907. https://doi.org/10.48550/arXiv.2509.06907",
+  "cite": "Han et al., 2025",
+  "doi": "2509.06907",
+  "supports": "FoMo4Wheat wheat foundation model"
+ },
+ "inaturalist": {
+  "text": "iNaturalist (2026). *iNaturalist API* (observations of wheat pathogens). https://api.inaturalist.org/v1/docs/. Last accessed 8 October 2026",
+  "cite": "iNaturalist, 2026"
+ },
+ "jayaprakash2023": {
+  "text": "jayaprakashpondy (2023). *Wheat leaf disease* (Version 1) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/jayaprakashpondy/wheat-leaf-disease. Last accessed 8 October 2026",
+  "cite": "jayaprakashpondy, 2023"
+ },
+ "kuncheva2003": {
+  "text": "Kuncheva, L. I., & Whitaker, C. J. (2003). Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy. *Machine Learning*, *51*(2), 181–207. https://doi.org/10.1023/A:1022859003006",
+  "cite": "Kuncheva & Whitaker, 2003",
+  "doi": "10.1023/A:1022859003006",
+  "supports": "ensemble diversity / complementary errors"
+ },
+ "kushagra2024": {
+  "text": "kushagra3204 (2024). *Wheat plant diseases* (Version 6) [Data set, CC0]. Kaggle. https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases. Last accessed 8 October 2026",
+  "cite": "kushagra3204, 2024"
+ },
+ "long2023cerealconv": {
+  "text": "Long, M., Hartley, M., Morris, R. J., & Brown, J. K. M. (2023). Classification of wheat diseases using deep learning networks with field and glasshouse images. *Plant Pathology*, *72*(3), 536–547. https://doi.org/10.1111/ppa.13684",
+  "cite": "Long et al., 2023",
+  "doi": "10.1111/ppa.13684",
+  "supports": "CerealConv wheat disease images; field and glasshouse"
+ },
+ "ma2024zenodo": {
+  "text": "Ma, C. (2024). *Wheat dataset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15621359",
+  "cite": "Ma, 2024",
+  "doi": "10.5281/zenodo.15621359",
+  "supports": "Henan field wheat disease dataset (ETS2)"
+ },
+ "mao2024daemask": {
+  "text": "Mao, R., Zhang, Y., Wang, Z., Hao, X., Zhu, T., Gao, S., et al. (2024). DAE-Mask: A novel deep-learning-based automatic detection model for in-field wheat diseases. *Precision Agriculture*, *25*(2), 785–810. https://doi.org/10.1007/s11119-023-10093-x",
+  "cite": "Mao et al., 2024",
+  "doi": "10.1007/s11119-023-10093-x",
+  "supports": "MSWDD2022 dataset (ETS source); in-field wheat disease detection"
+ },
+ "mohanty2016": {
+  "text": "Mohanty, S. P., Hughes, D. P., & Salathé, M. (2016). Using deep learning for image-based plant disease detection. *Frontiers in Plant Science*, *7*, 1419. https://doi.org/10.3389/fpls.2016.01419",
+  "cite": "Mohanty et al., 2016",
+  "doi": "10.3389/fpls.2016.01419",
+  "supports": "early deep learning plant disease; lab images; generalisation drop"
+ },
+ "noyan2022": {
+  "text": "Noyan, M. A. (2022). Uncovering bias in the PlantVillage dataset. *arXiv* preprint arXiv:2206.04374. https://doi.org/10.48550/arXiv.2206.04374",
+  "cite": "Noyan, 2022",
+  "doi": "2206.04374",
+  "supports": "PlantVillage bias: background-only accuracy"
+ },
+ "onler2024": {
+  "text": "Önler, E., & Köycü, N. D. (2024). *Wheat powdery mildew image dataset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13137587",
+  "cite": "Önler & Köycü, 2024"
+ },
+ "openai_codex": {
+  "text": "OpenAI (2026). *Codex CLI* (Version 0.160.1) and model gpt-6.1-sol [Software]. https://github.com/openai/codex. Last accessed 8 October 2026",
+  "cite": "OpenAI, 2026"
+ },
+ "ovadia2019": {
+  "text": "Ovadia, Y., Fertig, E., Ren, J., Nado, Z., Sculley, D., Nowozin, S., et al. (2019). Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift. *arXiv* preprint arXiv:1906.02530. https://doi.org/10.48550/arXiv.1906.02530",
+  "cite": "Ovadia et al., 2019",
+  "doi": "1906.02530",
+  "supports": "uncertainty under dataset shift; overconfidence"
+ },
+ "radowan2025": {
+  "text": "Radowan, M. I. R., & Ayon, R. (2025). *Disease dataset of wheat: Original, augmented, and balanced for deep learning* (Version 1) [Data set, CC BY 4.0]. Mendeley Data. https://doi.org/10.17632/5gc7hwydwg.1",
+  "cite": "Radowan & Ayon, 2025"
+ },
+ "roboflowN": {
+  "text": "Roboflow Universe (2022). *New wheat disease* (Version 2) [Data set, CC BY 4.0]. https://universe.roboflow.com/object-detection/new-wheat-disease. Last accessed 8 October 2026",
+  "cite": "Roboflow Universe, 2022"
+ },
+ "roboflowS": {
+  "text": "Roboflow Universe (2023). *Stem rust* (Version 1) [Data set, CC BY 4.0]. https://universe.roboflow.com/kinza-kamal/stem-rust. Last accessed 8 October 2026",
+  "cite": "Roboflow Universe, 2023"
+ },
+ "roboflowP": {
+  "text": "Roboflow Universe (2026). *Puccinia triticina* (Version 7) [Data set, CC BY 4.0]. https://universe.roboflow.com/louisvalentins-workspace/puccinia-triticina. Last accessed 8 October 2026",
+  "cite": "Roboflow Universe, 2026"
+ },
+ "fusionexperts2026": {
+  "text": "Sapkota, R., Roumeliotis, K. I., Xie, P., Tselikas, N. D., Xiang, L., & Karkee, M. (2026). Fusing perceptual vision experts with multimodal LLMs for explainable plant disease diagnosis: From benchmark imagery to real-world robotic field validation. *arXiv* preprint arXiv:2608.24934. https://doi.org/10.48550/arXiv.2608.24934",
+  "cite": "Sapkota et al., 2026",
+  "doi": "2608.24934",
+  "supports": "fusing vision experts with MLLMs for plant disease diagnosis"
+ },
+ "savary2019": {
+  "text": "Savary, S., Willocquet, L., Pethybridge, S. J., Esker, P., McRoberts, N., & Nelson, A. (2019). The global burden of pathogens and pests on major food crops. *Nature Ecology & Evolution*, *3*(3), 430–439. https://doi.org/10.1038/s41559-018-0793-y",
+  "cite": "Savary et al., 2019",
+  "doi": "10.1038/s41559-018-0793-y",
+  "supports": null
+ },
+ "simeoni2025dinov3": {
+  "text": "Siméoni, O., Vo, H. V., Seitzer, M., Baldassarre, F., Oquab, M., Jose, C., et al. (2025). DINOv3. *arXiv* preprint arXiv:2508.10104. https://doi.org/10.48550/arXiv.2508.10104",
+  "cite": "Siméoni et al., 2025",
+  "doi": "2508.10104",
+  "supports": "DINOv3 vision foundation model"
+ },
+ "singh2020plantdoc": {
+  "text": "Singh, D., Jain, N., Jain, P., Kayal, P., Kumawat, S., & Batra, N. (2020). PlantDoc: A dataset for visual plant disease detection. *Proceedings of the 7th ACM IKDD CoDS and 25th COMAD*, 249–253. https://doi.org/10.1145/3371158.3371196",
+  "cite": "Singh et al., 2020",
+  "doi": "10.1145/3371158.3371196",
+  "supports": "PlantDoc field dataset; lab-to-field gap"
+ },
+ "wei2024plantwild": {
+  "text": "Wei, T., Chen, Z., Huang, Z., & Yu, X. (2024a). Benchmarking in-the-wild multimodal disease recognition and a versatile baseline. *arXiv* preprint arXiv:2408.03120. https://doi.org/10.48550/arXiv.2408.03120",
+  "cite": "Wei et al., 2024a",
+  "doi": "2408.03120",
+  "supports": "PlantWild in-the-wild plant disease benchmark (ETS source)"
+ },
+ "wei2024plantseg": {
+  "text": "Wei, T., Chen, Z., Yu, X., Chapman, S., Melloy, P., & Huang, Z. (2024b). PlantSeg: A large-scale in-the-wild dataset for plant disease segmentation. *arXiv* preprint arXiv:2409.04038. https://doi.org/10.48550/arXiv.2409.04038",
+  "cite": "Wei et al., 2024b",
+  "doi": "2409.04038",
+  "supports": "PlantSeg dataset (candidate source removed by dedup)"
+ },
+ "wiswheat2025": {
+  "text": "Yuan, B., Song, S., Fernandez, J., Luo, Y., Baktashmotlagh, M., & Wang, Z. (2025). WisWheat: A three-tiered vision-language dataset for wheat management. *arXiv* preprint arXiv:2506.06084. https://doi.org/10.48550/arXiv.2506.06084",
+  "cite": "Yuan et al., 2025",
+  "doi": "2506.06084",
+  "supports": "WisWheat; GPT-4o accuracy on wheat stress / growth stage"
+ }
+}

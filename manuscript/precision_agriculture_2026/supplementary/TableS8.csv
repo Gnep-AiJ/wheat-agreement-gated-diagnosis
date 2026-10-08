@@ -1,0 +1,7 @@
+﻿Panel,Collection,Source,File,Truth,L (p),G61 (confidence),System output
+a,ETS,Roboflow stem-rust v1,TRB8EQ_jpg.rf.dd4845a8d12308979aad027bf7469aa9.jpg,Stem rust,Leaf rust (0.674),Stem rust (93),disease group: rust
+b,ETS,Roboflow stem-rust v1,O0DG7Q_jpg.rf.83e47c50db0ec03b8761e01dd014e773.jpg,Stem rust,Leaf rust (0.826),Stem rust (89),disease group: rust
+c,ETS2,Zenodo 15621359 (Henan field 2023),StripeRust 0000242.jpg,Stripe rust,Stripe rust (0.993),Septoria (88),referred for review (no automatic label)
+d,ETS2,Zenodo 15621359 (Henan field 2023),StripeRust 0000118.jpg,Stripe rust,Stripe rust (0.998),Septoria (85),referred for review (no automatic label)
+e,ETS,Roboflow new-wheat-disease v2,stripe145_jpg.rf.eee2edbfdf2344d04fdb64d6269b7684.jpg,Stripe rust,Stripe rust (0.998),Stripe rust (98),specific: stripe rust
+f,ETS2,Zenodo 15621359 (Henan field 2023),LeafRust 0000519.jpg,Stripe rust,Leaf rust (0.993),Leaf rust (96),specific: leaf rust  (counted as error)
