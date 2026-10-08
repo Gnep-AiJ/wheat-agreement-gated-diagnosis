@@ -4,10 +4,11 @@ title: "Agreement-gated fusion of a vision foundation model and a multimodal lar
 authors:
   - family-names: Jia
     given-names: Peng
-    affiliation: Henan Institute of Science and Technology
+    affiliation: School of Computer Science and Technology, Henan Institute of Science and Technology
+    orcid: https://orcid.org/0009-0007-3854-3114
   - family-names: Zhang
     given-names: Pingchuan
-    affiliation: Henan Institute of Science and Technology
+    affiliation: School of Computer Science and Technology, Henan Institute of Science and Technology
 license: MIT
 version: 1.0.0
 date-released: 2026-10-08

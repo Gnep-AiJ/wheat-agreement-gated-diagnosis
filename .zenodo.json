@@ -1,0 +1,12 @@
+{
+  "title": "Agreement-gated fusion of a vision foundation model and a multimodal LLM for wheat disease diagnosis: code, frozen prompt and cached outputs",
+  "upload_type": "software",
+  "description": "Code, frozen prompt, study protocol and cached model outputs needed to recompute all results of the manuscript 'Agreement-gated fusion of a vision foundation model and a multimodal large language model for reliable wheat disease diagnosis across image sources' (submitted to Precision Agriculture). Images are not redistributed.",
+  "creators": [
+    {"name": "Jia, Peng", "affiliation": "School of Computer Science and Technology, Henan Institute of Science and Technology", "orcid": "0009-0007-3854-3114"},
+    {"name": "Zhang, Pingchuan", "affiliation": "School of Computer Science and Technology, Henan Institute of Science and Technology"}
+  ],
+  "keywords": ["wheat disease", "multimodal large language model", "vision foundation model", "selective prediction", "domain shift"],
+  "license": "MIT",
+  "version": "1.0.0"
+}
