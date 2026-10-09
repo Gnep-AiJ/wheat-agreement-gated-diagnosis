@@ -2,7 +2,7 @@
 
 Code, frozen prompt and cached model outputs for the manuscript
 
-> Jia, P., & Zhang, P. *Agreement-gated fusion of a vision foundation model and a multimodal large language model for reliable wheat disease diagnosis across image sources.* Submitted to *Precision Agriculture*.
+> Jia, P., & Zhang, P. *Agreement-gated fusion of a vision foundation model and a multimodal large language model for reliable wheat disease diagnosis across image sources.* Under review.
 
 The repository lets you recompute every number, table and statistical figure of the paper from cached outputs, without
 re-training the vision model or querying the multimodal model again.
