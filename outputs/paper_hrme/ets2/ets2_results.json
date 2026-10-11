@@ -1,0 +1,91 @@
+{
+ "n": 240,
+ "labels": {
+  "healthy": 60,
+  "leaf_rust": 60,
+  "powdery_mildew": 60,
+  "yellow_rust": 60
+ },
+ "systems": {
+  "L": {
+   "top1": 230,
+   "acc": 0.9583333333333334,
+   "macro_f1": 0.9642076806945837,
+   "by_class": {
+    "healthy": "58/60",
+    "leaf_rust": "60/60",
+    "powdery_mildew": "56/60",
+    "yellow_rust": "56/60"
+   }
+  },
+  "A0": {
+   "top1": 186,
+   "acc": 0.775,
+   "macro_f1": 0.8087912087912088,
+   "by_class": {
+    "healthy": "56/60",
+    "leaf_rust": "56/60",
+    "powdery_mildew": "58/60",
+    "yellow_rust": "16/60"
+   }
+  },
+  "A3": {
+   "top1": 189,
+   "acc": 0.7875,
+   "macro_f1": 0.8240607330417496,
+   "by_class": {
+    "healthy": "54/60",
+    "leaf_rust": "57/60",
+    "powdery_mildew": "59/60",
+    "yellow_rust": "19/60"
+   }
+  },
+  "A4": {
+   "top1": 179,
+   "acc": 0.7458333333333333,
+   "macro_f1": 0.7916354833843869,
+   "by_class": {
+    "healthy": "53/60",
+    "leaf_rust": "51/60",
+    "powdery_mildew": "58/60",
+    "yellow_rust": "17/60"
+   }
+  }
+ },
+ "H1_A3_vs_A0": {
+  "gain_pp": 1.25,
+  "ci95": [
+   -1.25,
+   3.75
+  ],
+  "rag_call_rate": 0.32083333333333336,
+  "pass_": false
+ },
+ "H2_A0_vs_L": {
+  "gain_pp": -18.333333333333332,
+  "ci95": [
+   -23.75,
+   -12.916666666666668
+  ],
+  "pass_": false
+ },
+ "A4_vs_A0": {
+  "gain_pp": -2.9166666666666665,
+  "ci95": [
+   -6.666666666666667,
+   0.4166666666666667
+  ]
+ },
+ "H3_abstention": {
+  "n": 240,
+  "released": 164,
+  "errors": 1,
+  "risk": 0.006097560975609756,
+  "risk_cp95": 0.028597924142000148,
+  "informative_coverage": 0.6833333333333333,
+  "specific_coverage": 0.49166666666666664,
+  "diseased_only": 0.0,
+  "abstain": 0.31666666666666665,
+  "pass_": true
+ }
+}

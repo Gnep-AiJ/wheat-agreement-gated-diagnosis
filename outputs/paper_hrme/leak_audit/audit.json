@@ -1,0 +1,195 @@
+{
+ "n_images": 21331,
+ "per_dataset": {
+  "WFD2020": 2414,
+  "kaggle_wheat_disease_small": 999,
+  "kaggle_wheat_leaf_disease_jayaprakash": 4894,
+  "kaggle_wheat_plant_diseases_kushagra": 11143,
+  "mendeley_wheat_disease_2025_original": 1475,
+  "mendeley_wheat_leaf_dataset": 406
+ },
+ "pairs": {
+  "WFD2020|kaggle_wheat_disease_small": {
+   "n_a": 2414,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "WFD2020|kaggle_wheat_leaf_disease_jayaprakash": {
+   "n_a": 2414,
+   "ge090": 71,
+   "ge095": 67
+  },
+  "WFD2020|kaggle_wheat_plant_diseases_kushagra": {
+   "n_a": 2414,
+   "ge090": 390,
+   "ge095": 293
+  },
+  "WFD2020|mendeley_wheat_disease_2025_original": {
+   "n_a": 2414,
+   "ge090": 2,
+   "ge095": 0
+  },
+  "WFD2020|mendeley_wheat_leaf_dataset": {
+   "n_a": 2414,
+   "ge090": 1,
+   "ge095": 0
+  },
+  "kaggle_wheat_disease_small|WFD2020": {
+   "n_a": 999,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "kaggle_wheat_disease_small|kaggle_wheat_leaf_disease_jayaprakash": {
+   "n_a": 999,
+   "ge090": 843,
+   "ge095": 838
+  },
+  "kaggle_wheat_disease_small|kaggle_wheat_plant_diseases_kushagra": {
+   "n_a": 999,
+   "ge090": 985,
+   "ge095": 886
+  },
+  "kaggle_wheat_disease_small|mendeley_wheat_disease_2025_original": {
+   "n_a": 999,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "kaggle_wheat_disease_small|mendeley_wheat_leaf_dataset": {
+   "n_a": 999,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash|WFD2020": {
+   "n_a": 4894,
+   "ge090": 63,
+   "ge095": 63
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash|kaggle_wheat_disease_small": {
+   "n_a": 4894,
+   "ge090": 838,
+   "ge095": 838
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash|kaggle_wheat_plant_diseases_kushagra": {
+   "n_a": 4894,
+   "ge090": 3161,
+   "ge095": 2858
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash|mendeley_wheat_disease_2025_original": {
+   "n_a": 4894,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash|mendeley_wheat_leaf_dataset": {
+   "n_a": 4894,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "kaggle_wheat_plant_diseases_kushagra|WFD2020": {
+   "n_a": 11143,
+   "ge090": 448,
+   "ge095": 313
+  },
+  "kaggle_wheat_plant_diseases_kushagra|kaggle_wheat_disease_small": {
+   "n_a": 11143,
+   "ge090": 1170,
+   "ge095": 973
+  },
+  "kaggle_wheat_plant_diseases_kushagra|kaggle_wheat_leaf_disease_jayaprakash": {
+   "n_a": 11143,
+   "ge090": 3444,
+   "ge095": 3083
+  },
+  "kaggle_wheat_plant_diseases_kushagra|mendeley_wheat_disease_2025_original": {
+   "n_a": 11143,
+   "ge090": 12,
+   "ge095": 0
+  },
+  "kaggle_wheat_plant_diseases_kushagra|mendeley_wheat_leaf_dataset": {
+   "n_a": 11143,
+   "ge090": 407,
+   "ge095": 406
+  },
+  "mendeley_wheat_disease_2025_original|WFD2020": {
+   "n_a": 1475,
+   "ge090": 3,
+   "ge095": 0
+  },
+  "mendeley_wheat_disease_2025_original|kaggle_wheat_disease_small": {
+   "n_a": 1475,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "mendeley_wheat_disease_2025_original|kaggle_wheat_leaf_disease_jayaprakash": {
+   "n_a": 1475,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "mendeley_wheat_disease_2025_original|kaggle_wheat_plant_diseases_kushagra": {
+   "n_a": 1475,
+   "ge090": 21,
+   "ge095": 0
+  },
+  "mendeley_wheat_disease_2025_original|mendeley_wheat_leaf_dataset": {
+   "n_a": 1475,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "mendeley_wheat_leaf_dataset|WFD2020": {
+   "n_a": 406,
+   "ge090": 1,
+   "ge095": 0
+  },
+  "mendeley_wheat_leaf_dataset|kaggle_wheat_disease_small": {
+   "n_a": 406,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "mendeley_wheat_leaf_dataset|kaggle_wheat_leaf_disease_jayaprakash": {
+   "n_a": 406,
+   "ge090": 0,
+   "ge095": 0
+  },
+  "mendeley_wheat_leaf_dataset|kaggle_wheat_plant_diseases_kushagra": {
+   "n_a": 406,
+   "ge090": 406,
+   "ge095": 406
+  },
+  "mendeley_wheat_leaf_dataset|mendeley_wheat_disease_2025_original": {
+   "n_a": 406,
+   "ge090": 0,
+   "ge095": 0
+  }
+ },
+ "any_other": {
+  "WFD2020": {
+   "n": 2414,
+   "any_ge090": 397,
+   "pct": 16.4
+  },
+  "kaggle_wheat_disease_small": {
+   "n": 999,
+   "any_ge090": 999,
+   "pct": 100.0
+  },
+  "kaggle_wheat_leaf_disease_jayaprakash": {
+   "n": 4894,
+   "any_ge090": 3180,
+   "pct": 65.0
+  },
+  "kaggle_wheat_plant_diseases_kushagra": {
+   "n": 11143,
+   "any_ge090": 4539,
+   "pct": 40.7
+  },
+  "mendeley_wheat_disease_2025_original": {
+   "n": 1475,
+   "any_ge090": 21,
+   "pct": 1.4
+  },
+  "mendeley_wheat_leaf_dataset": {
+   "n": 406,
+   "any_ge090": 406,
+   "pct": 100.0
+  }
+ }
+}

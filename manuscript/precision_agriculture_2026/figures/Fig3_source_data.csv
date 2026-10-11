@@ -1,0 +1,33 @@
+panel,collection,quantity,count,denominator
+a,EVAL450,both_correct,183,450
+a,EVAL450,only_L,64,450
+a,EVAL450,only_G61,80,450
+a,EVAL450,both_wrong,123,450
+a,ETS,both_correct,391,552
+a,ETS,only_L,76,552
+a,ETS,only_G61,58,552
+a,ETS,both_wrong,27,552
+a,ETS2,both_correct,161,240
+a,ETS2,only_L,69,240
+a,ETS2,only_G61,4,240
+a,ETS2,both_wrong,6,240
+a,P4,both_correct,29,68
+a,P4,only_L,13,68
+a,P4,only_G61,6,68
+a,P4,both_wrong,20,68
+b,EVAL450,L,247,450
+b,ETS,L,467,552
+b,ETS2,L,230,240
+b,P4,L,42,68
+b,EVAL450,G61 (raw),263,450
+b,ETS,G61 (raw),449,552
+b,ETS2,G61 (raw),165,240
+b,P4,G61 (raw),35,68
+b,EVAL450,Selection upper bound (L or G61 correct),327,450
+b,ETS,Selection upper bound (L or G61 correct),525,552
+b,ETS2,Selection upper bound (L or G61 correct),234,240
+b,P4,Selection upper bound (L or G61 correct),48,68
+c,EVAL450,agreement_subset,181,230
+c,ETS,agreement_subset,391,402
+c,ETS2,agreement_subset,161,163
+c,P4,agreement_subset,29,33

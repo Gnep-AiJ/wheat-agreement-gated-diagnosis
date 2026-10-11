@@ -1,0 +1,962 @@
+[
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8024,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Common Root Rot\\common_root_rot_448.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ffffffdf0d090000.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8133,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_955.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust214.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.809,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\LeafBlight\\LeafBlight_238.jpg",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\80c0f1fcf0f0d8c8.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8098,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\4f6e4c6eee480c08.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Black Rust\\black_rust_279.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8367,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_476.png",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_155.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8419,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy1364.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_189.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8027,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust789.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_587.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8334,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Common Root Rot\\common_root_rot_575.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\fffff7a183838300.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.834,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_392.png",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_217.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8176,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\WheatBlast\\WheatBlast_4.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_397.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8317,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1161.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust382.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8093,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy1307.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_575.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8012,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\0229a3919d9587c3.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\leaf_blight_test\\leaf_blight_92.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.849,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\LeafBlight\\LeafBlight_134.jpg",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\80c0f1fcf0f0d8c8.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.826,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\077fce1cf932e4cc.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Leaf Blight\\leaf_blight_690.png"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8329,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\blast_test\\blast_46.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\0951.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8413,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_106.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\dedf799e10c00370.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8264,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\aphid_test\\aphid_45.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ffdf7e6c6c303818.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8009,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Smut\\smut_989.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\0441.jpg"
+ },
+ {
+  "bin": "0.80-0.85",
+  "sim": 0.8325,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\LeafBlight\\LeafBlight_248.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_729.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8684,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Black Rust\\black_rust_252.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\f0fb7e7f783c0360.jpg"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8696,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ffc7c7d792820200.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_700.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8527,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust169.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_900.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8645,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\fffffa0000000000.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_618.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8611,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy580.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_393.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8544,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ffffff3200000000.jpg",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\YellowRust\\YellowRust2606.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8796,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust439.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1231.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8586,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_119.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ffffff1000c00000.jpg"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8595,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_196.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_505.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8671,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_626.png",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_155.jpg"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8788,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_28.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_529.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8746,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_95.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Healthy\\Healthy1640.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8677,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\WheatBlast\\WheatBlast_320.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_403.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8652,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\cf4f6fefb280e0e0.jpg",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew1864.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.859,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\cd7dbdff38181809.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_364.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8694,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_1.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_413.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8733,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\9edcc286de9693c3.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_845.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8745,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\17d2caf8f9787869.jpg",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_42.jpg"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8504,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_241.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_88.png"
+ },
+ {
+  "bin": "0.85-0.88",
+  "sim": 0.8777,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\0038f8f8f0f0f0f6.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_1258.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8837,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_851.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust129.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8849,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_30.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_584.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8982,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_61.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_580.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8824,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_728.png",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_32.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.899,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\b18181c0d0e0e060.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_16.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8925,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Leaf Blight\\leaf_blight_578.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\49cf80f3e2e6c4cc.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8904,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\f8bc981c1a3a0a09.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\black_rust_test\\black_rust_36.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8839,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_31.png",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_42.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8827,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\fffffce620e44000.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_723.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8825,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_59.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_580.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8857,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_957.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew112.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8993,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_323.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\0601.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8955,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_542.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Septoria\\Septoria5422.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8885,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_271.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\1626242c6c78183c.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8862,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\BlackPoint\\BlackPoint_154.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_436.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8885,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_351.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\2481.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8981,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_443.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\2481.jpg"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8827,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_1047.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew1966.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8803,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\0280adef5f5e7717.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Leaf Blight\\leaf_blight_176.png"
+ },
+ {
+  "bin": "0.88-0.90",
+  "sim": 0.8812,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy464.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_994.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9125,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_1056.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew2038.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9135,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust144.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_871.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9032,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust278.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1034.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9043,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_697.png",
+  "b_dataset": "mendeley_wheat_disease_2025_original",
+  "b_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_197.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9037,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\0011f7f27a6aec22.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Leaf Blight\\leaf_blight_176.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9046,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_33.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew2750.jpeg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9135,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ff5f5d477e202084.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\fusarium_head_blight_test\\fusarium_head_blight_test_48.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9149,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1227.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust435.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9114,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_734.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust1084.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9143,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_758.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust1102.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9154,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\leaf_blight_test\\leaf_blight_72.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\20247c395a109602.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9045,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\fusarium_head_blight_test\\fusarium_head_blight_test_22.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\fffffdf848400000.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9075,
+  "a_dataset": "mendeley_wheat_disease_2025_original",
+  "a_path": "<DATA_ROOT>/data\\preserved_project_data\\WheatRiskControl_data_20260811\\raw\\mendeley_wheat_disease_v1\\HealthyLeaf\\HealthyLeaf_74.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Blast\\blast_580.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9035,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_388.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\2591.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9067,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1256.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust460.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9173,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_1034.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew1843.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9024,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_1061.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew2152.png"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.911,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_448.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ff5f5d477e202084.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9016,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Smut\\smut_767.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\0761.jpg"
+ },
+ {
+  "bin": "0.90-0.92",
+  "sim": 0.9067,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust460.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1256.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.935,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_949.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust209.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9267,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust1090.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_742.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9306,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_707.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust1062.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9467,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust320.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1083.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9321,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust038.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_550.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9426,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_325.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\YellowRust\\YellowRust2468.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9446,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust296.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1055.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9424,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1035.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust279.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9202,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1194.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust410.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9397,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_290.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\YellowRust\\YellowRust2026.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9332,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Smut\\smut_496.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Loose Smut\\0201.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9422,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\6f2f1fb3b2978140.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Black Rust\\black_rust_347.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9361,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_872.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust145.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9358,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Fusarium Head Blight\\fusarium_head_blight_350.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\fffffdf848400000.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9244,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\black_rust_test\\black_rust_7.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\fffffd8e86830000.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9416,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Tan spot\\tan_spot_703.png",
+  "b_dataset": "WFD2020",
+  "b_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\ece4e6b6b4361202.jpg"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9354,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\bcd85c9c3c385899.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\black_rust_test\\black_rust_3.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9447,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust254.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1005.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9355,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust300.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_1059.png"
+ },
+ {
+  "bin": "0.92-0.95",
+  "sim": 0.9484,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_490.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\YellowRust\\YellowRust626.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "mendeley_wheat_leaf_dataset",
+  "a_path": "<DATA_ROOT>/data\\raw\\mendeley_wheat_leaf_dataset\\wheat_leaf\\stripe_rust\\lolr(83).JPG",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Black Rust\\black_rust_123.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "mendeley_wheat_leaf_dataset",
+  "a_path": "<DATA_ROOT>/data\\raw\\mendeley_wheat_leaf_dataset\\wheat_leaf\\septoria\\los(45).JPG",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Leaf Blight\\leaf_blight_621.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_210.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Brown rust\\Brown_rust055.jpg"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_206.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Brown rust\\Brown_rust051.jpg"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\test\\black_rust_test\\black_rust_41.png",
+  "b_dataset": "mendeley_wheat_leaf_dataset",
+  "b_path": "<DATA_ROOT>/data\\raw\\mendeley_wheat_leaf_dataset\\wheat_leaf\\stripe_rust\\lolr(102).JPG"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy1101.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_90.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 0.9594,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Yellow Rust\\yellow_rust_562.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\Yellow_rust047.jpg"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy905.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_674.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy497.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_815.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_848.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Brown rust\\Brown_rust775.jpg"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Septoria\\septoria_1013.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Septoria\\Septoria2694.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\bff7e74303021000.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Black Rust\\black_rust_359.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_82.png",
+  "b_dataset": "kaggle_wheat_disease_small",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Healthy\\Healthy124.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_disease_small",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\YellowRust\\YellowRust3125.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Yellow rust\\YellowRust3125.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "WFD2020",
+  "a_path": "<DATA_ROOT>/data\\raw\\WFD2020\\images\\e4e4e0e0e0f0e0e0.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Black Rust\\black_rust_424.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_disease_small",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Mildew\\Mildew298.png",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Mildew\\mildew_354.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_370.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Brown rust\\Brown_rust1110.jpg"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_disease_small",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_disease_small\\Wheat Disease Dataset\\Healthy\\Healthy90.png",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_665.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Healthy\\Healthy358.jpg",
+  "b_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Healthy\\healthy_472.png"
+ },
+ {
+  "bin": "0.95-1.00",
+  "sim": 1.0,
+  "a_dataset": "kaggle_wheat_plant_diseases_kushagra",
+  "a_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_plant_diseases_kushagra\\data\\train\\Brown Rust\\brown_rust_384.png",
+  "b_dataset": "kaggle_wheat_leaf_disease_jayaprakash",
+  "b_path": "<DATA_ROOT>/data\\raw\\kaggle_wheat_leaf_disease_jayaprakash\\Dataset\\Brown rust\\Brown_rust1123.jpg"
+ }
+]

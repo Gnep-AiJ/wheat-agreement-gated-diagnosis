@@ -1,0 +1,4424 @@
+{
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0299.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0336.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0233.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0227.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0220.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0352.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0006.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0151.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0134.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0021.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0319.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0159.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 80,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0122.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0147.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0090.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0365.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0363.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 84,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0274.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0342.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0115.png": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 82,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0245.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0334.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 84,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0294.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0348.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0256.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0093.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0361.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 72,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0351.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0362.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 84,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0153.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 79,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0322.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 83,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0323.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 83,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0106.png": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0161.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0267.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0223.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0350.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0353.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 77,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0141.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 79,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat powdery mildew\\img\\0344.png": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0243.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0305.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0396.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0225.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0212.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0326.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0400.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0304.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0265.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0242.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0199.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0279.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0267.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0307.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0098.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0300.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0379.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0249.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0222.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0250.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0205.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0213.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0195.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0259.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0321.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0244.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0393.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0325.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0245.png": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0269.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0207.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0064.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0323.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0351.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0221.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0261.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0262.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0235.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0227.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\mswdd2022_32c56f23\\extracted\\wheat stripe rust\\img\\0252.png": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0266.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0000.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0376.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0122.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0013.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0024.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0227.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0060.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0056.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0003.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0046.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0360.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0030.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0103.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0321.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0128.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0367.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 83,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0235.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0017.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0032.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0015.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0499.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0025.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0329.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0186.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0266.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0004.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0062.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0027.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0030.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0127.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0307.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0221.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0098.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0139.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Bing_0067.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 80,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0052.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0487.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Google_0251.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat leaf rust\\wheat_leaf_rust_Baidu_0051.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0013.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Google_0084.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Google_0339.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0088.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0112.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Google_0317.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0053.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0033.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 99,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0102.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0140.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0252.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0186.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0034.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0296.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0216.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0217.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust",
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0005.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0198.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0076.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 99,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0199.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Google_0390.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0169.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0016.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0032.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0008.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Google_0203.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 99,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0019.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0026.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0066.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0025.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0028.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Bing_0270.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0050.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Google_0073.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0023.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0181.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0044.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0046.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0108.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat powdery mildew\\wheat_powdery_mildew_Baidu_0228.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0004.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 80,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (64).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (6).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 85,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (2).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 87,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0069.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Google_0206.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 76,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Google_0144.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (71).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 78,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (19).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0044.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (86).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (85).jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (101).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0017.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 90,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (62).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 82,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (74).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 78,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (121).jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (104).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (84).jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Google_0183.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 83,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Baidu_0089.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Baidu_0123.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Google_0061.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 76,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0064.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (27).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (51).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (93).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 95,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Baidu_0035.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (32).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 83,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0006.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Baidu_0030.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (60).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 78,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (14).jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (40).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (44).jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Bing_0045.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 94,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Google_0371.jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 98,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_Google_0051.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (109).jpg": {
+"status": "ok",
+"primary": "septoria",
+"conf": 97,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat septoria blotch\\wheat_septoria_blotch_blotch (127).jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0261.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0202.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0102.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0018.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Baidu_0001.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0211.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0068.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0028.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0038.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0080.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Baidu_0002.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0009.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0011.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0079.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0037.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0070.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0254.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0196.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Baidu_0101.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Google_0357.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0040.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0213.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0279.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Google_0333.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Baidu_0124.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Google_0133.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0115.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0049.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Google_0213.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Baidu_0127.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Google_0272.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0236.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0086.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0289.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0264.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0190.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0077.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Baidu_0004.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Bing_0233.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stem rust\\wheat_stem_rust_Google_0143.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Google_0122.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Google_0345.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0011.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0421.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0287.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0240.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0273.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0213.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Google_0229.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0004.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0168.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 44,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0071.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0378.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0092.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0170.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0102.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0297.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0060.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0307.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Google_0334.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0217.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Google_0341.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0203.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0113.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0159.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0031.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0029.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0142.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0280.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0033.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0264.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0074.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0044.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0001.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Baidu_0243.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0055.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0052.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0220.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0167.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_plantwild_v2\\wheat_originals\\wheat stripe rust\\wheat_stripe_rust_Bing_0225.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy192_jpg.rf.f9fa5a54728ca9fa2a8a77fe800f0bdd.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 75,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy113_jpg.rf.2d3e9fab600cd46b295103b3ec8f5028.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy132_jpg.rf.082f98ad403babd31e7d1898a6ca804e.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy126_jpg.rf.fdac0ea7c36f9dd369b3f954c3e049fb.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy149_jpg.rf.423aa92bee816241400e66dfeea7698d.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\healthy198_jpg.rf.f68cc554901201cc559641b4b10812da.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy128_jpg.rf.458949f5570fffade444f19b0e8e500f.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 78,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy206_jpg.rf.0cefdccc27a19fd815e8d782fc5f5483.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy151_jpg.rf.bbab08dba128fbdbac95f064e6d53e6e.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 80,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy176_jpg.rf.0fcb74178f94a5ba743a186026ada7d3.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 78,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\healthy118_jpg.rf.4fa56e3b61882a3a2a7600fc7ab959ab.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy124_jpg.rf.0a16916cc389111b18276a1dddb61318.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy129_jpg.rf.e8c81a7c6f4b08fdd775d45ae40bd366.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 86,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\healthy152_jpg.rf.cf4341228e4b0940d20fb320a9802405.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 86,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\healthy118_jpg.rf.e610358a59c564f5d5a95fc646d903bf.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy150_jpg.rf.27586639bbf3e9eafa8ae8f950677dd7.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 78,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy117_jpg.rf.2de6664a9dfee6f37779db87dddf9eed.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 80,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy200_jpg.rf.81ed12eaa1b43a134df9eddb65c7346c.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy100_jpg.rf.76e780c16f9df0ff0bb0a7dd24a504b8.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 78,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy147_jpg.rf.e36e6658e04f748cc226b6ad1cb8ad49.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\healthy152_jpg.rf.42f29254fe3f13e7586fa1873e705c27.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy205_jpg.rf.76d4bf9899e148a10a86363a2af2969e.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\healthy16_jpg.rf.e647ff039ed9fbd931b93af22180c1f1.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy133_jpg.rf.ba9a7f27b3118348c024421a2210515e.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy111_jpg.rf.69b0afb6240a9ae01413a0eaa9fbbbee.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 80,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy171_jpg.rf.19a695ada64569dddd9823fc7fed84d9.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 77,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy116_jpg.rf.e2be5e6d0f259d332b288645597bf8f1.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy211_jpg.rf.8f7a7c2e02b057215a98214413c6d1a3.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy158_jpg.rf.cf93cbc78af034caf1e9133d321b4c6a.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem101_jpg.rf.ee5df7dc16f286e2bf223ddf434d5f66.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\healthy122_jpg.rf.8377e38ad3f3ff5bfb90dc8f72ec218c.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy160_jpg.rf.9b64b192d0a991827614029fd9ff6448.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 98,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\healthy114_jpg.rf.4bd298f71aa34196c6b419a12ad39b63.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 86,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy189_jpg.rf.5a5eb239448b58a5dc0534ae0ffca4e3.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy141_jpg.rf.f588759fe6ce758de3d89c4980e638d9.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 79,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy114_jpg.rf.58db8d3a138ecdf1a47fa8e49efbc027.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 82,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\healthy190_jpg.rf.2d269cee0c09284631a4caf0396b915d.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy177_jpg.rf.f3864b5d237f04fa767ff574d6fe0cca.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 35,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy179_jpg.rf.453c1b86a50d5cf3c6c55227901918aa.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\healthy196_jpg.rf.331ff2dd163732b5661f7f4e3884c94a.jpg": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem151_jpg.rf.09b8cae3e7dcd8f39cf7b4fc6a5e80d7.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust143_jpg.rf.c73d9488097b75e99b61bfdc69325ae4.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust104_jpg.rf.1af5adf6c82ed7840be4701eca4196fc.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust110_jpg.rf.357d9a885c1b0f6adb288d1e1f9b8daf.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust58_jpg.rf.507d28d33a18536e7d5ae7b6b4c12f0c.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust159_jpg.rf.f97412104f26ebb261df2af45bab9b0a.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\leafrust147_jpg.rf.2bc1fe11535d6530e47813d54b39ca48.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust174_jpg.rf.5987f0fe271341abe2bfa4b6fc0e0e7e.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust56_jpg.rf.68e355cdd4f2a5e43a997caf603968ef.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust136_jpg.rf.1f0f2205ec570ac5cba0d0a2b5567235.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust55_jpg.rf.9e5b8d716624ea67ef55af6a3341593e.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 99,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem1_jpg.rf.ce3ad5f226a3b219c362a88554a10050.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\leafrust45_jpg.rf.4eb038bfc33efdd4ef8bfc9a57413966.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 78,
+"diag": [
+"yellow_rust",
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\leafrust191_jpg.rf.586b8c14bd1a0c0b00a61c6a6502c48b.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust146_jpg.rf.5794d555e2ac7a5597915c9ca5a93693.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\leafrust122_jpg.rf.ec04a9f78827533bf4e11e654a2c74f4.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust32_jpg.rf.55013a0f3f8f1b87657b0fdf46c91e25.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem147_jpg.rf.627da80696b352ac9d79afbaf732add6.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust178_jpg.rf.1425185c41674582c386158530f66da9.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust126_jpg.rf.0bd7616dcfe1f6ea0a628d51db025bf6.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem146_jpg.rf.02dae06c42e1dd060ad92be2a1c9e1be.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem15_jpg.rf.ec8570e2fa8d8d81291fa9fd181ed11a.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\leafrust146_jpg.rf.c53a6d3f9fadceecb9ebf88aa6a113db.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust153_jpg.rf.c69f642ad6c2cadade35b0a223972e87.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem168_jpg.rf.a958ae5cd70323b780759436016009a2.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust180_jpg.rf.33dcf93e2c3ee926c000a7c3d63e86b8.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust100_jpg.rf.c41b10e4b2cb052a9a5c96c08a9fbd96.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust129_jpg.rf.2742c4b91c6b7c3dbb6a9a855429e7f7.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 84,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust55_jpg.rf.f96aa110e610182cf7b9886b41485b97.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 99,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust214_jpg.rf.10d0f1e0e8c2d9d9c86b0a98b66b9d56.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust108_jpg.rf.f9c985f622f7c14402bd1c4098d999c2.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust29_jpg.rf.a70ceefcc0497768947792d24d93d640.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust1_jpg.rf.e5c5c235a8b4325039b28b71286c419f.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\leafrust127_jpg.rf.20527f07608bb495dca06e95a78f0c09.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 75,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust20_jpg.rf.31c747fe940c180344bd80853a302ef6.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust4_jpg.rf.67adaebc042746f625f1459985e0db68.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\leafrust186_jpg.rf.1cdb96ae4b8fd3c5965ddb38040d3b69.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 84,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust49_jpg.rf.1c0baf5c11f42b0c85cd6b6c6968b252.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\leafrust137_jpg.rf.a2a0a4b6ad28630cca972f989cfa818f.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 99,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\leafrust207_jpg.rf.657e713edad3c68ac7962e90bec7baf9.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stem24_jpg.rf.148bca33981885e5ffb2ad6bdf55870c.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem20_jpg.rf.609dce74e7d8577ceb66146cb30cfd6b.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem124_jpg.rf.26cd5c6e8bf367fabfa6ed99deebca98.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 77,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem141_jpg.rf.74bea71a6fe9881782692063fd945591.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem30_jpg.rf.ba3ccb6ab6cdd1a81d45bccafb572bb5.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 82,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stem130_jpg.rf.5525ad2373935f09512b8544dd277623.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem139_jpg.rf.28d77e69624fba236120b65d777d1507.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem161_jpg.rf.b1d4728fa811b880f91f9b85082791e7.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem98_jpg.rf.40e78382142b7ac51561f9096738f376.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem126_jpg.rf.520e38662e7990ea49bf75f71d9d7eec.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem83_jpg.rf.637a02fea65dbc968ac97f7ddc4a1941.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stem101_jpg.rf.f9fb24bd6efed4605d0b6d609b7f857f.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stem101_jpg.rf.ea14495e6cecbfbc5b96a56008003a4f.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem118_jpg.rf.a035de8cb007438d052f155113011fcc.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem167_jpg.rf.52d23c7fe1464bf390f052dbe1d1ac45.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem82_jpg.rf.1d975007265ce7ce3858a6829fb53b56.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stem68_jpg.rf.87bc07161921abbc17a533bb3fdff67f.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem90_jpg.rf.f0ba4dbe0bd7e64e4b2e40123000b442.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem124_jpg.rf.6d17b9e3fe5568213aa6417a320e6dec.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem16_jpg.rf.96db8d5661eea540779efbee28a5aedd.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 79,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem48_jpg.rf.ae944389e697360b57a24996d9199945.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem100_jpg.rf.676a86e4b781380e745e9bd07595b6d2.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem80_jpg.rf.ae456f90fc3238b196d2e7b4f8700328.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stem85_jpg.rf.95ac908a52b965434b35e896bc418484.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem120_jpg.rf.230640802738e0845bd14cac07f0b028.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem112_jpg.rf.1715d0831557e88c796eb31ea02a4653.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem52_jpg.rf.dc7c758943a7b7132b93abad8d41a2a2.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stem165_jpg.rf.c8ac50ad3dbe03f00f97b92969bbcedc.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem28_jpg.rf.119f1b0ee717d8c1cfdbd4e0da822610.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem144_jpg.rf.48769e46228ea524e0d130426eeafd2d.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem38_jpg.rf.3189d649664cc05ef6698570f5ee65d8.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem83_jpg.rf.25ee806df41c15f66ca8ab0271966252.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem123_jpg.rf.72da161808b2b68df74a6bb098c6acd7.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem32_jpg.rf.4e6a40706aaa3cba42f571444035d498.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem117_jpg.rf.d2e9cd0b12b6fb8ee7a060224dede890.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem65_jpg.rf.40c1010c67f05398099a589155157d51.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 89,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem66_jpg.rf.0760adfc2b56b5ee344d25598998e227.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem89_jpg.rf.5754f9360c3c165a55c9e648b9ff6a6c.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 82,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem122_jpg.rf.8232939ac980ae79d9adf8a5b49ac4d1.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stem81_jpg.rf.c2e1b968ff09c7afa4c3ead641085917.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stripe17_jpg.rf.3c1ddde9a51bda86af608c446547b71a.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe145_jpg.rf.eee2edbfdf2344d04fdb64d6269b7684.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe123_jpg.rf.06f0ace768460caae1c3f43e8fd87d2f.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stripe154_jpg.rf.3ce304f28c6f7396fad63c7355f84b1c.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stripe184_jpg.rf.48e47aec7510a1ec734ccba9012bc1fa.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stripe140_jpg.rf.69c0a8c86934450e9c13f8f79d0d2fbf.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe125_jpg.rf.efa62c8c33d2c2e29bbf15e97429e1d3.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe186_jpg.rf.7af00db6bca81c161f5fc07dd5cf78eb.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe200_jpg.rf.a1ec1ba3c9b07eb088a53a3b945c26f7.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stripe199_jpg.rf.1a2057343f5bc2119116eba2e3043601.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe68_jpg.rf.db53004bfb955d57fa1c257a4291d8a7.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stripe182_jpg.rf.f7a439efd6603f9b083b4d08df40b348.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe174_jpg.rf.2acd88cafc7ded7e7ca9be193bef1017.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe166_jpg.rf.118e3a287b09f401ea88b0c34af14d22.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe13_jpg.rf.18e94316773e391ff4466790b600a5e5.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe104_jpg.rf.b4c091e570c8035f244808a08aee2ec6.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe188_jpg.rf.8080ffdfafafad36e7c955ffc1438aee.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe127_jpg.rf.8b937c7dacad4230110fd6520f8cf989.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe112_jpg.rf.631b742bf12a129b00a9d98f3fb66783.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe198_jpg.rf.be5b2bdc50ff0d4d5eefeb2370ed754d.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe205_jpg.rf.8ce19bcd6b88e87c8012e709cf652813.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe159_jpg.rf.f3f707075d71bf7f93990ecad3ae9477.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe171_jpg.rf.f5af08eea5b10070994be0fa8614866c.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\valid\\stripe137_jpg.rf.f71a8590b91d9dafc1ada22fc5372311.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe185_jpg.rf.7f161542b486dca7b6b7b2b5642d531b.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe164_jpg.rf.b9452c0bb95f7e99af0cbdcfff54c51e.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe117_jpg.rf.a9ce61928c3b5d7eddf15e54be6549eb.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe64_jpg.rf.22e23fcf1a5a33cab3860397fabe834d.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe24_jpg.rf.04082ff415d90bb81d0d15811e8b2a52.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe164_jpg.rf.5bd4f57aad4fa65f6e405734792868f8.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe197_jpg.rf.c859c93dedda2e8280c1538be2185791.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\test\\stripe175_jpg.rf.2e89d985e6c74409fdcdd22a978d52d8.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe110_jpg.rf.0a8bf0ab1408422ec7515802f0d13c04.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe173_jpg.rf.471b3321a926fe88c1d67152f999eacb.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe204_jpg.rf.995bde75741a8a855f6549c806257482.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe195_jpg.rf.1108769f7f5a633d94c846b69b5abcad.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe12_jpg.rf.10d13e886457a3e30b42cf37a13557d0.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe146_jpg.rf.36d5a2d9fa3d017033560bbf901a602f.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe163_jpg.rf.02a8eed7a625bee7d9ffa2ecb6588c04.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\new-wheat-disease-v2\\train\\stripe156_jpg.rf.eb5a5d130e88c39f1fafb75b9853fed8.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-top-right_row03_col07_png.rf.01be670d3a842585f2509730e54283e0.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\033032-bottom-right_row03_col02_png.rf.a01243233610342236d5dc9930d080fd.jpg": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-top-left_row03_col01_png.rf.6f587a344b5f388dcc7b88b5ce1b4a3f.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row01_col05_png.rf.03aebacc75e48762b23895a55ddf5fb3.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-bottom-right_row04_col07_png.rf.1f4c58374d983233b8913fc0bf08e75d.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row02_col07_png.rf.4c6b59776243c2843c024430c73b0719.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\033032-bottom-left_row05_col07_png.rf.071d23d1904d0a437a13b57b5850d6ec.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11224863-top-right_row01_col06_png.rf.d232dcca3766630ef8df74e447944d1b.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11224863-top-right_row01_col05_png.rf.7a80a59c24ca9d25c4abe87d5325e1ab.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_11494639-bottom-left_row04_col07_png.rf.244246ca1a8aa007f3a946b4fdb95c97.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 77,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\033032-bottom-right_row01_col03_png.rf.7666b66f10ef5fdb010818c1b70a9532.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-top-right_row04_col01_png.rf.e822d69de914795dff8543ec066795ed.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_11494639-top-left_row02_col03_png.rf.eb6b994216f0a8ee1b65f49399dc25fd.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row03_col07_png.rf.5f77040a4c5eb0f1b4d90f972e8ad0da.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-top-right_row02_col01_png.rf.6d726a9837998474f03e38ea17aa4a90.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 35,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row04_col01_png.rf.67c166efd0069e8b903927b2a6e9ff94.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_08572794-bottom-right_row01_col01_png.rf.6ec605dfab313e70770effa43d4478bb.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11224863-top-right_row01_col07_png.rf.9a53923f47a22f138f5b15a6338eb3c2.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-top-left_row04_col01_png.rf.81c87576e846c3a539125b130ba2acb0.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\033032-bottom-left_row03_col02_png.rf.eec4e681563356c056f5f77b88dec8c3.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 79,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\033032-bottom-left_row02_col04_png.rf.0f8806776d161d8f5f8bfcc214d37f91.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row03_col01_png.rf.3e73e4fee7b40155835857554bbf8a25.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row01_col05_png.rf.9eecb59a68256d4d5d7be6317ea91072.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row01_col03_png.rf.e452c60733a53313e6532d4476ad49aa.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_11494639-top-left_row03_col07_png.rf.f6f1075e3d3c7af562a4dc1cc140e340.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-bottom-left_row03_col07_png.rf.2ba4dbadb2b715f52f324c7635c5887c.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_08572794-top-left_row03_col01_png.rf.6155eee84bd00539372aee9be4b3b27b.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row01_col04_png.rf.7e7b8be543ad379a285620d4145ff456.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-bottom-left_row05_col05_png.rf.0886164e589d056c79b7c03d0c5db67d.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 35,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-top-left_row04_col05_png.rf.18921f0434dd58402643e644fd369fae.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-top-right_row04_col07_png.rf.3e0ddcc2a4bca89f95aadddfb7dc47cf.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-bottom-right_row03_col04_png.rf.e308a91e1e2db872efab3e10b27d698a.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\033032-bottom-left_row02_col02_png.rf.0ee79a1ad4b11698235e5521d58bb16c.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 83,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_11494639-top-right_row03_col01_png.rf.33b7c796ad47c381aae84866bf50b8a9.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\033032-bottom-left_row02_col06_png.rf.ad34728ad20cc0998f12cf6b4d0d5851.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row04_col07_png.rf.525ddc3dd8152227242ebcf8cd9fcbaa.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_11494639-top-right_row02_col01_png.rf.6581452b2e69a373c06039e095bf7099.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_08572794-bottom-right_row04_col01_png.rf.230d042197e4362b1aadb15168facdbf.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\valid\\img20251211_08572794-top-right_row03_col01_png.rf.8e6f2d9faf9a8e14b02d20b473d1963f.jpg": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 99,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\roboflow_puccinia_triticina_v7\\train\\img20251211_11494639-top-left_row02_col01_png.rf.20da06745763934e4d1626993881201f.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\E2TWPA_JPG.rf.730a1021728371db10431a7c75001058.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\test\\2BMZSY_jpg.rf.a94094ffd757e72fe6fe54a492d904f1.jpg": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\DVS7D2_jpg.rf.1284bb9e4b74e7e18caeec489f09f47b.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\V2K7M9_jpg.rf.db9359c3aedf0c95bb0fa0fd4c8bb44d.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\CUJLRV_jpg.rf.79f69ba55b9f5af174323bc40354859f.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\QWIV2J_jpg.rf.c1a51782d94885f2239c96f5c2242bb7.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\77K0S5_jpg.rf.f1c045fe2b29239a02d86f6ff1492d16.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\6VM9YC_jpg.rf.6d286aff535c84f59f636938e5f0448c.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 82,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\7AJXG3_jpg.rf.1d4686601e523d9d4a8f2a4004c171da.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\9QSRI2_jpg.rf.d5f0484701404e45098e5fabd3d22613.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\Z0MIMM_jpg.rf.0c7c4dc10a7bac4dfbcda3c036bc0a22.jpg": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\290O3O_JPG.rf.c191c64c740b889e3a1cbac3e484458a.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\TRB8EQ_jpg.rf.dd4845a8d12308979aad027bf7469aa9.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\O03SHZ_jpg.rf.b2ead32fa630c9dff6179e85cd60987f.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\DMFVM7_JPG.rf.6e9aa68d11dd0bcbe741fc0a66f956f4.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\valid\\ORCKG3_jpg.rf.ea45460effac2d9cc20649eec5f0e81e.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\16DV3Z_jpg.rf.a07dc4825eed8f060a79a9ac4eca3230.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\BLBE0Y_JPG.rf.6d374bb024b4e3cd66028955203361d8.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\HYWJFJ_JPG.rf.e9c972798208eaccf43cf6d2459e26e3.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\57KL9D_jpg.rf.c2f51be0caea32679993179e989f2bc3.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\3ZLQWN_JPG.rf.b316acfe02eb7cd62aeee336ef92d15e.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\test\\F8NX3J_jpg.rf.d12ffe58df982939a3552a2a0532243d.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\SN8O41_jpg.rf.168bd381a574cc9841b5e9806f9e3df2.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\0XEGW3_jpg.rf.c91b689b0451eff40d6a32f850aebadd.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\DCPYGG_jpg.rf.88e48f0fbab4624ecb00e0b8717415ae.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\test\\W3A1IP_jpg.rf.b88ccc0e8ed00011a9704b04112e58fc.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\valid\\U1MXOH_jpg.rf.9444a0b2f6dcc7b044240e653c4de93d.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\valid\\IGF54E_jpg.rf.6d85479003fbdac80fd84225662bc236.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\VYXJQ6_jpg.rf.81490cf4a185027ff0391ea805530c9d.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\GPGUYR_JPG.rf.99ac2c9b062afb68faae78f36965582c.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\RQF5OM_jpg.rf.56d3e5d663ad10d209d3d0d772059741.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_c\\targeted_rust_20260927\\stem-rust-v1\\train\\O0DG7Q_jpg.rf.83e47c50db0ec03b8761e01dd014e773.jpg": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8090.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\test\\IMG_1808.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8086.JPG": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 92,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\val\\IMG_1821.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8081.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew",
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8056.JPG": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\val\\IMG_8162.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8142.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1820.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8038.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 79,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1812.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8071.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8167.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1772.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1818.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8061.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1816.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8148.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8149.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8153.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1822.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 82,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8145.JPG": {
+"status": "ok",
+"primary": "septoria",
+"conf": 85,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8058.JPG": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 42,
+"diag": [
+"uncertain"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1815.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\val\\IMG_8157.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8158.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1773.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 82,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8062.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8075.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1813.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\val\\IMG_8036.JPG": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\val\\IMG_1817.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 98,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\test\\IMG_1780.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8073.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8066.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8053.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8063.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew",
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_8093.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\train\\IMG_1823.JPG": {
+"status": "ok",
+"primary": "septoria",
+"conf": 83,
+"diag": [
+"septoria"
+]
+},
+"<DATA_ROOT>/shared\\datasets\\extra_staging_d\\zenodo_13137587\\extracted\\images\\val\\IMG_8085.JPG": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+}
+}

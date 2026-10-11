@@ -1,0 +1,134 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "observations",
+  "image_type",
+  "assessability",
+  "symptoms",
+  "diagnosis",
+  "primary",
+  "confidence",
+  "summary"
+ ],
+ "properties": {
+  "observations": {
+   "type": "string"
+  },
+  "image_type": {
+   "type": "string",
+   "enum": [
+    "leaf_closeup",
+    "stem",
+    "spike",
+    "whole_plant",
+    "canopy_distant",
+    "lab_or_specimen",
+    "non_wheat",
+    "unclear"
+   ]
+  },
+  "assessability": {
+   "type": "string",
+   "enum": [
+    "clear_lesions_visible",
+    "clear_no_lesions",
+    "partially_visible",
+    "cannot_judge"
+   ]
+  },
+  "symptoms": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "pustules_present",
+    "pustule_color",
+    "pustule_arrangement",
+    "white_powdery_growth",
+    "necrotic_blotches",
+    "black_dots_in_lesions",
+    "affected_organ"
+   ],
+   "properties": {
+    "pustules_present": {
+     "type": "boolean"
+    },
+    "pustule_color": {
+     "type": "string",
+     "enum": [
+      "none",
+      "yellow",
+      "orange_brown",
+      "brick_red",
+      "dark_brown_black",
+      "other"
+     ]
+    },
+    "pustule_arrangement": {
+     "type": "string",
+     "enum": [
+      "none",
+      "stripes_along_veins",
+      "scattered",
+      "elongated_on_stem_or_sheath",
+      "other"
+     ]
+    },
+    "white_powdery_growth": {
+     "type": "boolean"
+    },
+    "necrotic_blotches": {
+     "type": "boolean"
+    },
+    "black_dots_in_lesions": {
+     "type": "boolean"
+    },
+    "affected_organ": {
+     "type": "string",
+     "enum": [
+      "none",
+      "leaf",
+      "stem",
+      "leaf_sheath",
+      "spike",
+      "multiple",
+      "unclear"
+     ]
+    }
+   }
+  },
+  "diagnosis": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "enum": [
+     "healthy",
+     "leaf_rust",
+     "powdery_mildew",
+     "septoria",
+     "stem_rust",
+     "yellow_rust",
+     "uncertain"
+    ]
+   }
+  },
+  "primary": {
+   "type": "string",
+   "enum": [
+    "healthy",
+    "leaf_rust",
+    "powdery_mildew",
+    "septoria",
+    "stem_rust",
+    "yellow_rust",
+    "uncertain"
+   ]
+  },
+  "confidence": {
+   "type": "integer"
+  },
+  "summary": {
+   "type": "string"
+  }
+ }
+}

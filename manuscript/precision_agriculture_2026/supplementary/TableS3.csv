@@ -1,0 +1,17 @@
+﻿Collection,Source,Healthy,Leaf rust,Powdery mildew,Septoria,Stem rust,Stripe rust,Multi-label,Total
+EVAL450,Afonnikov,0,36,0,0,0,0,0,36
+EVAL450,Bechtold,1,3,3,4,0,0,6,17
+EVAL450,Gultyaeva,0,20,0,2,0,97,0,119
+EVAL450,Skolotneva,12,2,6,1,76,0,7,104
+EVAL450,SkolotnevaKelbin,0,2,0,0,0,0,0,2
+EVAL450,TgBot,6,1,8,4,0,0,12,31
+EVAL450,ZindiTrain,45,32,0,8,9,32,7,133
+EVAL450,plantix,3,1,0,3,1,0,0,8
+ETS,MSWDD2022,0,0,40,0,0,40,0,80
+ETS,PlantWild v2 (wheat),0,40,40,40,40,40,0,200
+ETS,Roboflow new-wheat-disease v2,40,40,0,0,40,40,0,160
+ETS,Roboflow Puccinia triticina v7,0,40,0,0,0,0,0,40
+ETS,Roboflow stem-rust v1,2,9,0,0,21,0,0,32
+ETS,Zenodo 13137587 (powdery mildew),0,0,40,0,0,0,0,40
+ETS2,Zenodo 15621359 (Henan field 2023),60,60,60,0,0,60,0,240
+iNat,iNaturalist,0,36,5,23,0,4,0,68

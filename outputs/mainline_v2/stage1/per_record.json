@@ -1,0 +1,7524 @@
+{
+ "1001": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9286680221557617
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9961755275726318
+  ]
+ },
+ "1004": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1005": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.998879611492157
+  ],
+  "dino43": [
+   "septoria",
+   0.9980429410934448
+  ]
+ },
+ "1011": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9438672661781311
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8901033401489258
+  ]
+ },
+ "1015": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.9964893460273743
+  ],
+  "dino43": [
+   "septoria",
+   0.8901033401489258
+  ]
+ },
+ "1017": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9750598073005676
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9845753908157349
+  ]
+ },
+ "1021": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.7260372638702393
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.27747300267219543
+  ]
+ },
+ "1028": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.6225740909576416
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6152611970901489
+  ]
+ },
+ "1032": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9944451451301575
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9960545301437378
+  ]
+ },
+ "1036": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.786786675453186
+  ],
+  "dino43": [
+   "healthy",
+   0.4368622601032257
+  ]
+ },
+ "104": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9884026646614075
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.4870176911354065
+  ]
+ },
+ "1043": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.28388065099716187
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9051547646522522
+  ]
+ },
+ "1045": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.5723642706871033
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9114953279495239
+  ]
+ },
+ "1048": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.4579547345638275
+  ],
+  "dino43": [
+   "healthy",
+   0.05079945921897888
+  ]
+ },
+ "1051": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "SkolotnevaKelbin",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9748690724372864
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.3774259090423584
+  ]
+ },
+ "1052": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.06791667640209198
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6879445314407349
+  ]
+ },
+ "1054": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.7490872144699097
+  ],
+  "dino43": [
+   "stem_rust",
+   0.5047529935836792
+  ]
+ },
+ "1057": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9867772459983826
+  ],
+  "dino43": [
+   "healthy",
+   0.9972744584083557
+  ]
+ },
+ "1067": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9983958601951599
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9984452128410339
+  ]
+ },
+ "1073": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9985449314117432
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9973477125167847
+  ]
+ },
+ "1074": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9816655516624451
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9809855818748474
+  ]
+ },
+ "1077": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1084": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.3447742760181427
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.37840166687965393
+  ]
+ },
+ "1087": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9990490078926086
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9983769655227661
+  ]
+ },
+ "1088": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.8510885834693909
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7803278565406799
+  ]
+ },
+ "1089": {
+  "truth": [
+   "leaf_rust",
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9563905000686646
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9813107252120972
+  ]
+ },
+ "1091": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1093": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.766643226146698
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6884684562683105
+  ]
+ },
+ "11": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.2839798927307129
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.1977541446685791
+  ]
+ },
+ "1104": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9939730763435364
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9135223627090454
+  ]
+ },
+ "1110": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.0384661927819252
+  ],
+  "dino43": [
+   "stem_rust",
+   0.2045007199048996
+  ]
+ },
+ "1117": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.7597605586051941
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.38202613592147827
+  ]
+ },
+ "1122": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.7711548805236816
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9765353798866272
+  ]
+ },
+ "1126": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.5450738668441772
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8649961352348328
+  ]
+ },
+ "1133": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.9810945987701416
+  ],
+  "dino43": [
+   "septoria",
+   0.7900447249412537
+  ]
+ },
+ "1134": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9951325058937073
+  ],
+  "dino43": [
+   "healthy",
+   0.9931495785713196
+  ]
+ },
+ "1136": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.7728736996650696
+  ],
+  "dino43": [
+   "healthy",
+   0.880591869354248
+  ]
+ },
+ "1138": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9155072569847107
+  ],
+  "dino43": [
+   "healthy",
+   0.9966233968734741
+  ]
+ },
+ "1149": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9086179733276367
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9626730680465698
+  ]
+ },
+ "115": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9605096578598022
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.820900559425354
+  ]
+ },
+ "1150": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1159": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.16066069900989532
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9465966820716858
+  ]
+ },
+ "116": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.6187227964401245
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8741846680641174
+  ]
+ },
+ "1160": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.995075523853302
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9924227595329285
+  ]
+ },
+ "1164": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.754553496837616
+  ],
+  "dino43": [
+   "stem_rust",
+   0.5627171993255615
+  ]
+ },
+ "1166": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1167": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "117": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.7346909642219543
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6332968473434448
+  ]
+ },
+ "1171": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.4297882914543152
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.3775980472564697
+  ]
+ },
+ "1172": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.2730894684791565
+  ],
+  "dino43": [
+   "stem_rust",
+   0.4592882990837097
+  ]
+ },
+ "1174": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9821512699127197
+  ],
+  "dino43": [
+   "healthy",
+   0.9960851669311523
+  ]
+ },
+ "1176": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9388007521629333
+  ],
+  "dino43": [
+   "healthy",
+   0.24148941040039062
+  ]
+ },
+ "1185": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1186": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.6455669403076172
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.15316878259181976
+  ]
+ },
+ "1187": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.7108290791511536
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9282788634300232
+  ]
+ },
+ "1189": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9972423315048218
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7293270230293274
+  ]
+ },
+ "119": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9412234425544739
+  ],
+  "dino43": [
+   "stem_rust",
+   0.3705669939517975
+  ]
+ },
+ "1195": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "powdery_mildew",
+   0.8964328765869141
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.961533784866333
+  ]
+ },
+ "1202": {
+  "truth": [
+   "leaf_rust",
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.7216451168060303
+  ],
+  "dino43": [
+   "stem_rust",
+   0.23581157624721527
+  ]
+ },
+ "1211": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9949001669883728
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.8077641129493713
+  ]
+ },
+ "1212": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.5409541726112366
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8964328765869141
+  ]
+ },
+ "1219": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9951514005661011
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9974884986877441
+  ]
+ },
+ "1228": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.8702667951583862
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9941118359565735
+  ]
+ },
+ "123": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.8887587189674377
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.8311430811882019
+  ]
+ },
+ "1248": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9985619187355042
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9866748452186584
+  ]
+ },
+ "1253": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1254": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.999312162399292
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.999276340007782
+  ]
+ },
+ "1258": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.07850097864866257
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.2030746340751648
+  ]
+ },
+ "1264": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9742394685745239
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9828232526779175
+  ]
+ },
+ "1267": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.7711548805236816
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7962924242019653
+  ]
+ },
+ "1272": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8353492617607117
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.38133475184440613
+  ]
+ },
+ "1276": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1279": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.6262384653091431
+  ],
+  "dino43": [
+   "septoria",
+   0.823470413684845
+  ]
+ },
+ "128": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.24798744916915894
+  ],
+  "dino43": [
+   "healthy",
+   0.7945444583892822
+  ]
+ },
+ "1304": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.982557475566864
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9973374009132385
+  ]
+ },
+ "1311": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.8384153246879578
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9923933744430542
+  ]
+ },
+ "1332": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew",
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.6237207055091858
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.1245320588350296
+  ]
+ },
+ "1333": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1335": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1339": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1346": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "septoria",
+   0.32766830921173096
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6027632355690002
+  ]
+ },
+ "1348": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.3237006962299347
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6744794249534607
+  ]
+ },
+ "1352": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9787126779556274
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9135223627090454
+  ]
+ },
+ "136": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9132132530212402
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.8807970285415649
+  ]
+ },
+ "1362": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9785082340240479
+  ],
+  "dino43": [
+   "septoria",
+   0.8062431216239929
+  ]
+ },
+ "1363": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.999099612236023
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.998793363571167
+  ]
+ },
+ "1365": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9551520943641663
+  ],
+  "dino43": [
+   "healthy",
+   0.7744128704071045
+  ]
+ },
+ "1367": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9990111589431763
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9993638396263123
+  ]
+ },
+ "1368": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9939730763435364
+  ],
+  "dino43": [
+   "healthy",
+   0.9930152893066406
+  ]
+ },
+ "137": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.15869519114494324
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.23934932053089142
+  ]
+ },
+ "1370": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1371": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9241418242454529
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.49506014585494995
+  ]
+ },
+ "1372": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9897513389587402
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9992678761482239
+  ]
+ },
+ "1373": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8551267385482788
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8789390921592712
+  ]
+ },
+ "1381": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "139": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9989596605300903
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9989677667617798
+  ]
+ },
+ "1394": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1398": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1399": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1402": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9558166265487671
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9949199557304382
+  ]
+ },
+ "1404": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9476723670959473
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9089417457580566
+  ]
+ },
+ "1405": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9726234674453735
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9808392524719238
+  ]
+ },
+ "1408": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.7054807543754578
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8316905498504639
+  ]
+ },
+ "1421": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1423": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.015130727551877499
+  ],
+  "dino43": [
+   "healthy",
+   0.007999754510819912
+  ]
+ },
+ "1427": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9976769089698792
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9984752535820007
+  ]
+ },
+ "1429": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "143": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.997065007686615
+  ],
+  "dino43": [
+   "healthy",
+   0.9983707070350647
+  ]
+ },
+ "1431": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.895339846611023
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9954615235328674
+  ]
+ },
+ "1432": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.917302668094635
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9948603510856628
+  ]
+ },
+ "1435": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.8844391107559204
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9948403239250183
+  ]
+ },
+ "1455": {
+  "truth": [
+   "septoria",
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9714558720588684
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9700703024864197
+  ]
+ },
+ "1459": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.5543498396873474
+  ],
+  "dino43": [
+   "septoria",
+   0.7052778005599976
+  ]
+ },
+ "1462": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "septoria",
+   0.9437636137008667
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.2587003707885742
+  ]
+ },
+ "1465": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9942697286605835
+  ],
+  "dino43": [
+   "healthy",
+   0.9968519806861877
+  ]
+ },
+ "1468": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1473": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9558990597724915
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9923638105392456
+  ]
+ },
+ "1479": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.026255300268530846
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.11027936637401581
+  ]
+ },
+ "1491": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9979810118675232
+  ],
+  "dino43": [
+   "healthy",
+   0.9983059167861938
+  ]
+ },
+ "1496": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9630224108695984
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.818591833114624
+  ]
+ },
+ "1498": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9775429368019104
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5478874444961548
+  ]
+ },
+ "1499": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9878528118133545
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7884203195571899
+  ]
+ },
+ "1501": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.3491997718811035
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.10087862610816956
+  ]
+ },
+ "1503": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.5777336359024048
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9697853922843933
+  ]
+ },
+ "1515": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "152": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.8651101589202881
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9219217896461487
+  ]
+ },
+ "1523": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9965837001800537
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9992417097091675
+  ]
+ },
+ "1529": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "SkolotnevaKelbin",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1531": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1538": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.8708171844482422
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9505029916763306
+  ]
+ },
+ "154": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.03010033443570137
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.40886667370796204
+  ]
+ },
+ "1541": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9138304591178894
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9882676005363464
+  ]
+ },
+ "1545": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.7869504690170288
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7177048921585083
+  ]
+ },
+ "1556": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9805434346199036
+  ],
+  "dino43": [
+   "septoria",
+   0.9718859195709229
+  ]
+ },
+ "1563": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9557340741157532
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9702399373054504
+  ]
+ },
+ "1565": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.8269913792610168
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7017130851745605
+  ]
+ },
+ "1568": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9645892381668091
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9084556102752686
+  ]
+ },
+ "1569": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.21190567314624786
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.11201595515012741
+  ]
+ },
+ "157": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9757624268531799
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9870296716690063
+  ]
+ },
+ "1570": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.8852352499961853
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9722570776939392
+  ]
+ },
+ "1571": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1572": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.0938439592719078
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.18713268637657166
+  ]
+ },
+ "159": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9207897186279297
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9599125981330872
+  ]
+ },
+ "1590": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9767136573791504
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9866748452186584
+  ]
+ },
+ "1591": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.998504638671875
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9874721169471741
+  ]
+ },
+ "1592": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9987404942512512
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9991065859794617
+  ]
+ },
+ "16": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "plantix",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1604": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.9189178347587585
+  ],
+  "dino43": [
+   "stem_rust",
+   0.951323390007019
+  ]
+ },
+ "1606": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "healthy",
+   0.9562273025512695
+  ],
+  "dino43": [
+   "healthy",
+   0.3667031228542328
+  ]
+ },
+ "1607": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.49645811319351196
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.5648787617683411
+  ]
+ },
+ "1612": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9655764698982239
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9943799376487732
+  ]
+ },
+ "1617": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1618": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.05108273774385452
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9806919097900391
+  ]
+ },
+ "1620": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1624": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9739436507225037
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8587185740470886
+  ]
+ },
+ "1629": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.0753123015165329
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5724837779998779
+  ]
+ },
+ "163": {
+  "truth": [
+   "leaf_rust",
+   "septoria"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9975080490112305
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9922444224357605
+  ]
+ },
+ "1643": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9760379791259766
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9925103187561035
+  ]
+ },
+ "1644": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.474235475063324
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.895339846611023
+  ]
+ },
+ "1647": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9122800230979919
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5174946784973145
+  ]
+ },
+ "1650": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.8497219681739807
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6331834197044373
+  ]
+ },
+ "1651": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.4089256823062897
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7620701193809509
+  ]
+ },
+ "1659": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.7645401358604431
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.630571186542511
+  ]
+ },
+ "166": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.951323390007019
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.15960998833179474
+  ]
+ },
+ "1660": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.6833138465881348
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8335957527160645
+  ]
+ },
+ "1671": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.12304913252592087
+  ],
+  "dino43": [
+   "stem_rust",
+   0.49762725830078125
+  ]
+ },
+ "1672": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.999595582485199
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9995939135551453
+  ]
+ },
+ "1678": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.7742421627044678
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9141375422477722
+  ]
+ },
+ "1685": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.5274686217308044
+  ],
+  "dino43": [
+   "stem_rust",
+   0.5953161120414734
+  ]
+ },
+ "1697": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9985334873199463
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9988707900047302
+  ]
+ },
+ "1702": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.15856485068798065
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9649212956428528
+  ]
+ },
+ "1704": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9794721603393555
+  ],
+  "dino43": [
+   "stem_rust",
+   0.756717324256897
+  ]
+ },
+ "1715": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8178656101226807
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7154240012168884
+  ]
+ },
+ "1728": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.308190256357193
+  ],
+  "dino43": [
+   "septoria",
+   0.1445106565952301
+  ]
+ },
+ "1731": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "healthy",
+   0.9359345436096191
+  ],
+  "dino43": [
+   "healthy",
+   0.9761291742324829
+  ]
+ },
+ "1732": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9779677391052246
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9470881819725037
+  ]
+ },
+ "1733": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.31352487206459045
+  ],
+  "dino43": [
+   "healthy",
+   0.1544397622346878
+  ]
+ },
+ "1734": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.11656273901462555
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.6425446271896362
+  ]
+ },
+ "1741": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9842759370803833
+  ],
+  "dino43": [
+   "healthy",
+   0.8594279289245605
+  ]
+ },
+ "1745": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.44034892320632935
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9177460074424744
+  ]
+ },
+ "1753": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.3430115580558777
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.12137296795845032
+  ]
+ },
+ "1761": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1765": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9776712656021118
+  ],
+  "dino43": [
+   "healthy",
+   0.9815244078636169
+  ]
+ },
+ "177": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9709643721580505
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9975560903549194
+  ]
+ },
+ "1772": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9650533199310303
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9441768527030945
+  ]
+ },
+ "1774": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.09999629855155945
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7913377285003662
+  ]
+ },
+ "1776": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9969722032546997
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9845753908157349
+  ]
+ },
+ "178": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.8569320440292358
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9406808614730835
+  ]
+ },
+ "1784": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9910145401954651
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9964203834533691
+  ]
+ },
+ "1786": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9987648725509644
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9990490078926086
+  ]
+ },
+ "1787": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.10687687993049622
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.11961366981267929
+  ]
+ },
+ "1788": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.1368389129638672
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6150878667831421
+  ]
+ },
+ "1793": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9932550191879272
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.983020007610321
+  ]
+ },
+ "1799": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.02517884224653244
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9494823217391968
+  ]
+ },
+ "18": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.8113772869110107
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9920926690101624
+  ]
+ },
+ "180": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.6602818965911865
+  ],
+  "dino43": [
+   "septoria",
+   0.9939496517181396
+  ]
+ },
+ "1806": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9618217349052429
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9776712656021118
+  ]
+ },
+ "1807": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.3265935182571411
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.2112540602684021
+  ]
+ },
+ "1809": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.9594592452049255
+  ],
+  "dino43": [
+   "stem_rust",
+   0.917302668094635
+  ]
+ },
+ "1811": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.34554681181907654
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.12106090039014816
+  ]
+ },
+ "1814": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9817007184028625
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9425067901611328
+  ]
+ },
+ "1819": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.6262384653091431
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.21900326013565063
+  ]
+ },
+ "182": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1822": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8929365277290344
+  ],
+  "dino43": [
+   "healthy",
+   0.7838230133056641
+  ]
+ },
+ "1824": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1834": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.31100818514823914
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.5036506056785583
+  ]
+ },
+ "1844": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.8783142566680908
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9430335760116577
+  ]
+ },
+ "1847": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.6356748938560486
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.4595915377140045
+  ]
+ },
+ "1854": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.6908720135688782
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9296960830688477
+  ]
+ },
+ "1858": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1859": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9974290728569031
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9980581402778625
+  ]
+ },
+ "186": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1861": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9551520943641663
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.958615243434906
+  ]
+ },
+ "1862": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9987840056419373
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9980657696723938
+  ]
+ },
+ "1863": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.9893474578857422
+  ],
+  "dino43": [
+   "healthy",
+   0.9056565761566162
+  ]
+ },
+ "1866": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "powdery_mildew",
+   0.8690492510795593
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.14080816507339478
+  ]
+ },
+ "1870": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.13072867691516876
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.18417984247207642
+  ]
+ },
+ "1875": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9685006141662598
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9804313778877258
+  ]
+ },
+ "1882": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Bechtold",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1894": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9068183302879333
+  ],
+  "dino43": [
+   "healthy",
+   0.9837225079536438
+  ]
+ },
+ "1895": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9808392524719238
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9942250847816467
+  ]
+ },
+ "1896": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1899": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9979966282844543
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9952816367149353
+  ]
+ },
+ "1902": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.32338011264801025
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7586894631385803
+  ]
+ },
+ "1914": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.45035937428474426
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.3938511908054352
+  ]
+ },
+ "1919": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "1920": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.09568694233894348
+  ],
+  "dino43": [
+   "stem_rust",
+   0.4659038484096527
+  ]
+ },
+ "1923": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.9938309192657471
+  ],
+  "dino43": [
+   "healthy",
+   0.9978342652320862
+  ]
+ },
+ "1926": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9962345957756042
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.5515133142471313
+  ]
+ },
+ "1936": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9976218342781067
+  ],
+  "dino43": [
+   "healthy",
+   0.9991440773010254
+  ]
+ },
+ "1937": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.6958549618721008
+  ],
+  "dino43": [
+   "healthy",
+   0.5463750958442688
+  ]
+ },
+ "194": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.5005197525024414
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5916643142700195
+  ]
+ },
+ "1940": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9518632292747498
+  ],
+  "dino43": [
+   "healthy",
+   0.981979250907898
+  ]
+ },
+ "1941": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.798501193523407
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9366336464881897
+  ]
+ },
+ "1953": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9976032376289368
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9967013001441956
+  ]
+ },
+ "1958": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9369805455207825
+  ],
+  "dino43": [
+   "septoria",
+   0.9440738558769226
+  ]
+ },
+ "1966": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.6028802394866943
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7343100905418396
+  ]
+ },
+ "1985": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9551520943641663
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9058233499526978
+  ]
+ },
+ "199": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.973993182182312
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9842759370803833
+  ]
+ },
+ "1991": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.12474514544010162
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8693822622299194
+  ]
+ },
+ "1993": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9214990139007568
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9707432389259338
+  ]
+ },
+ "1994": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9897909760475159
+  ],
+  "dino43": [
+   "healthy",
+   0.9983124732971191
+  ]
+ },
+ "2000": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.79739910364151
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6619228720664978
+  ]
+ },
+ "2005": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.5619961619377136
+  ],
+  "dino43": [
+   "stem_rust",
+   0.32519903779029846
+  ]
+ },
+ "2009": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9923341274261475
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9963500499725342
+  ]
+ },
+ "2013": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "healthy",
+   0.8335957527160645
+  ],
+  "dino43": [
+   "healthy",
+   0.9459012746810913
+  ]
+ },
+ "2014": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.987375020980835
+  ],
+  "dino43": [
+   "healthy",
+   0.8927496671676636
+  ]
+ },
+ "2016": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9919691681861877
+  ],
+  "dino43": [
+   "healthy",
+   0.9980657696723938
+  ]
+ },
+ "2019": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "202": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9777138829231262
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9882221817970276
+  ]
+ },
+ "2025": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.8739697337150574
+  ],
+  "dino43": [
+   "septoria",
+   0.0645354762673378
+  ]
+ },
+ "2027": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.9170058369636536
+  ],
+  "dino43": [
+   "stem_rust",
+   0.42435237765312195
+  ]
+ },
+ "2029": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.08616956323385239
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7947037816047668
+  ]
+ },
+ "203": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9368651509284973
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8116759657859802
+  ]
+ },
+ "2031": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9764007329940796
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9950946569442749
+  ]
+ },
+ "2033": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2039": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.8822250962257385
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.5702714920043945
+  ]
+ },
+ "204": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2043": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.879561185836792
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7735586762428284
+  ]
+ },
+ "2052": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "healthy",
+   0.5926076769828796
+  ],
+  "dino43": [
+   "healthy",
+   0.9897909760475159
+  ]
+ },
+ "2056": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2057": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9031234383583069
+  ],
+  "dino43": [
+   "healthy",
+   0.24562746286392212
+  ]
+ },
+ "2066": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8958876132965088
+  ],
+  "dino43": [
+   "healthy",
+   0.970687747001648
+  ]
+ },
+ "2068": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9710193276405334
+  ],
+  "dino43": [
+   "healthy",
+   0.998217761516571
+  ]
+ },
+ "2069": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2078": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2079": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "septoria",
+   0.9898303151130676
+  ],
+  "dino43": [
+   "septoria",
+   0.9937587976455688
+  ]
+ },
+ "2093": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.7926247715950012
+  ],
+  "dino43": [
+   "healthy",
+   0.961605966091156
+  ]
+ },
+ "2094": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9819446802139282
+  ],
+  "dino43": [
+   "healthy",
+   0.9952816367149353
+  ]
+ },
+ "2096": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.6660624742507935
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.783160388469696
+  ]
+ },
+ "2098": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "210": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9670388102531433
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9973061084747314
+  ]
+ },
+ "2101": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.972151517868042
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9492946267127991
+  ]
+ },
+ "2107": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9877586960792542
+  ],
+  "dino43": [
+   "healthy",
+   0.994820237159729
+  ]
+ },
+ "2108": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.9965969920158386
+  ],
+  "dino43": [
+   "healthy",
+   0.9623913168907166
+  ]
+ },
+ "211": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.995354413986206
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9785493016242981
+  ]
+ },
+ "2116": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2124": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9039745330810547
+  ],
+  "dino43": [
+   "healthy",
+   0.9706321954727173
+  ]
+ },
+ "2129": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.985042929649353
+  ],
+  "dino43": [
+   "healthy",
+   0.9964063763618469
+  ]
+ },
+ "2130": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.8862236142158508
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.18742996454238892
+  ]
+ },
+ "2132": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2133": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9812749028205872
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9930423498153687
+  ]
+ },
+ "2137": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2141": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9132132530212402
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.4638389050960541
+  ]
+ },
+ "2143": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.9943140745162964
+  ],
+  "dino43": [
+   "healthy",
+   0.9902538657188416
+  ]
+ },
+ "2151": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2152": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.09268777817487717
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.47936657071113586
+  ]
+ },
+ "2155": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.6334102749824524
+  ],
+  "dino43": [
+   "healthy",
+   0.9038048982620239
+  ]
+ },
+ "216": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.8521990180015564
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.2075357437133789
+  ]
+ },
+ "2160": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.6651931405067444
+  ],
+  "dino43": [
+   "stem_rust",
+   0.4523544907569885
+  ]
+ },
+ "2161": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.7518303990364075
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9742884635925293
+  ]
+ },
+ "2162": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.6672560572624207
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9775857925415039
+  ]
+ },
+ "2168": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8356177806854248
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8942365646362305
+  ]
+ },
+ "2169": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8665847778320312
+  ],
+  "dino43": [
+   "stem_rust",
+   0.715523362159729
+  ]
+ },
+ "2171": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.15329548716545105
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.3133147060871124
+  ]
+ },
+ "2179": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8707072734832764
+  ],
+  "dino43": [
+   "healthy",
+   0.9149009585380554
+  ]
+ },
+ "2180": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9362850189208984
+  ],
+  "dino43": [
+   "healthy",
+   0.9036349058151245
+  ]
+ },
+ "2181": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.969613254070282
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.1795305609703064
+  ]
+ },
+ "2182": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "septoria",
+   0.9890975952148438
+  ],
+  "dino43": [
+   "septoria",
+   0.9798612594604492
+  ]
+ },
+ "2186": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9991100430488586
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9910838603973389
+  ]
+ },
+ "2190": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "septoria",
+   0.9990264177322388
+  ],
+  "dino43": [
+   "septoria",
+   0.9982247948646545
+  ]
+ },
+ "2194": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9222025275230408
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9760836362838745
+  ]
+ },
+ "2195": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.8150853514671326
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.5627773404121399
+  ]
+ },
+ "2198": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.8349459171295166
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8262916803359985
+  ]
+ },
+ "2199": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.7964508533477783
+  ],
+  "dino43": [
+   "septoria",
+   0.7293270230293274
+  ]
+ },
+ "220": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.7028360962867737
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9281486868858337
+  ]
+ },
+ "2201": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9923933744430542
+  ],
+  "dino43": [
+   "healthy",
+   0.9851003289222717
+  ]
+ },
+ "2206": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9981251358985901
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9951889514923096
+  ]
+ },
+ "2207": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9870795607566833
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7418610453605652
+  ]
+ },
+ "2208": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9249592423439026
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5340657830238342
+  ]
+ },
+ "2213": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8190264105796814
+  ],
+  "dino43": [
+   "stem_rust",
+   0.5539577603340149
+  ]
+ },
+ "2214": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9862577319145203
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9813822507858276
+  ]
+ },
+ "2216": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.3474263846874237
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.31732046604156494
+  ]
+ },
+ "2225": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.5876473188400269
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.513706624507904
+  ]
+ },
+ "2226": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2228": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9936116337776184
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.8456876873970032
+  ]
+ },
+ "2232": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9929336309432983
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9925682544708252
+  ]
+ },
+ "2233": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2235": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9658995866775513
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5610344409942627
+  ]
+ },
+ "2238": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9659639000892639
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9917484521865845
+  ]
+ },
+ "2239": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.0844927504658699
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.27376851439476013
+  ]
+ },
+ "2240": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9276259541511536
+  ],
+  "dino43": [
+   "healthy",
+   0.8438951373100281
+  ]
+ },
+ "2247": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9688562154769897
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9934611320495605
+  ]
+ },
+ "2249": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.978425920009613
+  ],
+  "dino43": [
+   "healthy",
+   0.9971990585327148
+  ]
+ },
+ "2251": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.7816641926765442
+  ],
+  "dino43": [
+   "healthy",
+   0.7306743860244751
+  ]
+ },
+ "2266": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2267": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9728307723999023
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9231777787208557
+  ]
+ },
+ "2269": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9679599404335022
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9769787192344666
+  ]
+ },
+ "2279": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.952397346496582
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6110919117927551
+  ]
+ },
+ "2280": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9216402173042297
+  ],
+  "dino43": [
+   "stem_rust",
+   0.5675172209739685
+  ]
+ },
+ "2294": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.8638516664505005
+  ],
+  "dino43": [
+   "healthy",
+   0.316791832447052
+  ]
+ },
+ "2295": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.10158944875001907
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.43344178795814514
+  ]
+ },
+ "2296": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.25109636783599854
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.147801011800766
+  ]
+ },
+ "2297": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2301": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9595351815223694
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.29108163714408875
+  ]
+ },
+ "2302": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9904035329818726
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.8389438390731812
+  ]
+ },
+ "2303": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.40092524886131287
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.20769643783569336
+  ]
+ },
+ "2305": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2306": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2307": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9885804057121277
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9927672147750854
+  ]
+ },
+ "2308": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.5723044872283936
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.3301471471786499
+  ]
+ },
+ "2309": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "septoria",
+   0.9694979190826416
+  ],
+  "dino43": [
+   "septoria",
+   0.9527502655982971
+  ]
+ },
+ "2310": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2312": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.963711678981781
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9410068988800049
+  ]
+ },
+ "2313": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9840323328971863
+  ],
+  "dino43": [
+   "stem_rust",
+   0.980205237865448
+  ]
+ },
+ "2317": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9982590079307556
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9976859092712402
+  ]
+ },
+ "2321": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9651191234588623
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9862046241760254
+  ]
+ },
+ "2323": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8785228729248047
+  ],
+  "dino43": [
+   "healthy",
+   0.9342753291130066
+  ]
+ },
+ "2326": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "TgBot",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2328": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.6697448492050171
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.3647775650024414
+  ]
+ },
+ "2339": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9883127808570862
+  ],
+  "dino43": [
+   "healthy",
+   0.986929178237915
+  ]
+ },
+ "2341": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9917803406715393
+  ],
+  "dino43": [
+   "healthy",
+   0.995866060256958
+  ]
+ },
+ "2343": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2349": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.7429815530776978
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9653811454772949
+  ]
+ },
+ "2353": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.6998701691627502
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6842640042304993
+  ]
+ },
+ "236": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.9138304591178894
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8526903390884399
+  ]
+ },
+ "2362": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.13500382006168365
+  ],
+  "dino43": [
+   "stem_rust",
+   0.19147881865501404
+  ]
+ },
+ "2367": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.37536293268203735
+  ],
+  "dino43": [
+   "stem_rust",
+   0.17441026866436005
+  ]
+ },
+ "237": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.889720618724823
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8589553833007812
+  ]
+ },
+ "2370": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2372": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.7839884757995605
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.4493624269962311
+  ]
+ },
+ "238": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.8748277425765991
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7916600704193115
+  ]
+ },
+ "2383": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9903290271759033
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9963500499725342
+  ]
+ },
+ "2384": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.417093425989151
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.10557883977890015
+  ]
+ },
+ "2385": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8178656101226807
+  ],
+  "dino43": [
+   "healthy",
+   0.9897513389587402
+  ]
+ },
+ "2386": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9936364889144897
+  ],
+  "dino43": [
+   "healthy",
+   0.9920002222061157
+  ]
+ },
+ "2387": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "239": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.5572731494903564
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.929951012134552
+  ]
+ },
+ "2392": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "2395": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.9726754426956177
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8000679016113281
+  ]
+ },
+ "2396": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9951325058937073
+  ],
+  "dino43": [
+   "healthy",
+   0.9986006617546082
+  ]
+ },
+ "2402": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.7750945687294006
+  ],
+  "dino43": [
+   "healthy",
+   0.9933846592903137
+  ]
+ },
+ "2410": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "245": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Bechtold",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "246": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9982993006706238
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9950562715530396
+  ]
+ },
+ "247": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9968273043632507
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9959298968315125
+  ]
+ },
+ "25": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9985730648040771
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9951702952384949
+  ]
+ },
+ "250": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.15065254271030426
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.6157812476158142
+  ]
+ },
+ "251": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9877113699913025
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9951514005661011
+  ]
+ },
+ "254": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.8171371221542358
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9366336464881897
+  ]
+ },
+ "256": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9973269701004028
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.996160626411438
+  ]
+ },
+ "257": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9994826316833496
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9993712306022644
+  ]
+ },
+ "259": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8535469174385071
+  ],
+  "dino43": [
+   "stem_rust",
+   0.938010573387146
+  ]
+ },
+ "265": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.6156079173088074
+  ],
+  "dino43": [
+   "healthy",
+   0.8864204287528992
+  ]
+ },
+ "274": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9783433079719543
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9808759689331055
+  ]
+ },
+ "276": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.09334687888622284
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.10818895697593689
+  ]
+ },
+ "287": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.999208390712738
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9995728135108948
+  ]
+ },
+ "288": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9950370192527771
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9557340741157532
+  ]
+ },
+ "293": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.06371499598026276
+  ],
+  "dino43": [
+   "stem_rust",
+   0.055005285888910294
+  ]
+ },
+ "300": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "305": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9986114501953125
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.997065007686615
+  ]
+ },
+ "311": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9992958307266235
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9990264177322388
+  ]
+ },
+ "313": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9917484521865845
+  ],
+  "dino43": [
+   "healthy",
+   0.9947391152381897
+  ]
+ },
+ "314": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.8985886573791504
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8091251850128174
+  ]
+ },
+ "330": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9193534255027771
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8846385478973389
+  ]
+ },
+ "333": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9505029916763306
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7123322486877441
+  ]
+ },
+ "334": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.1672186702489853
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.5363736152648926
+  ]
+ },
+ "349": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9948403239250183
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9724147915840149
+  ]
+ },
+ "358": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.47091910243034363
+  ],
+  "dino43": [
+   "stem_rust",
+   0.767863929271698
+  ]
+ },
+ "360": {
+  "truth": [
+   "leaf_rust",
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.8071568012237549
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9600626826286316
+  ]
+ },
+ "365": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9394705891609192
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.875361442565918
+  ]
+ },
+ "368": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.8327813148498535
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6670392155647278
+  ]
+ },
+ "370": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9964756369590759
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9910492897033691
+  ]
+ },
+ "371": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9975560903549194
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9949396848678589
+  ]
+ },
+ "372": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Bechtold",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "373": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9973477125167847
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9955489635467529
+  ]
+ },
+ "381": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.7900447249412537
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5977839827537537
+  ]
+ },
+ "387": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.6703925132751465
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.5219584703445435
+  ]
+ },
+ "39": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.5231767296791077
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9868786931037903
+  ]
+ },
+ "392": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.2711551785469055
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.6015350222587585
+  ]
+ },
+ "401": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.008061991073191166
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7193835973739624
+  ]
+ },
+ "402": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.6169934868812561
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9005298018455505
+  ]
+ },
+ "410": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9686195850372314
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.47854408621788025
+  ]
+ },
+ "412": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "419": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8712559342384338
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8852352499961853
+  ]
+ },
+ "42": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9692660570144653
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9822876453399658
+  ]
+ },
+ "425": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.7032438516616821
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.31837916374206543
+  ]
+ },
+ "43": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.49805164337158203
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7764534950256348
+  ]
+ },
+ "432": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9917484521865845
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9979251623153687
+  ]
+ },
+ "439": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.9658352136611938
+  ],
+  "dino43": [
+   "septoria",
+   0.8350804448127747
+  ]
+ },
+ "450": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9899086952209473
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.993561863899231
+  ]
+ },
+ "46": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "plantix",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.9808025360107422
+  ],
+  "dino43": [
+   "septoria",
+   0.9848692417144775
+  ]
+ },
+ "461": {
+  "truth": [
+   "powdery_mildew",
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "powdery_mildew",
+   0.988447368144989
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9880849719047546
+  ]
+ },
+ "473": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9950562715530396
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9953363537788391
+  ]
+ },
+ "481": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.3391706645488739
+  ],
+  "dino43": [
+   "healthy",
+   0.9797840118408203
+  ]
+ },
+ "490": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "powdery_mildew",
+   0.058560825884342194
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.6371436715126038
+  ]
+ },
+ "500": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9994252920150757
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9986276626586914
+  ]
+ },
+ "501": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9684410095214844
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6363531351089478
+  ]
+ },
+ "505": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9934101700782776
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9929881691932678
+  ]
+ },
+ "506": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9981178045272827
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9993307590484619
+  ]
+ },
+ "508": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.45441165566444397
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5029296278953552
+  ]
+ },
+ "509": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.967348575592041
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5346124768257141
+  ]
+ },
+ "514": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "plantix",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "521": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.8089743256568909
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.4678179919719696
+  ]
+ },
+ "526": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.9882676005363464
+  ],
+  "dino43": [
+   "septoria",
+   0.9278878569602966
+  ]
+ },
+ "541": {
+  "truth": [
+   "powdery_mildew",
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "powdery_mildew",
+   0.9834704995155334
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9835337996482849
+  ]
+ },
+ "548": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "551": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9274948239326477
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8812065720558167
+  ]
+ },
+ "56": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.42071861028671265
+  ],
+  "dino43": [
+   "septoria",
+   0.729519784450531
+  ]
+ },
+ "566": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "septoria",
+   0.2763974666595459
+  ],
+  "dino43": [
+   "septoria",
+   0.14620910584926605
+  ]
+ },
+ "567": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9987356066703796
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9990490078926086
+  ]
+ },
+ "573": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "576": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "SkolotnevaKelbin",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "578": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "579": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.13951356709003448
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7160201072692871
+  ]
+ },
+ "592": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9962782263755798
+  ],
+  "dino43": [
+   "healthy",
+   0.9979251623153687
+  ]
+ },
+ "593": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.6489114165306091
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.6163586974143982
+  ]
+ },
+ "603": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.8846385478973389
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6262384653091431
+  ]
+ },
+ "613": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.7764534950256348
+  ],
+  "dino43": [
+   "stem_rust",
+   0.3309035003185272
+  ]
+ },
+ "614": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "617": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "TgBot",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "642": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.25091278553009033
+  ],
+  "dino43": [
+   "healthy",
+   0.5253992676734924
+  ]
+ },
+ "645": {
+  "truth": [
+   "leaf_rust",
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.731442391872406
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9337939620018005
+  ]
+ },
+ "647": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "septoria",
+   0.7020196318626404
+  ],
+  "dino43": [
+   "healthy",
+   0.7890712022781372
+  ]
+ },
+ "671": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Bechtold",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "685": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "686": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9798612594604492
+  ],
+  "dino43": [
+   "septoria",
+   0.06941547244787216
+  ]
+ },
+ "690": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.995354413986206
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9960851669311523
+  ]
+ },
+ "699": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.20481863617897034
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.8934953808784485
+  ]
+ },
+ "7": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "TgBot",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "707": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "709": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew",
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.939024806022644
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.6931614875793457
+  ]
+ },
+ "71": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9982109069824219
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.995566189289093
+  ]
+ },
+ "712": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.316791832447052
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.5126925706863403
+  ]
+ },
+ "716": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9822876453399658
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9990673661231995
+  ]
+ },
+ "721": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.8862236142158508
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.5154902935028076
+  ]
+ },
+ "722": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9768908023834229
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9941347241401672
+  ]
+ },
+ "737": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "healthy",
+   0.9840936064720154
+  ],
+  "dino43": [
+   "healthy",
+   0.9693822264671326
+  ]
+ },
+ "739": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "SkolotnevaKelbin",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.8807970285415649
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6568784117698669
+  ]
+ },
+ "74": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.3878062665462494
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.17895588278770447
+  ]
+ },
+ "743": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9858275651931763
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9428234100341797
+  ]
+ },
+ "75": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "TgBot",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "760": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9875683188438416
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9899476170539856
+  ]
+ },
+ "771": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "powdery_mildew",
+   0.9901401400566101
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9707432389259338
+  ]
+ },
+ "775": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.04586266353726387
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7215470671653748
+  ]
+ },
+ "778": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "powdery_mildew",
+   0.6186652183532715
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.7728736996650696
+  ]
+ },
+ "78": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.7592254281044006
+  ],
+  "dino43": [
+   "septoria",
+   0.7940657734870911
+  ]
+ },
+ "781": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.1037486344575882
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.3063195049762726
+  ]
+ },
+ "782": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9994093179702759
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9992021918296814
+  ]
+ },
+ "800": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.8531803488731384
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.7007924318313599
+  ]
+ },
+ "802": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.8964328765869141
+  ],
+  "dino43": [
+   "septoria",
+   0.9559813141822815
+  ]
+ },
+ "806": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.8077641129493713
+  ],
+  "dino43": [
+   "healthy",
+   0.7652426362037659
+  ]
+ },
+ "813": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "82": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "830": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9453993439674377
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9003546833992004
+  ]
+ },
+ "832": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.7199746370315552
+  ],
+  "dino43": [
+   "stem_rust",
+   0.19605544209480286
+  ]
+ },
+ "84": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.05242456495761871
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.5020923614501953
+  ]
+ },
+ "843": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.7358314990997314
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.09122006595134735
+  ]
+ },
+ "846": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.7459540367126465
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9483462572097778
+  ]
+ },
+ "847": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.9107043743133545
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8891444206237793
+  ]
+ },
+ "849": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8652240633964539
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6330700516700745
+  ]
+ },
+ "850": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9959298968315125
+  ],
+  "dino43": [
+   "healthy",
+   0.9978677034378052
+  ]
+ },
+ "855": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.32402142882347107
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.49648672342300415
+  ]
+ },
+ "861": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.8702667951583862
+  ],
+  "dino43": [
+   "stem_rust",
+   0.8219033479690552
+  ]
+ },
+ "865": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9488224983215332
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9132132530212402
+  ]
+ },
+ "867": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.879974365234375
+  ],
+  "dino43": [
+   "stem_rust",
+   0.2078571617603302
+  ]
+ },
+ "87": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.35365137457847595
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6398485898971558
+  ]
+ },
+ "872": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.9815597534179688
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9897909760475159
+  ]
+ },
+ "882": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "leaf_rust",
+   0.9024378061294556
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9436599016189575
+  ]
+ },
+ "890": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "891": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9959298968315125
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9925682544708252
+  ]
+ },
+ "894": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9936856627464294
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9933330416679382
+  ]
+ },
+ "900": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.5024909377098083
+  ],
+  "dino43": [
+   "stem_rust",
+   0.6756575703620911
+  ]
+ },
+ "901": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "902": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "septoria",
+   0.19651763141155243
+  ],
+  "dino43": [
+   "healthy",
+   0.11240508407354355
+  ]
+ },
+ "908": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.47315508127212524
+  ],
+  "dino43": [
+   "stem_rust",
+   0.13454832136631012
+  ]
+ },
+ "909": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "leaf_rust",
+   0.4531710743904114
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.8623515963554382
+  ]
+ },
+ "92": {
+  "truth": [
+   "leaf_rust",
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9980353713035583
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9979731440544128
+  ]
+ },
+ "923": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9257686138153076
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6557770371437073
+  ]
+ },
+ "93": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.17681369185447693
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6818326711654663
+  ]
+ },
+ "930": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9988120794296265
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9965165853500366
+  ]
+ },
+ "932": {
+  "truth": [
+   "stem_rust"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.6248660087585449
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.6818326711654663
+  ]
+ },
+ "935": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.9956685304641724
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.7856376767158508
+  ]
+ },
+ "940": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Bechtold",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.2040245532989502
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.47594019770622253
+  ]
+ },
+ "945": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": 2,
+  "dino42": [
+   "healthy",
+   0.24454335868358612
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.2587003707885742
+  ]
+ },
+ "950": {
+  "truth": [
+   "powdery_mildew"
+  ],
+  "source": "TgBot",
+  "fold": 1,
+  "dino42": [
+   "powdery_mildew",
+   0.9949788451194763
+  ],
+  "dino43": [
+   "powdery_mildew",
+   0.9071478247642517
+  ]
+ },
+ "953": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "yellow_rust",
+   0.9121235609054565
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6708239316940308
+  ]
+ },
+ "955": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "956": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.2747403681278229
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.36206647753715515
+  ]
+ },
+ "968": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "yellow_rust",
+   0.9978172779083252
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9993785619735718
+  ]
+ },
+ "971": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.9926256537437439
+  ],
+  "dino43": [
+   "healthy",
+   0.9897909760475159
+  ]
+ },
+ "974": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "Skolotneva",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "975": {
+  "truth": [
+   "septoria"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "septoria",
+   0.418221652507782
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.6035230159759521
+  ]
+ },
+ "977": {
+  "truth": [
+   "healthy"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "healthy",
+   0.2267836332321167
+  ],
+  "dino43": [
+   "septoria",
+   0.3633079528808594
+  ]
+ },
+ "978": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": null,
+  "dino42": null,
+  "dino43": null
+ },
+ "980": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Afonnikov",
+  "fold": 2,
+  "dino42": [
+   "stem_rust",
+   0.5706304907798767
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.4674836993217468
+  ]
+ },
+ "981": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.9119669198989868
+  ],
+  "dino43": [
+   "stem_rust",
+   0.907312273979187
+  ]
+ },
+ "983": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "leaf_rust",
+   0.9926826357841492
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.9948403239250183
+  ]
+ },
+ "991": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.6003054976463318
+  ],
+  "dino43": [
+   "leaf_rust",
+   0.5396201014518738
+  ]
+ },
+ "993": {
+  "truth": [
+   "leaf_rust"
+  ],
+  "source": "Gultyaeva",
+  "fold": 1,
+  "dino42": [
+   "stem_rust",
+   0.6249804496765137
+  ],
+  "dino43": [
+   "stem_rust",
+   0.7325918078422546
+  ]
+ },
+ "996": {
+  "truth": [
+   "leaf_rust",
+   "stem_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "stem_rust",
+   0.9486324787139893
+  ],
+  "dino43": [
+   "stem_rust",
+   0.9561454057693481
+  ]
+ },
+ "998": {
+  "truth": [
+   "yellow_rust"
+  ],
+  "source": "ZindiTrain",
+  "fold": 0,
+  "dino42": [
+   "yellow_rust",
+   0.41063806414604187
+  ],
+  "dino43": [
+   "yellow_rust",
+   0.9972207546234131
+  ]
+ }
+}

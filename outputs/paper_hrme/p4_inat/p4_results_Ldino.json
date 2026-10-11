@@ -1,0 +1,166 @@
+{
+ "n": 68,
+ "labels": {
+  "healthy": 0,
+  "leaf_rust": 36,
+  "powdery_mildew": 5,
+  "septoria": 23,
+  "stem_rust": 0,
+  "yellow_rust": 4
+ },
+ "forced_L": 42,
+ "forced_G61": 35,
+ "alpha_0.05": {
+  "HRME_v3": {
+   "n": 68,
+   "released": 33,
+   "errors": 3,
+   "risk": 0.09090909090909091,
+   "risk_cp95": 0.21850320270216722,
+   "informative_coverage": 0.4852941176470588,
+   "specific_coverage": 0.27941176470588236,
+   "diseased_only": 0.0,
+   "abstain": 0.5147058823529411,
+   "frozen_cfg": [
+    0.5,
+    0.5,
+    0.5,
+    95,
+    true,
+    true
+   ]
+  },
+  "HRME_v2": {
+   "n": 68,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": null
+  },
+  "HRME_noG": {
+   "n": 68,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": null
+  },
+  "B1_flat_L": {
+   "n": 68,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": [
+    0.999
+   ]
+  },
+  "B2_flat_G": {
+   "n": 68,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": null
+  }
+ },
+ "alpha_0.1": {
+  "HRME_v3": {
+   "n": 68,
+   "released": 39,
+   "errors": 9,
+   "risk": 0.23076923076923078,
+   "risk_cp95": 0.36815290112883503,
+   "informative_coverage": 0.5735294117647058,
+   "specific_coverage": 0.36764705882352944,
+   "diseased_only": 0.0,
+   "abstain": 0.4264705882352941,
+   "frozen_cfg": [
+    0.5,
+    0.5,
+    0.5,
+    95,
+    false,
+    true
+   ]
+  },
+  "HRME_v2": {
+   "n": 68,
+   "released": 40,
+   "errors": 7,
+   "risk": 0.175,
+   "risk_cp95": 0.3037056670034146,
+   "informative_coverage": 0.5882352941176471,
+   "specific_coverage": 0.22058823529411764,
+   "diseased_only": 0.0,
+   "abstain": 0.4117647058823529,
+   "frozen_cfg": [
+    0.9,
+    0.5,
+    0.6,
+    null
+   ]
+  },
+  "HRME_noG": {
+   "n": 68,
+   "released": 40,
+   "errors": 7,
+   "risk": 0.175,
+   "risk_cp95": 0.3037056670034146,
+   "informative_coverage": 0.5882352941176471,
+   "specific_coverage": 0.22058823529411764,
+   "diseased_only": 0.0,
+   "abstain": 0.4117647058823529,
+   "frozen_cfg": [
+    0.9,
+    0.5,
+    0.6
+   ]
+  },
+  "B1_flat_L": {
+   "n": 68,
+   "released": 0,
+   "errors": 0,
+   "risk": 0.0,
+   "risk_cp95": 1.0,
+   "informative_coverage": 0.0,
+   "specific_coverage": 0.0,
+   "diseased_only": 0.0,
+   "abstain": 1.0,
+   "frozen_cfg": [
+    0.999
+   ]
+  },
+  "B2_flat_G": {
+   "n": 68,
+   "released": 21,
+   "errors": 1,
+   "risk": 0.047619047619047616,
+   "risk_cp95": 0.20672537900807,
+   "informative_coverage": 0.3088235294117647,
+   "specific_coverage": 0.3088235294117647,
+   "diseased_only": 0.0,
+   "abstain": 0.6911764705882353,
+   "frozen_cfg": [
+    95
+   ]
+  }
+ }
+}

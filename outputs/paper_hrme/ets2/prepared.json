@@ -1,0 +1,842 @@
+{
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000421.jpg": [
+"b94e16a7dfcab2ed0821f94b33449c3c24206b57fc6afd24f87ccb9c169cf259"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000434.jpg": [
+"b98dfec449ef4a7948b4e4f3d5e097115a1ecbe2d62a15c06f00d3ca1b73b0b6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000175.jpg": [
+"b68f4b2f1a09c9a91aa2c44894afb1e20b90fcbde54e4ce6f85b0a6ae4b34f1c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000356.jpg": [
+"dd2da2cc9e4bf19cdf7e0b85fa94c0851a6af1273fc5aa57b66e517fbf1195a1",
+"3d73af3180205a0e9fa32d8c6c38917a4c17fd7980df07d4ab3814a32adf45a8",
+"2f51d6fc62466aba89b7cd5fee2d2b9ca1b65950b8d12181fac5b40a536963e8",
+"c0475a818389906f4ac7c6cf7d29c9c71d553bf7632290f7f4b62ca695d63e86",
+"86d4488ee23acc910f3cded07321041d7652bba8e6f941662e1308ef2f300e76"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000426.jpg": [
+"1295ae9229628289451398f25fa83cd554d3d213a09763f7532d5fe493802677"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000186.jpg": [
+"4f7cb3caaf76dc077051c3317c0b5ea4f7f4e2075c42bc075d881c67d62d2a43"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000242.jpg": [
+"1a44b1513ea22365c330eb212c2357a99f2e6ae80430d61c196dee9306d03b35"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000442.jpg": [
+"821e3ad8194619c56a8841b827b237e13a237f23c1733307f88140871d65cb91"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000082.jpg": [
+"470bce5f87b414b6638012a92cec714a02c3638361b8f121aa57cdac2ce3f0e1"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000086.jpg": [
+"aafe0f7b3f124b4297f15085af127939a577a5dca56bb55ce9edee81b86b9f12"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000108.jpg": [
+"78442bfca94aabf31d356c3c05f0ce996ff71dfa6629e1fbb1896658953a8856"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000115.jpg": [
+"aca123bce76386eaf24d96962387d6e16c5e9ec89b49bd1f1aab3321bfb7d14f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000398.jpg": [
+"6da6ea6413b9be69c4e34998eb69ab7c8669a9d75331b77b38a16c8b23a718da"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000087.jpg": [
+"132b6c11e7cf38d4d0bf336be53547b23b8f1fcc84e67b0ed864af206e4dcb0a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000362.jpg": [
+"75e0464041e7986f7517784d4a08409b4696de08628d8c524e8644a5dbdcea64"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000368.jpg": [
+"bd511e8111df466f28d01ecd07249775c2f76f460ebb59a8b7e2ff971425b284"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000338.jpg": [
+"a9cf9df8b42035a0b46bdf647c4a9e83000a613f9ae8ea63ed77f46ede746e3b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000049.jpg": [
+"0fb3b1a3df4f5a716b6bc363e7f254a9e614b3bace91cf0615b8bac72b019ec0"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000212.jpg": [
+"0c211d96bbc4c1bd50c53e3f2508e2c515832221461523aeb4ef05913310cf65"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000154.jpg": [
+"e8bfe016cf49e9fef24a4f36573aad02bdfc47627b2cb96788247e5130254c1b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000438.jpg": [
+"da868afae1a7edcad39548d2254e21c8c6268ed4870441ab4f4ad2736f54f893"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000428.jpg": [
+"2bb8b1146a08d9c74201cdc1241e1d0fd2cc0e967cec9e67215e8f8400924519",
+"e918f0475c8207d90dfc56c82822a0ff05c6020ae835e6ec042d8874c7f5043d",
+"b944826b13eae400ced0070f0ddf38bc83fe85890292f528ed858bc77f4ebe88",
+"eb1c5058ed1e85e9591b3002a6a8ee713e1a3c0a0a030f343941e617c946c754",
+"35275e71ea5351f0335acecc93ca9f2265f692c2867994605f2b4d81acb2439a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000135.jpg": [
+"5b5e47e7559f72733406bbe0bbb47423a3c1d5d5c6ba129234a0f182b3956803"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000427.jpg": [
+"caa65195cc3e39837399f013d397bfd94650b0e027e7fedc2cb133b23ac4a4fe"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000332.jpg": [
+"f558a12a4a9b9fbf645ac7e2dd4f3c86ad3e61a4e8e487929b80a441855992d3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000094.jpg": [
+"253f6add3de7c8d98917a6d2a1ca0273d659a60babb2046be8a9ee788e0695d6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000393.jpg": [
+"e9a6727a0555d2d5065d308cf5458a12fdf001f68414d43fffebe97e95c1cead"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000297.jpg": [
+"c3ba1e05d103f3e97c28dc34aa586d87c096938d6b4c08cefcbc31278d8d923e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000100.jpg": [
+"33df59352500110df9eff70bd7946820cf231bca5f10eedf0a39ea3917a5609e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000397.jpg": [
+"0b8d8b1efe14d4d1ff68287dd03645d641c06581fa4090c377443181f3d72cdb"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000151.jpg": [
+"ea2640e8f50fe091226f1ac8fcfd1b6e5bb5ba22ecc008987962c1f6716795c4"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000005.jpg": [
+"2005155f950e43b3c04a7513659906a92b0344891730a717ffc88ec800212dcd"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000146.jpg": [
+"7a376ede1586774e9473564e8bc254d6bec9b6a0c0a04bbe25d8cf2beb07b794"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000292.jpg": [
+"af80169feadda0798c12f79920f08a5925810df042918b2aef08875f7b9501dc"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000218.jpg": [
+"69e4755fba86d1f3d92eeae3132af7fd482d21e9ff89ba4db507fbf2afd69efb"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000388.jpg": [
+"171c6cc2f0b9cb1e16a414c182d35a520950fd3f4cc5db4eb4594f2cd49387fb"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000170.jpg": [
+"b873bb08c456704cf53de8d636b19be4928a38ca67151c15e1b492ba0ba28da2"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000382.jpg": [
+"1d00b6dd482b3f8e224eebf438ca8ac415171f2670cb8d18cf421ce25b481f9b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000351.jpg": [
+"6cf218973c4804cd1001404d8cf300f5466c0aae10768dbc4d05ee6b9f423df0",
+"0bcbc25ae47dd3aef12f7b4effeac4b6df60471d1574589c5de61e100e2c5398",
+"28da724826ced897fe809cdf63b9f3b0e4c98f3d11cd5166c4dfe636d3f9946e",
+"3ea9e691cf634fbea32a0cd8bb31ad2db10b05bc2d3de84c56e866a4cd015e18",
+"0689f2d371020e605123899f5f62c79bff89b03f62130b79f6defefb12ec206d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000419.jpg": [
+"d786f0d2ffa5b456e70671172cfa5db39874f632b64ee96249b76622e1261bc9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000350.jpg": [
+"1630f2b4c8b6950f57cd73b41ad0516826a0f2049ea4684ad1642964788487b8",
+"24d6748ad264d987db45868264096c39cc199787fb8e0f3d7b9ea9caadda40b9",
+"0ec65ea25f3b93f17ae9a703169dc2e40ce32a6bcbf1557bf81eb1cb329a4009",
+"44286f26b8c0b11c968ee65a3a32a7b95f0206b8e4d032cb618bb77995d06bd6",
+"d1bfdfe0f10a9c0dc65f440f5400b3f4a1cf04c4a9dbc1363a800420316506d4"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000219.jpg": [
+"a3354ea09f1d3fe2da5fa761188a4d66795196a2142866f99b1a58156c36fe71"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000281.jpg": [
+"06e5afb905f0e3ed288f5e43fa03a9d620a25596d1b507fca859db3df3d217a6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000156.jpg": [
+"e2c1f34a9dbffeb8f5a2ca45b15ec2985650e9ed33233319850a620e45ddbc9d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000385.jpg": [
+"3bb22fa1d453a0a21e4d3e7ec81ae6f8941dbb850dd63d47f217bce29bbc994c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000126.jpg": [
+"c3836765a75f9f13bf9ededb543dfc1aa40262a5a6158b54d712209397df5ca3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000339.jpg": [
+"be46879cd8276a75072fa8b1cf832cb3af85d93fbec3887a7176b33afaa99ca3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000261.jpg": [
+"b8d4aa7e618af9d46bd499f87744040c9a92fd115908ac78f2726b8d6f735b63"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000367.jpg": [
+"7c9dcfe8c9254fb28a5f948074cd3201bae28cbfb240a857affd64cb64fa8731"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000107.jpg": [
+"4e8da77e616757d8fa8391ccc356013090a9415af4646ed00b40e63f37c0bfc5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000123.jpg": [
+"504c13151656b29d6953ec2dcae294714cc425aeadfb58fd176a6792dc0440d9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000361.jpg": [
+"6b2972f1d051985fcaa67b15a67c93404d44c368868cfd8e47caeaa7c528a2d6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000418.jpg": [
+"03c94ef3a6f0ca6442a6ef108583d36191981f6addb2ef9853ad6fbae8bd1563"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000029.jpg": [
+"bb24ddc080a44cb22c2a1a2ff214db2122a2d5c19602df422c084ae4ade0bd8e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000196.jpg": [
+"a985f78c0fa1b4c92710db35d1036b1548e52ec22941ebc4742d9209097ccc96"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000044.jpg": [
+"b1c8d4e1a35cf829d434fd6370296dede88e75510e7e428c01389b35a509a644"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000048.jpg": [
+"02775b5535bf85bce417f5b0027dfc4fe10158b06fbdf72d1f4953909d4f15b8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000093.jpg": [
+"992b639d7d51d9e7eb49249e1a828f6a3d32b34cedc4ffa1e4d308938db47f2a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000433.jpg": [
+"b3cc5655bc45b9977190395e054be0c8d2dbb13d58b1bc975dafd4eb4225974a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000373.jpg": [
+"c8f1a7951c6438f6ad715c1b22efda7fc7433b5ffe2a5552bcb2db2c0b9ab6ac"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000030.jpg": [
+"306be74f8f95e324e2ab65a16b2bf42318b92905def27ba0cd9baa3108f1e131"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000589.jpg": [
+"9b535f3fcd40f40ef973e24923380ac5423d40c5f3e77400c55333328450c44e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000488.jpg": [
+"a0d71a17b66a7282b7c28127cdeaeec94fd0ca39c29f2cc81f4d7f605a6de029"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000431.jpg": [
+"e838d4ffd148074b834c3482fa7ce75407e1d9ebd6b01411b0928b1d4fa16502"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000565.jpg": [
+"d3d84e5bf81b9d9347dbcfd46b4886402e871ab2f6f4c8208249110c0587c9b8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000415.jpg": [
+"6d1ac5e44eb4052f8922f605d4c5bdc3e313a4adb916f3625b71c92850c6a0e3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000298.jpg": [
+"9689e57cc50a02cf9dde6ee9dbd7c039782cc362c7354c1aff3cd54f0cbd43f5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000393.jpg": [
+"27c4a0090943c65c513bc6fabe22270e70d770a685bcbdd0ad77697fbba46107"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000388.jpg": [
+"2a7e9a93cbf067965e725c1173fddbee5027946fc743454bd3a55662744d608f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000222.jpg": [
+"c53a35ab27f3961ad3a4d62d1922aa1ed0fb212b41e74a3b2506b7febf59ca2c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\LeafRust 0000452.jpg": [
+"83e811bf2c63e71d0416a2f60c84aaec82b59e213b82c8e5450d323c5779be74"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000085.jpg": [
+"3c3788b044aa86983212cbc4189f4fab587b831f0ca3aa4ced78c2c028933084"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000414.jpg": [
+"8ff9de982d21625a4812306f4d0364490ef53c5e76293394ae2953ecf85f7742"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000323.jpg": [
+"20a6072dfac17f6fa82f09a089325f6d68380a48684de5cc7ca0e7ca2f271aae"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000404.jpg": [
+"f8ca94a9cf4aae12272f0c33b1e3190abcfb4a96749aa9138bc64508f88984fd"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000290.jpg": [
+"4fba8b982d47e905fc14fb9f0a88a85bb3e8748770be5122953e2d944d706b0c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000539.jpg": [
+"36b64c6830d1d325c7f61c8f12be41077c72f5875f213938c52cf672c3a64af6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000631.jpg": [
+"8a10e656f92b824d285b6e52b54b81c5f626f31b667f603fea4e007bdb7f0099"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000467.jpg": [
+"3a2fee2479a4bd36277083525efb0f47133addda4c5d312b2fcc9ea3cd3d96ce"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000114.jpg": [
+"89535c2ba71262c28d5af787a771414172dcd7dbbce62f2b26ea99f3e9de550d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000582.jpg": [
+"63dfcbca78c9e403be85687420970df6e50ea6be18c970b2551afd2a505590c3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000556.jpg": [
+"64b35108845acbc56f161834625e613d7adde7b72bf0894811d555811393578d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000465.jpg": [
+"a54b532d7fe5717e5725845349c182aeca9f7ee41c8c52bde5a9e5189dda6e44"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000461.jpg": [
+"1ee4ee22fa70057aa331e29e13b90a7d77d33c67b4de7bc44fd6b8265e3992d7"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000579.jpg": [
+"00780dbaa12d67d93cbae125c4208350088678bcad68c5c381bf4e5834d00c83"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000120.jpg": [
+"0f563b6072ae6f375755f3c215d1dc89de5dcd6640662e16510ddd6f3424cf7a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000614.jpg": [
+"dedba2f8acc46b9aeb6e1a10fbb215120e7d726fd75833e25d3778cb1ad1ed5c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000453.jpg": [
+"eaf0fc2d15d1cf420bb24314fb34248d64d7514fd2bf0618409ef8522f081351"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000555.jpg": [
+"6fe789e0cf6af2a76eb8665d9cd606b8a935090f5d4af241a6242761b6a321cf"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000013.jpg": [
+"1ac311591cd106cdc946cf7a311ff1c7ffe00bada8d910db566c499d359c1aee"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000295.jpg": [
+"c4ffdc1779b95d5edc1a205147d0c5742591ad7ee2a6553a571ca89c73fe5d8e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000204.jpg": [
+"f370bb596b85cdf408f5c42b48527fe789e272512c6bf352cc19d35f2b3eb0a4"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000535.jpg": [
+"f9f77330bfe6755eb5ad377e3ec7553e0b5b46822d786715658c336303852339"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000191.jpg": [
+"464f49f8463a3e339d853e600ad073b42d2a89e80cc540ebe6dc56316416423e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000142.jpg": [
+"283cc7ec5b4d9235a4135835e509d01fe6a822e4389e48a18a0f25c42699d954"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000509.jpg": [
+"3cc73e657e977667c4e2f80fb0347c6ecd3d11f538d76f61a3656b1052247e13"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000498.jpg": [
+"f6d63e2d432670ac6bd382b0903954e8262a7a49b31873af7608195beb1c97b9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000268.jpg": [
+"3ba619c5a6c8cda87d1c969ff60282aea7c8f743e5477f40ad2cfaeb2ffd9ef8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000428.jpg": [
+"7e8237cf9e8ef17c101a0e2c613693fc5bd456fc164f542366c973a4eed8352f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000548.jpg": [
+"dd27e18bb73fc54f8529b9fcc6cc3cb49210f96601af98fd1ea3e0a036200525"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\LeafRust 0000246.jpg": [
+"7b792d4b4716da4c16ed974b05b6bc441055f4b17a2768fbf1e2a8db3c5c51fd"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000507.jpg": [
+"cdf216fd7ea5f7c274d10eb3be732c8dabd1fae4d603e321028d4ab730f03329"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000138.jpg": [
+"db9e68b1c0a027d3aa96ab652f15b593ad803238f078fd2c8c2981eb7c0005d1"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000456.jpg": [
+"6f2b7fa92230845ee071030f2aa218cacb151435d1a7f65ffd376501f16e5709"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000611.jpg": [
+"927cae2b7bda51efcd554b909066f52bfe8d501a9cf7f137701985dfb6955c24"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000517.jpg": [
+"44d76c9710ea418dd7410e18f4e7b9f1873ae5ea3e2b7e8c51da299d3ea67fa1"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000080.jpg": [
+"2ad82150467c6e93ad505e2f49cbfe87b6ad45dd21ef29eff4fa394cbac19322"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000010.jpg": [
+"37a7767532b38b3c303e0e1f984c42076cf0520d9a33292c78118d80bc4f29fc"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000148.jpg": [
+"330cfcfaaac514f0e2e8278725ea7165904087c849237f601fdbfd4b9010d0cb"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000563.jpg": [
+"59de336a96cb711a41431b1d300b7d76d8d96695a5e1011b9b3e49e7feffc597"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000527.jpg": [
+"13d8f38792ed88f52763459d1f00dd6c651e54aa053a25765a4924b5e14f26c5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000483.jpg": [
+"58bcf88efe5d8f3ecc8044f68e0d8a810e038f2297d82e5805eb499807b87577"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000115.jpg": [
+"5d4ba8e7748ca91b7fdde1d9ed26730efa1f72a928ba8726d5cda1c1985c3c26"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000429.jpg": [
+"4c4f5fac1aac5fb89cf676e1de8ff945c78d127895ba82c3476033e65d8020d2"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000442.jpg": [
+"494b000ab9b01fa67fa4740d7ac4967505d8217b5a8aae8e8cbad5761979b665"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000133.jpg": [
+"0ce81b6d991502d07ca859626a82f13dcb9fef96508c400041856b11c9578e2e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000061.jpg": [
+"5a266dd2a8c801a4e4ee5ebc36da8ec6c035e52ecd24469cb02e4fb800a54a87"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000617.jpg": [
+"f0d7272e3ff3779ef700cba9f82666c174f9806d3c1a3110d19ea527ce42f4f5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000238.jpg": [
+"43803b16b08c9d7a222d8fbec3f94097ca81f3f4fe478004d35c3f643189db49"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000494.jpg": [
+"9a35881ba67880bfb67d3f88a10d0753a93b38f2f03c41791f55c159fd72579c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000061.jpg": [
+"e1b128051898264e7636358d3a535275caccb87920c0a18ebb9d7f0c037dba44"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000124.jpg": [
+"2791f7d1a974d56cdfcb21d23c02ae38e318497ddf23ade8a0c67ef0bc1d12d6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_304.jpg": [
+"16c237ba17a86750b97cedbe52175060e0e1785a845cf5776799400c3338682f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_316.jpg": [
+"fac5e25ff27d26420b698925085982d9c4ab651cc97eca8da5f7e9c97e6a925d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000028.jpg": [
+"e5c40d3a417b4c32fb47bb82eb686aabe25f1eb3f30aad94d06d017e50b64c4d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000071.jpg": [
+"18066fede0db5c9f2e4b9893372b76a1d5b056caa05a9b831cab5eb29382b166"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_391.jpg": [
+"a34fa4b1e88da3f4cc174461722146e294a746c72911d1bf1861445b945aacb9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_369.jpg": [
+"c40ad8dcb7bd6c5108cfb974f7b81a54415bcc3ba85766c34c8adfb9e6e6360c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000219.jpg": [
+"ef8a6b681d31c2ce4c4d7ba0ae7826b1d77d490e66af2f51b208fc45d4082238"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_335.jpg": [
+"6360109d6ec6f937ced2515a6c21ed4c34f6e92ce27051a74f02ef1b97ad90aa"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_343.jpg": [
+"2601f93f3c68613224b72cf03ad32ab16afbd0d7d7a6faf300bf1050b28dda90"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000003.jpg": [
+"67778487de8463bf883784baf3a5eaa8f1b0f7e0d0d8bb52e97550f05fdd9ff9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000282.jpg": [
+"cff4f63f130c67d57e6725d6752c268bf614f9cd13878bb6bcd83b4128e620f6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000047.jpg": [
+"714a81794d9057690041d187fb2f8952a26ae6cbea0e32714911e880e1c86573"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000008.jpg": [
+"0c6058aef89785e1377a27c203548104b1c454f4a2c076b3f533d624ec82273e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_326.jpg": [
+"ab5c9e500f6ae0b8eb5b20e42de36a78b84108e2acb314b60f36af73c769c38e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_373.jpg": [
+"f39153157f9774ba49988ee57a356a1e6fa7913452673e620a7e3d9529b3a2bc"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_390.jpg": [
+"27f28fb66249c694ea42fafa671d7babc7330262ef60244f69d3fde65563099f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery_336.jpg": [
+"2210172cfbd294cffb19399d17b4a7f4cfc63dc697ef9745bbb83c2784065f1c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_338.jpg": [
+"5070b80e293e18e07546f6444af85cdff2efa5c97b69b100926b0bd0f5977496"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000047.jpg": [
+"16ccadbcdeb4903a58e2beaec75bc7d9bd93619550f8c93ead694b31bc78a1b3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000078.jpg": [
+"4c5676c3d967ac18aba0beb6591d680ede0fa655ea963690605623e21aa8cf47"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000173.jpg": [
+"cdfecc9b73598de8e285e0f747a2a24127332a0f98bafc161c5f1edb004ff9c0"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery_360.jpg": [
+"4cc2ac26833cc19015a0253926dc9d6281a81a840049b5f33ec66f45d947b501"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_331.jpg": [
+"99eeaef6cbb4591520835e9117a91c3131b337ceb9141feddce0e8ac3ba087d1"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000052.jpg": [
+"caa2a72a05768fdca0b9d28778c49ad01f0fd6fc3044b6fbee874d5baaf7133b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_333.jpg": [
+"a2999135a5663362021ba4a5caa53e40c6b935e5ddac01781c7ea6913e5a500c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000242.jpg": [
+"826f077c0771f3d68372aae397742f8766d6acc63ffba30368ac2401da97d431"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery_396.jpg": [
+"de96e6e5c5ccf506400f2efefe2034d0b7678f7f9fdd56f27c4b0f8f84c13642"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_381.jpg": [
+"17347390cdd00b2fc527f18b9943cdcabefe909a48bbc0efd953c9c5b46f4902"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_387.jpg": [
+"15bc2747431ca238a494dce9f572b259c6c766bfbe2a4e41fcb7cd67d3cc020b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000053.jpg": [
+"dc87559c0c062440d69d5f3e149b681e918573a960eaec828e3fb251ac18a0c4"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000273.jpg": [
+"30b12169c8b35fc55d27e341fe29be06ddf6d8d649fab1a7abd5684e34a42dce"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_315.jpg": [
+"26fe9b66b311ed18cf4d585229ad4a5cf617bdaf3bdd4d37814427227f2dba6a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000286.jpg": [
+"13b99a9ce5b732e488adfe9a4d30c069026141fcfd6d9900b3b61355177d332b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_368.jpg": [
+"077f9c13f5bf2e85b7ceda1d4fcbc66ed44a1b6a2d7a22655c4fb0c887337f94"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000212.jpg": [
+"5e42de1fac5a060fb04574a793c52ac1657f1cd02ee3df3a584413ebbdee9df8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000005.jpg": [
+"5b4a80ff60cdc248e0c49030c40272ea01f98bfd9f7e3c5badeb1ea4c095fab9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000069.jpg": [
+"7687f2bc1ca39e8444d64a815e36486237bdfdd4515c0b590c4ac76f8db6d9c5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_324.jpg": [
+"c33d1eedfb92255ba2e716a593f8818285941121c78536f2e749b88cfdd3d253"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000271.jpg": [
+"a2a118161297e63a64805c26e4c6a93963a00d73a074e47f8731f94c35c4e465"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_303.jpg": [
+"a586c249ee7dce5f15b0943eabe1e8e50bafd762e40bffef034e52368c5ddacd"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_389.jpg": [
+"5930f3dbbe1dff2ccd6549ff1333aba0a9ff3821a0ff332904fd0c9976e0042f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000073.jpg": [
+"e4bab6fcfd43348f8f5d1dc773d230941e7be7166bd4ba5da2b470685dfda386"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000210.jpg": [
+"6b1675511c5ae4e3b43630b44e4a8ce047bdb218d2409a636d8b8c057cbf588a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000278.jpg": [
+"e30204d3964f75ddf8eaa6cd60608f6c5074b01635c1b9627f141a836a3a612f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000145.jpg": [
+"b0830867eb17796d95a9a3fad649a8a902a03b486fb18304e7cdfb2a2bf06ca8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_330.jpg": [
+"f69084634785e636cdd012af5f439f69a612d52971933297d6c2a21225783375"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000272.jpg": [
+"c80095061a13537fffb1308f1d92443c9f3bd3b6956d4e6aad4b5b3428ee80cf"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_321.jpg": [
+"9c730f7f3626ea0adc7a47bb99315deef756cda09c8faf8302f70466ed26416b"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000287.jpg": [
+"5a3946fd0e4ce6f3a18f4ae178da1470ea87c2789ab4d84fa4d0c9cb547354cc"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_388.jpg": [
+"016bc839401ba685acadbaadc520fbaa27fbb85b0da67ca397e2427178d16fbd"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000142.jpg": [
+"88003ca64dbe3065e49eff4dae5327291a204c7361a681957377962e989327c9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_377.jpg": [
+"859a0aa23cd349a63e7acd7f788cf3546a44857188a036501fff86928f27ddf9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_305.jpg": [
+"cf0d41a1cb72d711866e4e2aac8a1c662c261e01eb1abc69d84d0cbead13787d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_313.jpg": [
+"dadff72c5232341bab414fe964029726c0fcbf5e27c83492f5746e57d10d663c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000010.jpg": [
+"c5add626efa511a6b1543a10df35c2da34d770bc1bf13fd599805fd21d9a0249"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_393.jpg": [
+"5b58d8b915787699b213e35e56185f83dd11105ed4d0d322d83b332cc1ef3793"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000277.jpg": [
+"ac191e13fa073b94351bbb559740770a5c4a8777a926569494cbfa76cf82ca2a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_312.jpg": [
+"249a0dab0c9fb1933ac9c8ccde4a05dcede2cb3042eb347d198a635ead7e1f9c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000242.jpg": [
+"4d44bddefffec7b46bed3d05a879ea83906441c8a94fcb89b613eea7a02ffa04"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000232.jpg": [
+"88c1a0c54d4ba907bb1da1a9aeec73d22584f691110889cdc42a29c835cd6087"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000041.jpg": [
+"5fb3bf9bf13e6acfbba83971740935f28f9caa105f52e63e08e034f7af2cbbb2",
+"a5f01ebf1eaa215a97dba7bb0e9b4dc87f8b8a9486d40530da1a02ec5daf3e5f",
+"b085181a7210078d5ea60336983f0ae591c6d1e3937e8d6700c5d3e3e592bdf3",
+"c9c8de6f39cbfc5fa16ee3280c760867a18cc4fd9a2b58d3345d687880846374",
+"83a2a2e4878203a8d9bb22f015bdb98c6aa5c10dcc7b393e1ffb2f4fc230308d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000118.jpg": [
+"30f9a89617c28e60e7c8c96836b53dc4e73b8b75b9ccd3db46c231b1f24d9920",
+"711d307e1c32cc134b7c5829989b8548525c60c01068b3232c0d9f0ad5fa8e49",
+"7087680f96585c5a6f433d9bf2d615e3246b4bc06b70d93b5e0c28771ce82249",
+"9e12bd0805007c30c889938c15e646b14edc1da96b4f494eed3fa0a0fbda50b5",
+"fdbf930404c16df23328d70587608850412e809c0113e30f13033daabdefc128"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000254.jpg": [
+"9acfe375558764946bd96794557f2208885ec9f57268b509e408c253aeee72f6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000180.jpg": [
+"cf04d3438106b5ad47cb922d1b80561e092d034d8191bc5a18ad0cecfbce532d",
+"17882ec389fb0b5f0ba7047f44b3f9d975b5d258e3ddf5e5fb3972f5def48ade",
+"18131047d5b38eafefecc09aa9d0b6d9be812d375eda966986e7945be5231b66",
+"d95fcc507aa1d53ad5c92cabfae1ee0c348ef46f0e8dd0086d87da3952d40d83",
+"c48adb8676a7f63329cfb900e94f46720b4b7e815e6862504f23c483f94e8241"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000190.jpg": [
+"11e18bce580f403efd7c865ddf594517e2f6590e0bd9914de8b8c34b89f15177",
+"09e90fa75edd4ba5043933da9c53ea3547fb5cce171ce0337ff1aff6a7b8607e",
+"0aee724e688de3a05aebb6fde4fc6bf9515a1a4d6e3eee25e264417d185445cd",
+"df634e187e7e6527cb4f03218ffa3b86fb5dc6392ccba6be1a3ad98e35fa2cdf",
+"657785b5708c24e8a82d8e3d69c1b0f7caf1432034ebbea64c3ad88be641878d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000170.jpg": [
+"77cf02c4090ca8c630d5bef1b28a2bc1f24a33f109d8deae39b84111fe5cce91",
+"f1f23af45f8099828b3758056119d5faf9e53dfe00f5c64b875c57793415a9db",
+"2aa549ff3c964f155949ee0f36efe5f405095120c68eeab3947411b3df88b473",
+"06308a021cb1176e11264c615f360c63a6a9d6eb64df9682d59d76ee02188839",
+"4e8d95561ffc0371f0a36faec210be37f9751949f7c8cf65a69afe5e60894de5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000014.jpg": [
+"36800a041d14529a42e9ba8f616955302574a16861461ede232e0e239be7b986",
+"ed0f8eac32f68f8ede9a632edee2df96fbd13ae8d7c6ecf929e28cc9b36702e4",
+"8443a3bf62c44c861d6ffb8515986aa62879b53b77cd31d48fec3aedb5f67818",
+"46ebd5fdafc384d7784987859b91958fb229940bca5c0dd62eabdc63a823a76a",
+"50a791a8f8a562a6efc6b1132c5a0c1d522f70e8ff18eac8a24dfacd0bd1b038"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000410.jpg": [
+"a0b4f475696a29bdf36a3a8272c8eaa822c0f4b29e10b326031e263aa530c26a"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000262.jpg": [
+"053167e9b40e46b56a19383bc9e71b6b0b0a3086c96b00813977d4c66c823869"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000324.jpg": [
+"7bc9f7616a2b2836e58aed2cee8482021847653c0e1d11a2cab71fe996809879"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000119.jpg": [
+"3faa6dcb54c167e15d45458a0cd2537733f917f8b1b1268bc2d8b81a1ca7eb1a",
+"ae0e92acf32d427d19b424f659d2a8183e03d7ba7852dd83b238915f6b4d6167",
+"f5d98dfa99b5ce9c4d1d79083365d1a4a42204c53ea4d379ea4c1d910d56b13f",
+"fe8f8f6be6834b3b3440b3b0213aaf3ba8f2d1f3eb83089df0905486beade833",
+"eecd38ae4790d172bc10aef924c5951889dde22f8186c99c13a5e5f4cc8907fa"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000378.jpg": [
+"3a278a83adc1483e15767d433fee747ec1d2a64424c749619cb7f4a811c6ab92"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000174.jpg": [
+"7dcf84b19b7a19b657b07f22ca085eb8f070c9e7355023b7aa822ba9838066e3",
+"6a61a27e00f7bc3924ef3ed90cfad18153dba88c5ecb207b94a7ed0e7b68ef2f",
+"f6f7508a45d60144c60b31014eb7f39e0edddbd8827323653bdff11272b84eee",
+"837e704a978a024c75280b37eb8ba2c98e1c7ca6035677402b4d5cb7bc467534",
+"5b5310490510a751c9adc667c646310226920de22c0204e377dd59e0a426cd16"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000354.jpg": [
+"a9e9d6062831d88f73b86ba5916bb1df76af48bffa73b28760ee8dea10f76c06"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000164.jpg": [
+"95eddd0b05453d5fba44871a11b7c67c37ba2b7966e17a7b9702fdce9e2998ab",
+"4624bd12b99bd648a58b3d6ff655569a43684c95dc80381230e1e8e99640bd1b",
+"572fa872640e1d353468f6c3703d9380a3ff078f82136637fee6fa6533c04073",
+"9f6fbe6e680058d4e0d3e663cea4896926ffafdd0f8ee776a16aa33071c46e11",
+"0d6cfbb3028b5ad96ba7d03e94de6f2bbdf978ed19f58d5e12bca24fbea23294"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000333.jpg": [
+"d7593c5e3d2ee255e6f8646ee9cf8caac16161a3b9eed53edad1a61d358681f0"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000092.jpg": [
+"fc2c2a25727a72d4bc4c430c62d4a7e4519675cfca27ec1c62e99ad634bf203e",
+"dc0d9e8a3efa4c5ca13ee76dc10e98e6d3258dbccaf364178779d1ddc142fd3d",
+"571afda84beb8c0e70a79a2d4931b26bc7501721883a358e28944d931cc682a5",
+"24b63d30acd09e912b4d614d2dc7120ffa0504965c2cd93ce7d5d1c6da3ec794",
+"d6f7e4ad52103f72612c7c5b5deb2d252eef79b801397cfeb2bbec0161022084"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000406.jpg": [
+"f525c1aadfd96d651daee0d01076804d16cd8ad34f8e1bc57dc3dd1bbb6ec81c"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000519.jpg": [
+"8c626511aaf1c6f06ee4eec243f8ce670ea2533650ace2040dad0cc92b39d063"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000207.jpg": [
+"4a4e7d4dec0d011f45c957bc86e3a4f22e243d698a9b31b8a8d2f8d775783ba1"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000384.jpg": [
+"df23f1c2f77ddbd4e79242e7186d6d87802ffdcde4ce9ef1477e34d6cad1ed86"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000069.jpg": [
+"26978ada3fd806423e4bdbf8dc5b3f02f01b9f493a696cc05b2db2afeedd1323",
+"a93d23fe98947e1ec51e9dafc6e815dc4dc45e667648f9d5597feb160c2ab483",
+"cea31bf317c3a1289b5d437421f69f2c35cd9c26b58bb88aa0ac696d072fe168",
+"6ab1b38649912226c5bab7a8d3057c921b12a57038da3cd776c46a670e9546e9",
+"92101c840f7c8f9aa2a6ddda79b3ed0c73e83d8642537df8f68b218ff2bd1dc3"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000372.jpg": [
+"e2f559f18c949b6c445d57a8cb3b3f073668dd44fc57fc71b1ef2d4e68dd13eb"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000188.jpg": [
+"005574d9ff486b1ee74b9e36b46d2009eb3cbadb6a56cf06284ea6cda8acb5fc",
+"21edacedd7abf3a49d1624d19c1f59d8d456187489d3ee2324921b0a8a596bd7",
+"1433d65297636e29014b409bb39263072f446116623f63cba9c73e3ec23447d4",
+"2bc5890461ee85327c450ec098f497b837fb6b65c5b6b7191e5edb06c1a42f74",
+"cae3a51e6970c186d7e5aaf1e09609465379dc6271754e63c6f2803d457b5532"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000165.jpg": [
+"896221f1bd45cac5e73f4bf9f6707c5571682368311a515bcfd8360a468495a3",
+"d6549478fd71ad28057e4259381a7d908726a7f02ab6857f3d84d2b27ab052ff",
+"5476d714eb6881c7332c3c13efecead3d6a4585cfb2a34083b851ecc1fad7464",
+"56a569f22cfdf7e746fa41b0502c6265759c52a08f1731c560b882c39cc50f4c",
+"8573bca688c5b7e6763d3fe283af068e295194244eba16bd0c86c3832967df41"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000331.jpg": [
+"2025b71a697f244ef9138d5fa47f4897e8dec4383f2078f8c1a9e7fab233c6df"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000211.jpg": [
+"faf768ec607f3152a5ad193e2ca920b68433cd73aa55ddf3daecec76c8e067f9"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000070.jpg": [
+"38827f9f03cbdda349d4edba9ae15f02e802cb3e778f1dc59bf12eb67c61bced",
+"25abb476e860acde6015da8ac499cb2fedea44fa2d4e16bc111de5b18b297170",
+"49d82043416994df803640b70ed3fe3677bce9f98ac8d1a398ebb7dd6319a80e",
+"408ff733b9365f24d4ced9df25ed98741f0fdf758017ff2276065eab49e0487e",
+"d376a29471c9bd4e829e5ed7c72ec616e723082e673260430e2accebcc8abbcc"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000225.jpg": [
+"d7dd6bb331b848e775dd913f1e440495af9f3fb6cff450f22a7d2b052c2cd8d8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000067.jpg": [
+"5fe5f7c2e585e29c3dcdc2d6f3a1ac3901eeea5b44574e1dfecbb00a5fbaa511",
+"cdabe3fa14757fc2c3664a947780295d73ae301dc55ca9ed819b46ead806a2ff",
+"5f271a6c42f49373d8f6776aa46d7ca6968e1a9f55d05639d235b8b60a1634aa",
+"e6fbe3377967b7c3ed218a49abfebd0a2fb35be2ed0df91ded3ebb670cf7e5b2",
+"365a75b92c7c6b3bd7ff4e21e34910478e325a62b946146643ba4c7d96e655f5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000154.jpg": [
+"6c56a647c13cb8ba5037617205fbd7a88ac16ab2ac854baddef7b048cf11a911",
+"180ba66afaff47eb74b311f1ed66b65e7d83283d137bb68ff400821b05c983ab",
+"0478bf0d52d4fc5e30fd2465fcfb20f71a5a5022933869971551467db920d494",
+"af571fb1020687d3e26f5280b251109883d0933c527f781c560f5483ba3efdad",
+"c9d9c225383086e459e1e09f10c0a2795d88eb0a99e2fff8d27ad02821c344dc"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000054.jpg": [
+"e6660decaa04a4f1ff4d4c067c6189bb7e26b3e6c1c0f3f969143c07158569fa",
+"91409c9805adc5c1078b64a1622632fb6efefc6e62298009abb985fe08f632b3",
+"c0a1d10a8c6d33df2b6f1b20f1fc2addd4f6a7becb6df215ff5b352a852af2cd",
+"ba6c2bac8eafc60f39d270c4537278fd139db83798d22711f8c74a34c602c6b2",
+"60024abb14e7f46c29a4d1473811d01856596bea038517c5977fe3db43bbae41"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000200.jpg": [
+"af8beff6a4cb14c04a4550713566030fbbbf9b183b91e02524f9ce22db09c5ad"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000265.jpg": [
+"a903191fc77f3a3d1e44572869863848a72c20113f5d74661d6d73e971c6752e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000413.jpg": [
+"851730d13e4f6503fe8c90461cd9c972f85821b7bf082b9089a0671ec61a67e0"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000283.jpg": [
+"5ca4e41cbe0be3fd359b16965bc22851b8ab26d3a7157eb290a5cd7e0a03d77e"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000423.jpg": [
+"9d83ee5a41f52f20c19b44cde7f9a1a2ee9e1d01308d9df56432e36d448aae02"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000355.jpg": [
+"e242019981e592e113bdafb1692b9fbf41809dab95f7578a94f9610b91d71bb6"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000123.jpg": [
+"24a408f42ab3f8e3968d13f3ff418b9fa08a2d758eb22e683aad98e67ca3af71",
+"59f7913203349c2402c3fa961cc7bfd777d43594f52b77eab088f31162b15e45",
+"386300899149b63c5138e95f2453180b4f7b015e1f6e0d10fac17cc0d5688391",
+"6559aa842243b6596a3b423abdb93fcc61e5799bd7f3e65a31b9e0cb0473e364",
+"78cff1001d5a6be9e43a21e3ea8584225eda80d7f454a53faaed218de780baa8"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000003.jpg": [
+"50119eb0cac3435e5fe7e899de77b44f67b0fe63caff6a6a17fcb25ea2ec048d",
+"c35cddf1aec73dbbd30a413a7c8c4935aa24e0a2b772de795f1ffb2052cd836b",
+"6455acda4bfdc7edcac3c9dabd1e9a9da7218935e9ef67fbbb942c3c2c735fc3",
+"cd6f5b8c1eb56a3ea68242c6cb5236469f278af8831cbfd48cfaecae41ffe13b",
+"4cd64975bf939cdf3303fd66d033c6cf929d742690ae3702f9a18de42fdd334f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000307.jpg": [
+"16fdd1006a08de27ddc218f44417bf8bf70d3826f8e41b673d5b975aa2a9f646"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000395.jpg": [
+"aaebe9add0b952c5a5837fe73875a61da16a4ddcf9b31e61bc69664b125e41ac"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000140.jpg": [
+"e4ed13920192db9be6fe4f07332d69d5aa359efc9f674500e2ca363480df9c88",
+"13119715452bbc348feba0e6abf4fceb6a15e15605d63f56ecaf131d2178df3b",
+"e235324b75e06410c2fcba593c2e9fd936080bee347ed03d8f9b814f8bf7bec7",
+"197e78508ddadf93c96b9b49b03bad13a40f3be9d89775b51d6b69c3d6790c94",
+"b2be6c90ceaeaf089063dae2b0db4ae7f5016c06ac74c3ce2cb370c8e35d2e46"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000185.jpg": [
+"02cf80d05de6296e004b47ea08bdc3a9f9c8c264a0990f0133f781397caecaff",
+"a4d023d5bd6f3fd356e22735cf05199ef444644f1008746cb0647e63540446b2",
+"d67c5c0be00193c8a98e9ff3a97a4bbd77de8914746a6328976b8eedbf5ca755",
+"31f72cd3b240e41906353f5168a667d81ae726d9a3e65482fed52374d8b9ca70",
+"16281e29870610dcc08b241bd4a09cbfb32ddb65029b480ecbb8f1716b72d768"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000269.jpg": [
+"8f4ee56c2abf7da9b69fa83a9ea76755ad73be5c58f612f044fa247fc37baed0"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000113.jpg": [
+"6b3d2d30b48b66a731125ae175827a87c9a66a72663808d8380b1f3e9ff37af5",
+"710edd6e0067988cc800b9ab1e45f58d142de98e593e89a2abe4f592d9440d4b",
+"31253d73669e281b0de1dad4cdff8461dc7eb06bb82497d258a7cc3090eb02eb",
+"d8dd259ba9dc192f5699bbd57eb0bafc143393a98493bdd90f872b6237966802",
+"3ca91f2ccf868beb77da6cd5b355918cc04930d9e1421ee91b398ac3d109e735"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000226.jpg": [
+"be3fd05233176f49d5937e848d9c9326d36fc364fabd96db0ee143707dd5b03f"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000335.jpg": [
+"c08f9703391dbe762859231ce5361f86e37f2d3bf2bdca4f03826494174a5250"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000059.jpg": [
+"cbf3800676f5b39a77c988018e4de0680d32c5edc3b2d500bbb6b0f2d33122ca",
+"9e2b6c9531ffc1063fb0b92fe8ee24ac55a92c892745bd3a78ab3a57f14df6c7",
+"35e67d0013243fa6ec4f3c629c03ff318d3aa691ebcdb9d1fda7918a1635abc9",
+"22a8405a09f5cca3fd93fb16fc28f904acf3d6b95c8c632914aa99610036aeba",
+"3d1da8690bc2dc0cff4d31b6e93ade12f8d8cf30f04ff0851ab84150cc937a9d"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000430.jpg": [
+"c54c400c6d8e1be718ac659db9879a334e9f818515b5e88e40832d76e089d141"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000403.jpg": [
+"467297f7e8ca455aee31b8f423b9eef2c0de63fec3a4c6a9f605bf9573cbaeb7"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000039.jpg": [
+"d6f13e48f4a04c864df56b1c5d231c52ad63ae5c5abfeefa0429f07884416088",
+"597984c3d3c9cf7a9f2c314c29da08018a5a5cc518adc02d30b49b845ea4af00",
+"b1c2c7f8cca5406a757a7c7eb8ab25103ba1dfd3f63b2e0f35608079bc34c2e3",
+"3a4e8bf7bed88584e61ddc10afd544f77fbb94a94be54d191e0b292f5085d3b9",
+"38f1a5f7f1e1267572c16b825d85457556604b8cca1cf5c5991bcc4894d46477"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000235.jpg": [
+"34cd98124f8bf694b794fb07dad451201d1b44a160615a59f35164eb2ef5c914"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000285.jpg": [
+"b9477ad368d01078daf4cc620b2db9dc7a5f1ba7fa95dc7207ceaa585aec1eb5"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000270.jpg": [
+"9a39e512e9886c5fbc1224c9542ea958d946d2da8bcf978260d48fd90563d4a4"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000077.jpg": [
+"c84581f861038ccc0c66c4cac09e9a8c05909a2e24102e47f79d9d7fdc9ea1de",
+"0bc513f74951bfe7cedbd6161eed29fc1ab1f881ae25aa1e4c834269678f9b51",
+"8bf749b0dfd2aa660f70ee96f90cc0b2f3c5030952eda8c1db20a60c0f11ae1d",
+"e5b5f90a8596dea6d489964804d627d098bcd8a15669a16f21dc7440243d20ef",
+"7e9a750ad652af185240b905db1294dc1e0f61e9c6ba9ddb9163a0f571a3af44"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000388.jpg": [
+"a8543504404df30d2119a91d6ca207378fde097475ca509593dbfbdd112a7595"
+],
+"<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000028.jpg": [
+"590b809e090f197e8cb6d4ac2f2e50e005fe62a2290d9ac606b359ee86f0fb5f",
+"9278911bf98a24e173aa74ca159b9d834d2ee0b1a12a3d294d075006b98aa513",
+"85d7e8646e3217f46e318538712169ebb19015c85896e2ce81e0a504a43b1f10",
+"9c5b900a92a416cfc909e283ad7f795a15f15bc77f2da661fdd3df2f4a37aa6a",
+"92b875e093b94c3c134e7bb886d0223c6c80272a94da5b07293dd41df608bb38"
+]
+}

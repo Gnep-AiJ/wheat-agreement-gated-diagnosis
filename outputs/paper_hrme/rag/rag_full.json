@@ -1,0 +1,3623 @@
+{
+"1994": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+]
+},
+"505": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"210": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"506": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"977": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"975": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+]
+},
+"1936": {
+"status": "ok",
+"primary": "healthy",
+"conf": 93,
+"diag": [
+"healthy"
+]
+},
+"1491": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"330": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"220": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"865": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"1362": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"288": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"287": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"1741": {
+"status": "ok",
+"primary": "healthy",
+"conf": 80,
+"diag": [
+"healthy"
+]
+},
+"246": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"1685": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"2396": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"265": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"1899": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"1618": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"566": {
+"status": "ok",
+"primary": "septoria",
+"conf": 83,
+"diag": [
+"septoria"
+]
+},
+"806": {
+"status": "ok",
+"primary": "healthy",
+"conf": 96,
+"diag": [
+"healthy"
+]
+},
+"1765": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"1136": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"2267": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"370": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 92,
+"diag": [
+"uncertain"
+]
+},
+"1001": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"1894": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+]
+},
+"365": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"311": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"1048": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 40,
+"diag": [
+"uncertain"
+]
+},
+"211": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"1195": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew"
+]
+},
+"1021": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"1772": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"78": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"2066": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+]
+},
+"1776": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"1592": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"592": {
+"status": "ok",
+"primary": "healthy",
+"conf": 92,
+"diag": [
+"healthy"
+]
+},
+"2057": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"1036": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 82,
+"diag": [
+"yellow_rust"
+]
+},
+"930": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"1697": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"709": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"2240": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"1672": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"2124": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 30,
+"diag": [
+"uncertain"
+]
+},
+"56": {
+"status": "ok",
+"primary": "septoria",
+"conf": 82,
+"diag": [
+"septoria"
+]
+},
+"1565": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"1104": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"39": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"1134": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew"
+]
+},
+"1822": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"2094": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"1455": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"1174": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"690": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"2249": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"143": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"166": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"314": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"935": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"1459": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"1784": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 83,
+"diag": [
+"yellow_rust"
+]
+},
+"2016": {
+"status": "ok",
+"primary": "healthy",
+"conf": 91,
+"diag": [
+"healthy"
+]
+},
+"293": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 83,
+"diag": [
+"powdery_mildew"
+]
+},
+"2349": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew"
+]
+},
+"2129": {
+"status": "ok",
+"primary": "healthy",
+"conf": 82,
+"diag": [
+"healthy"
+]
+},
+"743": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"1067": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"257": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"239": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"500": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"2031": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"1866": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew"
+]
+},
+"1138": {
+"status": "ok",
+"primary": "healthy",
+"conf": 84,
+"diag": [
+"healthy"
+]
+},
+"2402": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"450": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+]
+},
+"1089": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"998": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"1862": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"771": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust",
+"septoria"
+]
+},
+"2251": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"1465": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+]
+},
+"1423": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 80,
+"diag": [
+"yellow_rust"
+]
+},
+"712": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"1304": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"956": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"647": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria"
+]
+},
+"1704": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"1367": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"2323": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+]
+},
+"1087": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"349": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"2068": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"1875": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"1847": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"2235": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"203": {
+"status": "ok",
+"primary": "septoria",
+"conf": 85,
+"diag": [
+"septoria"
+]
+},
+"2339": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"360": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"782": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"716": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"1176": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"334": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 81,
+"diag": [
+"leaf_rust"
+]
+},
+"983": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 99,
+"diag": [
+"leaf_rust"
+]
+},
+"2201": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"996": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"971": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 82,
+"diag": [
+"uncertain"
+]
+},
+"1404": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 73,
+"diag": [
+"yellow_rust"
+]
+},
+"18": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2096": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"2155": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"2107": {
+"status": "ok",
+"primary": "healthy",
+"conf": 82,
+"diag": [
+"healthy"
+]
+},
+"567": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"1254": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"123": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"490": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"313": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"1363": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"1211": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"1248": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"1715": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"1332": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"2385": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"461": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew"
+]
+},
+"1160": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"2386": {
+"status": "ok",
+"primary": "healthy",
+"conf": 94,
+"diag": [
+"healthy"
+]
+},
+"645": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust",
+"leaf_rust"
+]
+},
+"2341": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"541": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew"
+]
+},
+"1365": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 79,
+"diag": [
+"leaf_rust"
+]
+},
+"850": {
+"status": "ok",
+"primary": "healthy",
+"conf": 93,
+"diag": [
+"healthy"
+]
+},
+"1590": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"686": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 92,
+"diag": [
+"uncertain"
+]
+},
+"1057": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 80,
+"diag": [
+"uncertain"
+]
+},
+"1861": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"1368": {
+"status": "ok",
+"primary": "healthy",
+"conf": 86,
+"diag": [
+"healthy"
+]
+},
+"2180": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 97,
+"diag": [
+"uncertain"
+]
+},
+"1799": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"1372": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"2303": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+]
+},
+"940": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"216": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust"
+]
+},
+"1189": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"2179": {
+"status": "ok",
+"primary": "healthy",
+"conf": 80,
+"diag": [
+"healthy"
+]
+},
+"432": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 99,
+"diag": [
+"yellow_rust"
+]
+},
+"1940": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"894": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"900": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2239": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"2295": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"2296": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"2362": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"2161": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"2162": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"1643": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"1895": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 85,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"699": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"1093": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"950": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"1523": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew"
+]
+},
+"1073": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"1568": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"1186": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"642": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"1591": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"909": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"392": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 92,
+"diag": [
+"leaf_rust"
+]
+},
+"1844": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"2141": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"508": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 78,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"509": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 83,
+"diag": [
+"powdery_mildew"
+]
+},
+"71": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"92": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"1373": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"419": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"2194": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 84,
+"diag": [
+"leaf_rust"
+]
+},
+"1032": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 90,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"2079": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria"
+]
+},
+"1088": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"1279": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"2232": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"891": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"1854": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"2005": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 82,
+"diag": [
+"powdery_mildew"
+]
+},
+"867": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"2307": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"2312": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"2313": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"2247": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"849": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"25": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 88,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"872": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 91,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"1011": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"115": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"2214": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"1958": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+]
+},
+"1043": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"1348": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"1991": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"137": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"1017": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 85,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"1731": {
+"status": "ok",
+"primary": "healthy",
+"conf": 83,
+"diag": [
+"healthy"
+]
+},
+"1352": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"2029": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2207": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"1346": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"1556": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"1941": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"861": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 77,
+"diag": [
+"uncertain"
+]
+},
+"802": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"1920": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"2225": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"119": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"2384": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"473": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"1859": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"1819": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 95,
+"diag": [
+"uncertain"
+]
+},
+"1728": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"1753": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"2238": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"1462": {
+"status": "ok",
+"primary": "septoria",
+"conf": 95,
+"diag": [
+"septoria"
+]
+},
+"1159": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"1427": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"1126": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"2195": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"2182": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 80,
+"diag": [
+"yellow_rust"
+]
+},
+"305": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"1212": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"2190": {
+"status": "ok",
+"primary": "septoria",
+"conf": 86,
+"diag": [
+"septoria"
+]
+},
+"2213": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"1371": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"251": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"2160": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"843": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+]
+},
+"968": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"2186": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"256": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"2280": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"2302": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"1408": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 86,
+"diag": [
+"yellow_rust"
+]
+},
+"2383": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"1793": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 76,
+"diag": [
+"leaf_rust"
+]
+},
+"551": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"2025": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"1149": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 92,
+"diag": [
+"yellow_rust"
+]
+},
+"2372": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"1498": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"1499": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust",
+"powdery_mildew"
+]
+},
+"259": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"993": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"2206": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"1402": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"2013": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2052": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2101": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"2009": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"1405": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 97,
+"diag": [
+"yellow_rust"
+]
+},
+"371": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 95,
+"diag": [
+"powdery_mildew"
+]
+},
+"1660": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"1786": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"991": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"1563": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 93,
+"diag": [
+"yellow_rust"
+]
+},
+"1272": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+]
+},
+"2309": {
+"status": "ok",
+"primary": "septoria",
+"conf": 87,
+"diag": [
+"septoria"
+]
+},
+"116": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"117": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"1054": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 72,
+"diag": [
+"leaf_rust"
+]
+},
+"1264": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 90,
+"diag": [
+"yellow_rust"
+]
+},
+"2168": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2169": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 94,
+"diag": [
+"yellow_rust"
+]
+},
+"2199": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"1733": {
+"status": "ok",
+"primary": "healthy",
+"conf": 86,
+"diag": [
+"healthy"
+]
+},
+"1606": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew"
+]
+},
+"202": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 94,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"1926": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"1501": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 95,
+"diag": [
+"yellow_rust"
+]
+},
+"2367": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"981": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"358": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 88,
+"diag": [
+"yellow_rust"
+]
+},
+"1644": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 84,
+"diag": [
+"leaf_rust"
+]
+},
+"1473": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"1732": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 87,
+"diag": [
+"yellow_rust"
+]
+},
+"1806": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 89,
+"diag": [
+"yellow_rust"
+]
+},
+"2269": {
+"status": "ok",
+"primary": "septoria",
+"conf": 89,
+"diag": [
+"septoria"
+]
+},
+"2301": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"1953": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 98,
+"diag": [
+"yellow_rust"
+]
+},
+"152": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 91,
+"diag": [
+"yellow_rust"
+]
+},
+"737": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 75,
+"diag": [
+"uncertain"
+]
+},
+"1612": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"368": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"1678": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 91,
+"diag": [
+"leaf_rust"
+]
+},
+"1966": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 96,
+"diag": [
+"yellow_rust"
+]
+},
+"247": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"373": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"846": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 82,
+"diag": [
+"yellow_rust"
+]
+},
+"1647": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+]
+},
+"1503": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"1671": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"1923": {
+"status": "ok",
+"primary": "healthy",
+"conf": 93,
+"diag": [
+"healthy"
+]
+},
+"11": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"2130": {
+"status": "ok",
+"primary": "healthy",
+"conf": 93,
+"diag": [
+"healthy"
+]
+},
+"2208": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"830": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 92,
+"diag": [
+"powdery_mildew"
+]
+},
+"274": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"1834": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"1807": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"521": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"1650": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"199": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 96,
+"diag": [
+"powdery_mildew"
+]
+},
+"1051": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 77,
+"diag": [
+"leaf_rust"
+]
+},
+"1937": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 93,
+"diag": [
+"uncertain"
+]
+},
+"1702": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust",
+"powdery_mildew"
+]
+},
+"1788": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 82,
+"diag": [
+"yellow_rust",
+"powdery_mildew"
+]
+},
+"923": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"87": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"855": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"1811": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 92,
+"diag": [
+"uncertain"
+]
+},
+"1745": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"2395": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"387": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 89,
+"diag": [
+"powdery_mildew"
+]
+},
+"1809": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"760": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"2133": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"333": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"1985": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"2171": {
+"status": "ok",
+"primary": "healthy",
+"conf": 85,
+"diag": [
+"healthy"
+]
+},
+"1202": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"1651": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"1870": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"1267": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"139": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"1863": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+]
+},
+"882": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"136": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 98,
+"diag": [
+"leaf_rust"
+]
+},
+"1028": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"1435": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"721": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"1084": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"42": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"902": {
+"status": "ok",
+"primary": "healthy",
+"conf": 87,
+"diag": [
+"healthy"
+]
+},
+"381": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"410": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 87,
+"diag": [
+"powdery_mildew",
+"leaf_rust"
+]
+},
+"1133": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 86,
+"diag": [
+"powdery_mildew"
+]
+},
+"1258": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 85,
+"diag": [
+"uncertain"
+]
+},
+"1431": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 87,
+"diag": [
+"leaf_rust"
+]
+},
+"1432": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 86,
+"diag": [
+"leaf_rust"
+]
+},
+"2328": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"613": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"800": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"159": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"953": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"2027": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 89,
+"diag": [
+"stem_rust"
+]
+},
+"84": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+]
+},
+"2321": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"781": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 94,
+"diag": [
+"uncertain"
+]
+},
+"1164": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"2043": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"1572": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"2039": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 77,
+"diag": [
+"stem_rust"
+]
+},
+"1545": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"1110": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"1624": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"1538": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"1541": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"1570": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"2000": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"2198": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"2108": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 93,
+"diag": [
+"uncertain"
+]
+},
+"2228": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"254": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"980": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 93,
+"diag": [
+"leaf_rust"
+]
+},
+"1604": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 92,
+"diag": [
+"stem_rust"
+]
+},
+"236": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"237": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"238": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"1311": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"908": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"603": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+]
+},
+"593": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"1734": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 90,
+"diag": [
+"uncertain"
+]
+},
+"1228": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"1015": {
+"status": "ok",
+"primary": "septoria",
+"conf": 90,
+"diag": [
+"septoria"
+]
+},
+"2143": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"2216": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"945": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 88,
+"diag": [
+"uncertain"
+]
+},
+"1052": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"180": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 83,
+"diag": [
+"uncertain"
+]
+},
+"178": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 95,
+"diag": [
+"leaf_rust"
+]
+},
+"194": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 98,
+"diag": [
+"stem_rust"
+]
+},
+"1902": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 40,
+"diag": [
+"uncertain"
+]
+},
+"1914": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"401": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"2093": {
+"status": "ok",
+"primary": "healthy",
+"conf": 88,
+"diag": [
+"healthy"
+]
+},
+"439": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 85,
+"diag": [
+"stem_rust"
+]
+},
+"1171": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 97,
+"diag": [
+"powdery_mildew"
+]
+},
+"1993": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"778": {
+"status": "ok",
+"primary": "healthy",
+"conf": 86,
+"diag": [
+"healthy"
+]
+},
+"74": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+]
+},
+"1117": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 90,
+"diag": [
+"leaf_rust"
+]
+},
+"1814": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 83,
+"diag": [
+"stem_rust"
+]
+},
+"2279": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"250": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"128": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"1774": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 85,
+"diag": [
+"yellow_rust"
+]
+},
+"1005": {
+"status": "ok",
+"primary": "septoria",
+"conf": 96,
+"diag": [
+"septoria"
+]
+},
+"1074": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"93": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"154": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 82,
+"diag": [
+"stem_rust"
+]
+},
+"932": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 84,
+"diag": [
+"stem_rust"
+]
+},
+"1659": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"2152": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 78,
+"diag": [
+"leaf_rust"
+]
+},
+"276": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 87,
+"diag": [
+"stem_rust"
+]
+},
+"1607": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"157": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"177": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"1629": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 99,
+"diag": [
+"stem_rust"
+]
+},
+"847": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 96,
+"diag": [
+"stem_rust"
+]
+},
+"1187": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"1045": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"775": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 82,
+"diag": [
+"leaf_rust"
+]
+},
+"2014": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 96,
+"diag": [
+"uncertain"
+]
+},
+"2317": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+},
+"501": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 94,
+"diag": [
+"stem_rust"
+]
+},
+"1569": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 88,
+"diag": [
+"stem_rust"
+]
+},
+"1787": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"579": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 91,
+"diag": [
+"stem_rust"
+]
+},
+"481": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"163": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"2353": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"425": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 88,
+"diag": [
+"leaf_rust"
+]
+},
+"832": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 89,
+"diag": [
+"leaf_rust"
+]
+},
+"1122": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 97,
+"diag": [
+"stem_rust"
+]
+},
+"46": {
+"status": "ok",
+"primary": "septoria",
+"conf": 88,
+"diag": [
+"septoria"
+]
+},
+"739": {
+"status": "ok",
+"primary": "yellow_rust",
+"conf": 80,
+"diag": [
+"yellow_rust"
+]
+},
+"1172": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 93,
+"diag": [
+"stem_rust"
+]
+},
+"1496": {
+"status": "ok",
+"primary": "septoria",
+"conf": 87,
+"diag": [
+"septoria"
+]
+},
+"1479": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"2308": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 78,
+"diag": [
+"stem_rust"
+]
+},
+"722": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 96,
+"diag": [
+"leaf_rust"
+]
+},
+"2294": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 90,
+"diag": [
+"stem_rust"
+]
+},
+"526": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 86,
+"diag": [
+"stem_rust"
+]
+},
+"104": {
+"status": "ok",
+"primary": "uncertain",
+"conf": 79,
+"diag": [
+"uncertain"
+]
+},
+"402": {
+"status": "ok",
+"primary": "stem_rust",
+"conf": 95,
+"diag": [
+"stem_rust"
+]
+},
+"43": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 97,
+"diag": [
+"leaf_rust"
+]
+},
+"2181": {
+"status": "ok",
+"primary": "powdery_mildew",
+"conf": 93,
+"diag": [
+"powdery_mildew"
+]
+},
+"1219": {
+"status": "ok",
+"primary": "leaf_rust",
+"conf": 94,
+"diag": [
+"leaf_rust"
+]
+}
+}

@@ -1,0 +1,11 @@
+﻿Date,Step,Data role
+29 Sep 2026,Prompt of G61 fixed,Development
+7 Oct 2026,"Protocol: data roles, three source folds, metrics and primary criteria written",Development
+7 Oct 2026,First rule version (rust type released on L–G61 agreement) fails the 5 % error target in nested cross-validation,Development
+7 Oct 2026,MLLM-free variant applied to IARI laboratory images (852 detached leaves): no automatic answers; not analysed further,Earlier internal collection
+7 Oct 2026,Rule revised (optional rust-type level; then agreement gates); final rule and α = 0.05 selection fixed on EVAL450; configuration frozen,Development
+7 Oct 2026,iNat rules fixed before download and inference; iNat evaluated once,External (prespecified)
+7 Oct 2026,ETS rules and primary hypothesis (retrieval augmentation) fixed before inference,External (prespecified)
+8 Oct 2026,ETS evaluated once,External (prespecified)
+8 Oct 2026,ETS2 rules and hypotheses H1–H3 fixed before download and inference; ETS2 evaluated once,External (prespecified)
+8 Oct 2026,"Learned arbiters, knowledge-rule arbiter and K-shot selection: rules written before computation, on already examined data",Retrospective

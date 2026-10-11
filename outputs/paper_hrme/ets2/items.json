@@ -1,0 +1,1442 @@
+[
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000421.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8145262002944946
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000434.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.845474362373352
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000175.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8035923838615417
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000356.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8111221194267273
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000426.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8016011714935303
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000186.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7921246290206909
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000242.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7933646440505981
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000442.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8077206015586853
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000082.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8291012048721313
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000086.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8164741396903992
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000108.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8141480684280396
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000115.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7429449558258057
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000398.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8160606622695923
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000087.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7759717702865601
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000362.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8279668092727661
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000368.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8195849657058716
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000338.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7847316265106201
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000049.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8493767380714417
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000212.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8061156272888184
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000154.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8321443200111389
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000438.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8394558429718018
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000428.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7754302024841309
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000135.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7185139060020447
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000427.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8347931504249573
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000332.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.755453884601593
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000094.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.779493510723114
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000393.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7943065166473389
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000297.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.781694233417511
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000100.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8141473531723022
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000397.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7984815239906311
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000151.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8259757161140442
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000005.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7725595831871033
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000146.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7024195194244385
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000292.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8147228956222534
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000218.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8043293356895447
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000388.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8056277632713318
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000170.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8607537746429443
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000382.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8052089810371399
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000351.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7802923321723938
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000419.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8256533145904541
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000350.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8595632314682007
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000219.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7946721315383911
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000281.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7958486080169678
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000156.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8278257846832275
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000385.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7716442942619324
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\WheatLeaf 0000126.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8176817297935486
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000339.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7954061627388
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000261.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8250523209571838
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000367.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7676831483840942
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000107.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8281289339065552
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000123.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7882370352745056
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000361.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8419249057769775
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000418.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8109477162361145
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000029.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8348835706710815
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000196.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8029512763023376
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000044.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8089239001274109
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000048.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8200563788414001
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000093.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8045269846916199
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000433.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.8215709328651428
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\WheatLeaf 0000373.jpg",
+"label": "healthy",
+"source": "henan_field_2023",
+"max_local_cos": 0.7514035105705261
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000030.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.711564302444458
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000589.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.5884857177734375
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000488.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8339540958404541
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000431.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8208935260772705
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000565.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8203170299530029
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000415.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7466443777084351
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000298.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7909152507781982
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000393.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7700174450874329
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000388.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.76166832447052
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000222.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.780414342880249
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\LeafRust 0000452.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.6251232028007507
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000085.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7324403524398804
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000414.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7753843069076538
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000323.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7896015048027039
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000404.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8220071792602539
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000290.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7911494374275208
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000539.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7978485226631165
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000631.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7857071161270142
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000467.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8428575396537781
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000114.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7756298184394836
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000582.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7724766731262207
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000556.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8105298280715942
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000465.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7827053666114807
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000461.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.700061559677124
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000579.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7535698413848877
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000120.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.737861156463623
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000614.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7713513374328613
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000453.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7391048073768616
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000555.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8394670486450195
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000013.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8260728716850281
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000295.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7895020246505737
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000204.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7371688485145569
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000535.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.804990291595459
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000191.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8061164021492004
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000142.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7792068719863892
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000509.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7926051020622253
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000498.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7992433905601501
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000268.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8228133916854858
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000428.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.5666518807411194
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000548.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8097461462020874
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\LeafRust 0000246.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7513644695281982
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000507.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7684158682823181
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000138.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7350358366966248
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000456.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8102710247039795
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000611.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7913967370986938
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000517.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8021528124809265
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000080.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8071733117103577
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000010.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8078436851501465
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000148.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7404897212982178
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000563.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.813947319984436
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000527.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8038930296897888
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000483.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7200116515159607
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000115.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7126411199569702
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000429.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8111777901649475
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000442.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8269414305686951
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000133.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7978115677833557
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000061.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8404408097267151
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\LeafRust 0000617.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.770929753780365
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000238.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7821877598762512
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000494.jpg",
+"label": "leaf_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.757841944694519
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000061.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8178899884223938
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000124.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7739400267601013
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_304.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8277373313903809
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_316.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8481932878494263
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000028.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8031643629074097
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000071.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7629181146621704
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_391.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.820435643196106
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_369.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7997606992721558
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000219.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8516004085540771
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_335.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7666480541229248
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_343.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8291639685630798
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000003.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.858518660068512
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000282.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8219325542449951
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000047.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8621957898139954
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000008.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7929275631904602
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_326.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8504965305328369
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_373.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8142160773277283
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_390.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8477922081947327
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery_336.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8420699834823608
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_338.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8144480586051941
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\WheatLeaf 0000047.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8365852236747742
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000078.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8656394481658936
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000173.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8216034173965454
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery_360.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8416917324066162
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_331.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7775541543960571
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000052.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8420652151107788
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_333.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.870016872882843
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000242.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8048425912857056
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery_396.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8687585592269897
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_381.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7457904815673828
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_387.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7501519322395325
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000053.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8000405430793762
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000273.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8266341686248779
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_315.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7566801905632019
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000286.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8333554863929749
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_368.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8068546652793884
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000212.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8314794301986694
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000005.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7743739485740662
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000069.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7613837718963623
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_324.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8486562967300415
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\Powdery 0000271.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7835872173309326
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_303.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8100836277008057
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_389.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8231735229492188
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000073.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8346452116966248
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000210.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8011308312416077
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000278.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7965754866600037
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000145.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8461287617683411
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_330.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8554896712303162
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000272.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8311364054679871
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_321.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8475385904312134
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\Powdery 0000287.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8387174010276794
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_388.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8488717079162598
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000142.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8517712354660034
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_377.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8607913255691528
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_305.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8131234049797058
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_313.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8298251628875732
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000010.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.8051891922950745
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_393.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.836790919303894
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery 0000277.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7908504605293274
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\Powdery_312.jpg",
+"label": "powdery_mildew",
+"source": "henan_field_2023",
+"max_local_cos": 0.7830356359481812
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000242.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.861640989780426
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000232.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8583114147186279
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000041.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.79146409034729
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000118.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.858287513256073
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000254.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7553246021270752
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000180.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7678373456001282
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000190.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8528277277946472
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000170.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7864617109298706
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000014.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8254885673522949
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000410.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7929050922393799
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000262.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8526007533073425
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000324.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7964113354682922
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000119.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8348457217216492
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000378.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8123772144317627
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000174.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7611928582191467
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000354.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7833042740821838
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000164.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7626242637634277
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000333.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7866459488868713
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000092.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7828584313392639
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000406.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7909039855003357
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\LeafRust 0000519.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7705077528953552
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000207.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8041403889656067
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000384.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7905433177947998
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000069.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8347748517990112
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000372.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8485307693481445
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000188.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8122571706771851
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000165.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8294174671173096
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000331.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7899971604347229
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000211.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8453331589698792
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000070.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8980134725570679
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000225.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8216750621795654
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000067.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8284012675285339
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000154.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8244176506996155
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000054.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.784812867641449
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000200.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7862563729286194
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000265.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8041746616363525
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000413.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8389299511909485
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000283.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7672587633132935
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000423.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.810434103012085
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000355.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7587181925773621
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000123.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8358712196350098
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000003.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8517380952835083
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000307.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8455073833465576
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000395.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8499176502227783
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000140.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7904123663902283
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\test\\StripeRust 0000185.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8109660148620605
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000269.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.820410430431366
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000113.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.6558013558387756
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000226.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8237133622169495
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000335.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7472876906394958
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000059.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8003038167953491
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000430.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8565371632575989
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000403.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7218953967094421
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\valid\\StripeRust 0000039.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8082180023193359
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000235.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8673492074012756
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000285.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.795198380947113
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000270.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.7960803508758545
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000077.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8038808703422546
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000388.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8008897304534912
+},
+{
+"file": "<DATA_ROOT>/WheatLabelLearning\\data\\staging\\zenodo_15621359\\extracted\\xiaomai\\images\\train\\StripeRust 0000028.jpg",
+"label": "yellow_rust",
+"source": "henan_field_2023",
+"max_local_cos": 0.8134135007858276
+}
+]

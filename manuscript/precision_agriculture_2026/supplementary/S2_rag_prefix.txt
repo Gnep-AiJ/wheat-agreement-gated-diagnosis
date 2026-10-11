@@ -1,0 +1,7 @@
+REFERENCE CASES: Before the photo to diagnose, you are shown {n} labelled reference photos of wheat from other collections,
+retrieved because they look similar. In order, their confirmed labels are:
+{lst}
+Use them as a visual atlas: compare the query's lesion colour, shape, arrangement and organ with each reference class.
+References may come from different cameras/sites than the query; judge by disease symptoms, not by background or image style.
+The query photo follows the references (first its overview, then optional zoomed tiles).
+
